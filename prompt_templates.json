@@ -1,0 +1,41 @@
+
+{
+"prompt_templates": [
+    "",
+    "This is a sound of ",
+    "This is an audio of ",
+    "I can hear ",
+    "This is ",
+    "An audio of ",
+    "A sound of ",
+    "A recording of ",
+    "An audio recording of ",
+    "A sound recording of ",
+    "Audio of ",
+    "Sound of ",
+    "Recording of ",
+    "Audio recording of ",
+    "Sound recording of ",
+    "An audio clip of ",
+    "A sound clip of ",
+    "This is an audio clip of ",
+    "This is a sound clip of ",
+    "An audio track of ",
+    "A sound track of ",
+    "This is an audio track of ",
+    "This is a sound track of ",
+    "Hear the sound of ",
+    "Hear an audio of ",
+    "Listen to ",
+    "Listen to the sound of ",
+    "Listen to an audio of ",
+    "Listen to a recording of ",
+    "Listen to an audio recording of ",
+    "Listen to a sound recording of ",
+    "This is an example of ",
+    "An audio snippet of ",
+    "A sound snippet of "
+]
+
+}
+
