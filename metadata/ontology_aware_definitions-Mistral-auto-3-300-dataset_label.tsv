@@ -1,0 +1,961 @@
+label	definition
+Conversation	A natural human interaction characterized by spoken language and nonverbal cues, often involving multiple speakers and occurring in a social setting.
+glass_breaking	The sharp, cracking sound produced by breaking glass, often accompanied by a tinkling or chiming sound, classified under man-made sounds.
+announcement	The clear, authoritative voice that announces or informs, often with a distinct tone or cadence, categorized as human speech sounds.
+thunderstorm	The loud, rumbling sound produced by lightning strikes, often accompanied by crackling or booming noises, classified under atmospheric phenomena.
+Fireworks	The loud, explosive sounds produced by the ignition of gunpowder, often accompanied by bright flashes of light, classified under man-made sounds.
+Keyboard_(musical)	The sounds produced by the keys of a musical keyboard, characterized by their distinct pitches and timbres, classified under musical instruments.
+Other identifiable sounds	The sounds that do not fit into any of the previously defined categories, often characterized by their unique acoustic properties and context, classified under miscellaneous sounds.
+Screech	A high-pitched, piercing sound often produced by metal on metal or other hard surfaces, classified under mechanical sounds.
+Respiratory_sounds	The sounds produced by the respiratory system, including breathing, coughing, and sneezing, classified under human vocalizations or physiological sounds.
+Traffic_noise_and_roadway_noise	The complex mixture of sounds produced by vehicles, pedestrians, and other activities on roads and highways, often characterized by their intensity, rhythm, and pitch, belonging to the category of urban sounds.
+truck/engine_accelerating	The loud, rumbling sound produced by the acceleration of a truck or heavy vehicle engine, often accompanied by the sound of shifting gears or brakes, classified under transportation-related sounds.
+Musical instrument	The unique sound produced by a musical instrument, often characterized by its timbre, pitch, and rhythm, belonging to the category of musical sounds.
+Wild_animals	The vocalizations and sounds produced by wild animals, often characterized by distinct patterns, pitches, and rhythms, belonging to the category of natural environmental sounds.
+Train	The continuous, rhythmic sound produced by the wheels of a train moving on tracks, often accompanied by braking or whistling sounds, classified under transportation-related sounds.
+Dishes, pots, and pans	The clanging and clattering sounds produced by metal dishes, pots, and pans being struck or scraped against each other, typically associated with kitchen or culinary sounds.
+Cymbal	A metallic percussion instrument with a flat, circular shape, producing a sharp, resonant sound when struck.
+small-medium-rotating-saw	A mechanical saw with a small to medium blade that rotates rapidly, producing a high-pitched, whirring sound.
+Mobile music	A type of music that is played on mobile devices, often characterized by its portability and accessibility.
+Accelerating, revving, vroom	The sound of an engine accelerating, characterized by a rising pitch and rhythmic revving noise, often associated with vehicles.
+Disco	The lively, upbeat music and sounds commonly associated with disco music, characterized by a strong beat, synthesized instruments, and a wide range of frequencies.
+Clapping	The sharp, percussive sound produced by the rapid movement of hands together, often used as a form of applause or to signal attention, categorized as human activities or gestures.
+rock-drill	The loud, vibrating sound produced by a rock drill, typically used for breaking or excavating rock.
+Bass_guitar	The deep, resonant sound produced by a bass guitar, often used as a rhythmic or harmonic foundation in music.
+Female_speech_and_woman_speaking	The vocalizations produced by a female speaker, characterized by distinct pitch, tone, and rhythm, often used for communication or expressing emotions.
+Vacuum cleaner	The sound produced by a vacuum cleaner, characterized by its suction and movement, often used for cleaning floors and carpets.
+Traffic noise, roadway noise	The continuous, loud noise produced by vehicles and other traffic-related sounds on a roadway, often characterized by its intensity and white noise-like qualities, classified under urban sounds.
+Folk music	Traditional music of a particular region or people, often characterized by its distinctive melodies, rhythms, and instruments, belonging to the category of cultural sounds.
+Cricket	The continuous, rhythmic sound produced by the collision of a cricket ball and bat, often accompanied by the chirping of crickets, classified under sports-related sounds.
+Air horn, truck horn	A loud, high-pitched sound produced by a horn used in vehicles, often used for warning or signaling purposes, classified under transportation-related sounds.
+Aircraft engine	The continuous, rhythmic sound produced by the engines of an aircraft, characterized by its intensity and white noise-like qualities, belonging to the category of transportation-related sounds.
+Plastic crinkling	The crisp, crackling sound produced by the movement or deformation of plastic materials, often associated with packaging or waste disposal, categorized as man-made sounds.
+Bass_drum	A deep, resonant percussion instrument with a distinctive, booming sound, often used in rock and electronic music.
+Motorcycle	The continuous, rhythmic sound produced by the engine of a motorcycle, characterized by its intensity and vibration, belonging to the category of transportation-related sounds.
+car-horn	The loud, piercing sound produced by the horn of a car, typically used to signal danger or warning, and classified under transportation-related sounds.
+Music for children	The melodious and rhythmic sounds produced for children, often featuring simple and repetitive patterns, and typically classified under the category of music for children.
+Music	The melodious and rhythmic sounds produced for human enjoyment or cultural expression, often featuring complex patterns and harmonies, and typically classified under the category of music.
+Vehicle horn, car horn, honking, toot	The loud, high-pitched sound produced by a vehicle's horn, often used to signal danger or attract attention, and typically classified under the category of transportation-related sounds.
+Whistling	The high-pitched, rhythmic vocalizations produced by humans, often used for communication or signaling.
+Cat	The meowing, purring, or other vocalizations produced by a cat, often characterized by their soft, melodic tones and distinctive rhythm.
+Amplified speech	The amplified vocalizations produced by a microphone or speaker, often used for public address or broadcasting, belonging to the category of human-generated sounds.
+car/engine_accelerating	The sound of a car engine accelerating, characterized by a rising pitch and increasing intensity, often accompanied by a rumbling or roaring noise.
+Insect	The buzzing or chirping sounds produced by insects, often characterized by their high-pitched, rapid, and rhythmic nature, belonging to the category of natural environmental sounds.
+Wind	The howling or whistling sounds produced by wind, often characterized by their high-pitched, sustained, and oscillating nature, belonging to the category of natural environmental sounds.
+clock_tick	A short, sharp sound produced by a clock, often characterized by its regular rhythm and pitch, belonging to the category of man-made sounds.
+Children shouting	The loud, high-pitched vocalizations produced by children, often characterized by their repetitive and joyful nature, categorized as human vocalizations or social sounds.
+Dog barking	The loud, high-pitched vocalizations produced by dogs, often characterized by their distinct patterns and variations in pitch and intensity, classified under animal vocalizations.
+Ambulance (siren)	A high-pitched, wailing sound produced by the siren of an ambulance, often used to signal its approach or to alert people of an emergency.
+Light engine (high frequency)	A high-pitched, continuous sound produced by the engine of a light aircraft or helicopter, often used for communication or navigation.
+Printer	A rhythmic, mechanical sound produced by the movement of paper and ink cartridges in a printer, often accompanied by a paper feed sound and a low hum.
+Crying, sobbing	The emotional vocalizations produced by humans, characterized by high-pitched, sobbing sounds, often accompanied by tears and expressing sadness or grief, belonging to the category of human vocalizations or emotional expressions.
+Gull, seagull	The melodious, high-pitched vocalizations produced by gulls, often characterized by distinct patterns and rhythms, belonging to the category of natural environmental sounds.
+door_wood_knock	The rhythmic, percussive sound produced by the impact of a person's hand on a wooden door, often accompanied by a metallic clangor, categorized as human activities or movement sounds.
+children_voices	The high-pitched, melodious vocalizations produced by children, often characterized by their playful and innocent tone, belonging to the category of human vocalizations.
+Biting	The sharp, sudden sound produced by the contact of two hard objects, such as teeth or nails, biting into something, classified under mechanical sounds.
+A capella	The unaccompanied vocal music performed by a group of singers, characterized by its rich harmonies and intricate vocal arrangements, belonging to the category of vocal music.
+Bicycle, tricycle	A two- or three-wheeled vehicle designed for human transportation, characterized by its distinctive metallic frame and pedal-driven wheels, producing a rhythmic, steady sound when in motion.
+Sheep	The soft, low-pitched bleating produced by sheep, often characterized by its rhythmic, repetitive nature, belonging to the category of animal vocalizations.
+babycry	The high-pitched, emotional vocalizations produced by infants, often characterized by their rhythmic, sobbing-like quality, belonging to the category of human vocalizations.
+Packing tape, duct tape	The adhesive, flexible strips of tape used for sealing boxes, securing items, or creating makeshift repairs, classified under household or utility sounds.
+Exhaust brake	The loud, sharp sound produced by the brakes of a vehicle when it comes to a sudden stop or change in direction, categorized under transportation-related sounds.
+Car passing by	The sound of a car moving past, characterized by its engine noise and tire screeching, belonging to the category of transportation-related sounds.
+Ska	A genre of popular music characterized by its lively, upbeat rhythm and distinctive brass section sounds, often associated with Jamaican and British culture.
+Country	A genre of popular music originating from the Southern United States, characterized by its acoustic instruments, simple song structures, and storytelling lyrics, often associated with rural or cowboy culture.
+Children playing	The joyful and energetic sounds produced by children playing games, toys, or instruments, often characterized by laughter, shouts, and clapping.
+Car horn	The loud, sharp sound produced by a car horn, typically used to signal danger, warning, or attention, classified under transportation-related sounds.
+Background music	The soft, continuous sound produced by music playing in the background, often used to set a mood or atmosphere, categorized under ambient sounds.
+Chicken_and_rooster	The distinct vocalizations produced by chickens and roosters, characterized by their rhythmic, clucking, and crowing sounds, belonging to the category of animal vocalizations.
+Battle cry	The loud, intense vocalizations produced by humans during battles or conflicts, often used to signal aggression or rally troops, classified under human vocalizations or military sounds.
+Fire	The crackling, hissing, and popping sounds produced by burning materials, often accompanied by visual flames and heat, categorized under natural environmental sounds or fire-related sounds.
+Chewing, mastication	The rhythmic sounds produced by the movement of teeth and tongue while eating, characterized by distinct patterns and pitches, belonging to the category of human activities or food-related sounds.
+Crash_cymbal	The sharp, metallic sound produced by the collision of two cymbals, often used in music and percussion, classified under musical instruments or percussion sounds.
+Race car, auto racing	The loud, high-pitched sounds produced by the engine and tires of a race car during competition, characterized by their intensity and speed, classified under transportation-related sounds.
+children shouting	The high-pitched, rhythmic vocalizations produced by children, often characterized by their playful and energetic nature, belonging to the category of human vocalizations.
+Classical music	The complex, harmonious melodies and rhythms produced by orchestras or solo musicians, often characterized by their use of traditional instruments and forms, classified under the category of music.
+Cattle, bovinae	The low-frequency, mooing sounds produced by cows, often characterized by their distinctive timbre and rhythm, belonging to the category of animal sounds.
+Sliding door	A metallic sound produced by the movement of a sliding door, characterized by a smooth, continuous glide and occasional clicks or scrapes.
+Trumpet	A bright, piercing sound produced by blowing air through a cup-shaped mouthpiece, often associated with fanfares, fanfare-like music, or trumpet solos.
+Electric guitar	A sharp, twangy sound produced by the vibration of strings when an electric guitar is played, characterized by a rich, resonant tone and occasional feedback or distortion.
+Subway, metro, underground	The continuous, rhythmic sound produced by trains moving through underground tunnels, characterized by its intensity and reverberation, belonging to the category of transportation-related sounds.
+Skateboard	The sharp, high-pitched sound produced by the wheels of a skateboard grinding against a surface, often accompanied by the occasional pop or crackle sound, categorized as human activities or movement sounds.
+Liquid	The sound produced by the movement of liquid, characterized by its fluidity and flow, often associated with water or other liquids, belonging to the category of natural environmental sounds.
+Hose pump	A mechanical device used to pump water through a hose, characterized by a rhythmic, pulsating sound with a moderate pitch and intensity.
+Sigh	A deep, audible exhalation of air through the nose or mouth, often accompanied by a slight vibration of the vocal cords, expressing a sense of disappointment, frustration, or longing.
+Heavy engine (low frequency)	A large, powerful engine with a low frequency sound, often characterized by a deep rumble or growl, commonly found in heavy machinery, vehicles, or aircraft.
+metro approaching	The sound of a train approaching a station, characterized by its rhythmic, metallic clanging and screeching noises, belonging to the category of transportation-related sounds.
+Hands	The sound of human hands clapping, characterized by its sharp, percussive rhythm and varying intensity, categorized as human activities or movement sounds.
+Snare drum	The sharp, cracking sound produced by a snare drum, often used in percussion music, characterized by its distinct pitch and rhythm, belonging to the category of musical instruments.
+Keys_jangling	The metallic clinking sound produced by keys as they are turned or moved, often associated with doors or locks.
+Electric toothbrush	The vibrating, humming sound produced by an electric toothbrush, characterized by its intensity and rhythm, used for oral hygiene.
+Rain	The continuous, pattering sound of raindrops hitting various surfaces, often accompanied by splashing or gurgling noises, classified under natural environmental sounds.
+motorbike	A two-wheeled vehicle powered by an internal combustion engine, characterized by its distinctive revving sound and vibrations.
+Bathtub_(filling_or_washing)	A large tub used for bathing, typically filled with water and featuring a faucet for filling or draining.
+Train whistle	The loud, penetrating sound produced by the steam or air whistle of a train, typically signaling its approach or departure.
+birds_singing	The melodious vocalizations produced by birds, often characterized by distinct patterns, pitches, and rhythms, belonging to the category of natural environmental sounds.
+sneezing	The sudden, sharp sound produced by the forceful expulsion of air from the nose, classified under human respiratory sounds.
+Television	The continuous, electronic sound produced by a television set, often characterized by its background noise and occasional audio effects, classified under electronic devices.
+Inside, small room	The sounds produced within a small, enclosed space, often characterized by reverberation and echo.
+Police car (siren)	The loud, oscillating wail produced by a police car siren, often used to signal its presence or alert.
+Bluegrass	The distinctive, lively, and acoustic style of music originating from the Appalachian region of the United States, characterized by its use of instruments such as the banjo, fiddle, and guitar, and its emphasis on improvisation and storytelling.
+Livestock, farm animals, working animals	The sounds produced by domesticated animals used for agriculture, transportation, or labor, often characterized by their distinct vocalizations and movement sounds.
+Bird flight, flapping wings	The rhythmic, flapping motion of bird wings during flight, often accompanied by the sound of air rushing past them.
+Sink_(filling_or_washing)	The sound of water filling or washing a sink, characterized by its rhythmic splashing and gurgling, often accompanied by the sound of water flowing in and out of the sink.
+Glass	The sound of breaking or shattering glass, characterized by its sharp, crackling, and tinkling noises, often accompanied by the sound of shards rattling or clinking together.
+Busy signal	The sound of a busy signal, characterized by its high-pitched, pulsating, and repetitive tones, often accompanied by the sound of a computer or phone beeping or ringing.
+Jackhammer	A loud, percussive sound produced by a construction tool used for breaking concrete or other hard materials, classified under construction-related sounds.
+Microwave oven	The beeping sound produced by a microwave oven when it is in use, often accompanied by a humming noise, classified under kitchen appliances.
+laughing	The light, high-pitched laughter often characterized by short, repeated bursts of sound, falling under human vocalizations or emotional expressions.
+large_vehicle	The loud, rumbling sound produced by a large vehicle, such as a truck or bus, often accompanied by vibrations and engine noise, classified under transportation-related sounds.
+air_conditioner	The continuous, rhythmic sound produced by an air conditioner, characterized by a low hum and occasional clicking or whirring noises, categorized under household appliances.
+Male_speech_and_man_speaking	The vocalizations produced by a male human, often characterized by distinct pitch, tone, and rhythm, belonging to the category of human speech sounds.
+Toothbrush	The sound produced by the bristles of a toothbrush as they are moved against teeth and gums, often characterized by a soft, brushing sound, categorized as household sounds.
+Pump (liquid)	The continuous, rhythmic sound produced by a pump as it moves liquid through a pipe or container, often characterized by a steady, pulsing sound, classified under machinery-related sounds.
+Car_passing_by	The sound of a car engine and tires rolling on a road, often characterized by its rhythm and intensity, belonging to the category of transportation-related sounds.
+Blender	The whirring sound produced by a blender while blending ingredients, often characterized by its high-pitched, rhythmic noise.
+Speech	The vocalizations produced by humans for communication, characterized by their distinct patterns, pitches, and rhythms.
+Domestic sounds, home sounds	The various sounds produced within a home environment, including footsteps, appliances, and human activities, often characterized by their familiarity and repetition.
+glass jingling	The metallic, tinkling sound produced by the collision of glass surfaces, often used as a signal or indicator.
+Animal	A class of audio events and sounds produced by living organisms, including vocalizations, movements, and other behaviors.
+other-unknown-powered-saw	An audio event and sound produced by an unknown, powered saw, characterized by its high-pitched, whirring noise and rapid, rhythmic vibrations.
+engine_idling	The steady, low-pitched hum produced by an engine when it is running at a low speed, often associated with idling or warming up.
+Boat, Water vehicle	A watercraft designed for transportation or recreation on water, characterized by its buoyancy, hull, and propulsion system, often producing distinctive sounds such as splashing, lapping, or creaking.
+Frying	The sizzling sound produced by food cooking in a pan or pot, characterized by rapid, popping noises, often associated with kitchen or culinary sounds.
+Bee, wasp, etc.	The buzzing or humming sound produced by bees, wasps, and other flying insects, characterized by their rapid, rhythmic wing movements, often associated with natural environmental sounds.
+Crowd	A large group of people making collective vocalizations, often characterized by overlapping voices and a lack of individual distinctiveness, belonging to the category of social sounds.
+Breaking	The sharp, cracking sound produced by the impact of a hard object on a surface, often accompanied by a short, high-pitched echo, classified under mechanical sounds.
+Silence	The absence of audible sound, characterized by a complete lack of acoustic activity, belonging to the category of environmental sounds.
+Air brake	The sound produced by the braking system of a vehicle, characterized by a sharp, high-pitched screeching noise, often accompanied by a hissing or whistling sound, belonging to the category of transportation-related sounds.
+Motor_vehicle_(road)	The continuous, rhythmic sounds produced by the engine and transmission of a vehicle moving on a road, characterized by their intensity and white noise-like qualities, belonging to the category of transportation-related sounds.
+truck/compressor	The sound produced by the compression of air in a truck's engine, characterized by a high-pitched whistle or hiss, often accompanied by a rumbling or clattering noise, belonging to the category of transportation-related sounds.
+Large rotating saw	A large, rotating saw with a blade used for cutting through wood or other materials, producing a loud, rhythmic sound with a distinct pitch and vibration.
+Chainsaw	The loud, buzzing sound produced by a chainsaw with a rotating blade, used for cutting through wood or other materials, characterized by its rhythmic pattern and high-pitched vibration.
+Drip	A continuous, rhythmic sound produced by the release of liquid from a source, often characterized by its steady, dripping pattern, belonging to the category of natural environmental sounds.
+Soul music	A genre of music originating from African American communities in the United States, characterized by its emotional intensity, expressive vocals, and distinctive rhythmic patterns, classified under music-related sounds.
+Outside, rural or natural	The ambient sounds of nature, such as birdsong, rustling leaves, and flowing water, often characterized by their softness and sparsity.
+Church_bell	The sonorous tolling of a church bell, typically ringing every hour or on special occasions, classified under religious or cultural sounds.
+Cutlery_and_silverware	The clinking and clattering sounds produced by cutlery and silverware while being used for eating or serving food, categorized as kitchen or culinary sounds.
+chirping_birds	The melodious vocalizations produced by birds, often characterized by distinct patterns, pitches, and rhythms, belonging to the category of natural environmental sounds.
+Civil defense siren	The loud, continuous sound produced by a siren used for warning or alerting purposes, classified under emergency sounds.
+Human_group_actions	The rhythmic sounds made by the impact of feet on a surface while walking or running in a group, varying in speed, intensity, and pattern, categorized as human activities or movement sounds.
+Rhythm and blues	A genre of music characterized by its distinctive rhythm, bluesy vocals, and improvisation, often associated with African American culture.
+Electric_guitar	A stringed musical instrument played with an electric pickup, producing a rich, resonant sound often used in rock, blues, and jazz music.
+Non-machinery impact	A type of sound produced by the impact of an object on a surface that is not typically associated with machinery, such as a car hitting a pothole or a bird striking a window.
+Car	A mechanical vehicle designed for transportation, characterized by its engine noise and metallic scraping sounds.
+wind_blowing	The continuous, whistling sound produced by wind blowing through objects, often characterized by its intensity and white noise-like qualities, belonging to the category of natural environmental sounds.
+Child_speech_and_kid_speaking	The high-pitched, melodious vocalizations produced by children, often characterized by their distinct patterns, pitches, and rhythms, falling under the category of human vocalizations or emotional expressions.
+Slam	A loud, sharp sound produced by a heavy object hitting a hard surface, often accompanied by a reverberation effect, classified under impact sounds.
+Bicycle_bell	A metallic ringing sound produced by a bicycle bell, typically used to signal the rider's presence or to warn others of their approach, categorized under transportation-related sounds.
+Effects unit	An electronic device used to generate and manipulate sound effects, often used in music production or sound design, classified under audio processing equipment.
+footsteps	The rhythmic sounds made by the impact of feet on a surface while walking or running, varying in speed, intensity, and pattern, categorized as human activities or movement sounds.
+Boiling	The sizzling sound produced by food cooking, characterized by rapid, popping noises, typically associated with kitchen or culinary sounds.
+Harmonica	The melodic sound produced by blowing air through a metal tube with slits, creating a unique, resonant tone, classified under musical instruments.
+Computer keyboard	A mechanical device used for inputting text and numbers into a computer, characterized by the distinct clicking sound produced by each key press.
+Keys jangling	The metallic clinking sound produced by keys as they are moved or manipulated, often associated with doors or drawers.
+Bell	The ringing sound produced by a metal object being struck or vibrated, often used to signal time or other events.
+Gear	The grinding or whirring sound produced by the movement of teeth or other mechanical components, often associated with machinery or vehicles.
+Frying_(food)	The sizzling sound produced by food cooking, characterized by rapid, popping noises, typically associated with kitchen or culinary sounds.
+sea_waves	The continuous, rhythmic sounds produced by the movement of water in the ocean, characterized by their pitch, intensity, and pattern, belonging to the category of natural environmental sounds.
+Large crowd	The collective sounds produced by a large group of people, characterized by their volume, rhythm, and variety, often associated with social or cultural events.
+Whoosh, swoosh, swish	A continuous, rhythmic sound produced by the movement of air or fluid, often characterized by a soft, hissing quality, belonging to the category of natural environmental sounds.
+Drawer open or close	The sound of a drawer opening or closing, characterized by a sharp, metallic clang or a soft, creaking noise, categorized as household sounds.
+Camera	The sound produced by a camera, often characterized by a clicking or shuttering noise, belonging to the category of electronic devices and appliances.
+Water_tap_and_faucet	The sound of water flowing from a tap or faucet, characterized by its steady, rhythmic pattern and low volume, classified under household appliances.
+Telephone	The sound of a telephone ringing or a voice on the phone, characterized by its high-pitched, metallic quality and often associated with communication sounds.
+Medium engine	The sound of a medium-sized engine, characterized by its steady, rumbling pattern and often associated with transportation sounds.
+bus/engine_idling	The steady, low-pitched hum produced by the engine of a bus, often accompanied by vibrations and rattles, classified under transportation-related sounds.
+Telephone bell ringing	The sharp, metallic sound produced by the ringing of a telephone bell, often accompanied by a buzzing or clicking noise, categorized under communication-related sounds.
+object impact	The sharp, sudden sound produced by the collision of two objects, often accompanied by a cracking or crunching noise, classified under impact-related sounds.
+Bleat	The high-pitched, repetitive vocalizations produced by sheep, often used for communication or warning of predators, classified under animal vocalizations.
+Motor vehicle (road)	The continuous, rhythmic sounds produced by the movement of vehicles on paved roads, characterized by their intensity and white noise-like qualities, classified under transportation-related sounds.
+motorcycle/wheel_rolling	The distinctive, rhythmic sounds produced by the rotation of motorcycle wheels on pavement, often accompanied by the revving of the engine, classified under transportation-related sounds.
+engine	A mechanical device that produces a continuous, rhythmic sound, often characterized by its pitch and intensity, belonging to the category of man-made sounds.
+Bass guitar	A stringed musical instrument that produces a deep, resonant sound, often characterized by its low frequency and rich tone, classified under musical instruments.
+Raindrop	The individual droplets of water that fall from the sky, often producing a soft, pattering sound when they hit surfaces, categorized under natural environmental sounds.
+Artillery fire	The loud, explosive sounds produced by artillery shells, often characterized by their sharp, crackling noises and reverberating echoes, classified under military-related sounds.
+Chink_and_clink	The metallic sound produced by the collision of two hard surfaces, often characterized by a sharp, short duration and a high-pitched frequency, belonging to the category of man-made sounds.
+Bird_vocalization_and_bird_call_and_bird_song	The complex vocalizations produced by birds, often characterized by distinct patterns, pitches, and rhythms, belonging to the category of natural environmental sounds.
+helicopter	The continuous, whirring sound produced by the rotors of a helicopter, often characterized by its intensity and white noise-like qualities, classified under transportation-related sounds.
+object falling	The sound of an object falling, characterized by its impact and resonance, often accompanied by a sharp, cracking noise.
+Wildfire	The continuous, crackling sound of burning vegetation and debris, often accompanied by hissing and popping noises, classified under natural environmental sounds.
+Chop	The sharp, crackling sound produced by cutting through food or other materials, often accompanied by a hissing or sizzling sound, categorized as kitchen or culinary sounds.
+adults_talking	The conversational speech produced by adults, characterized by varying pitch, tone, and rhythm, often involving complex language and social cues, belonging to the category of human communication sounds.
+Chime	The short, ringing sound produced by a set of metal bars struck together, often used as a signal or notification, classified under man-made sounds.
+Adult male speech	The vocalizations produced by adult males, characterized by distinct pitch, tone, and rhythm, often involving complex language and social cues, belonging to the category of human communication sounds.
+Child singing	The melodious vocalizations produced by a child, often characterized by distinct patterns, pitches, and rhythms, belonging to the category of human vocalizations.
+Domestic animals, pets	The sounds produced by common household animals, such as dogs, cats, and birds, often characterized by their unique vocalizations and behaviors.
+Engine starting	The sound produced by the ignition and combustion of fuel in an engine, typically characterized by a loud, rhythmic noise.
+Belly laugh	The light, high-pitched laughter often characterized by short, repeated bursts of sound, typically associated with humor and joy.
+knocking on door	A rhythmic, sharp sound produced by someone tapping on a door, often accompanied by a creaking or opening sound.
+person-or-small-group-shouting	A loud, high-pitched vocalization produced by one or more people, often characterized by distinct patterns and rhythms, belonging to the category of human communication sounds.
+drawer	The sound produced by a drawer opening or closing, characterized by a soft, metallic clinking or sliding sound, categorized as household sounds.
+Stream	A continuous flow of sound, often characterized by its rhythmic patterns and timbre, belonging to the category of natural environmental sounds.
+Middle Eastern music	A diverse range of musical styles and genres originating from the Middle East, characterized by their unique melodies, rhythms, and instruments, falling under the category of cultural sounds.
+Trickle_and_dribble	The sound of water flowing slowly and continuously, often characterized by its softness and rhythmic pattern, belonging to the category of natural environmental sounds.
+Acoustic_guitar	The stringed musical instrument played by plucking or strumming its strings, producing a rich, resonant sound, categorized under musical instruments.
+Male speech, man speaking	The vocalizations produced by a male human, characterized by distinct pitch, rhythm, and intonation, often used for communication or expression.
+Pop music	A genre of music characterized by its catchy melodies, upbeat tempo, and use of electronic instruments, often associated with youth culture and popular culture.
+washing_machine	The sound produced by a washing machine while it is in operation, characterized by a rhythmic, cyclical pattern of noise and vibration, often associated with household appliances and laundry-related tasks.
+dog_bark	The loud, sharp vocalizations produced by dogs, often characterized by their pitch, rhythm, and intensity, belonging to the category of animal vocalizations.
+Rattle_(instrument)	The metallic, shaking sound produced by an instrument, typically characterized by its intensity and frequency, classified under musical instruments.
+alarm	The loud, piercing sound produced by an alarm system, often used to signal danger or an emergency, categorized under warning or alert sounds.
+Race_car_and_auto_racing	The roaring and screeching sounds produced by high-performance cars during racing, characterized by their speed and intensity, belonging to the category of human activities or sports sounds.
+bus/compressor	The humming and hissing sounds produced by the engine and compressor of a bus, categorized as transportation-related sounds.
+Rail transport	The rumbling and clanking sounds produced by trains moving on rails, characterized by their speed and intensity, classified under transportation-related sounds.
+furniture dragging	The sound of furniture being dragged across a surface, characterized by its friction and movement.
+Alarm clock	The electronic sound produced by an alarm clock, typically a high-pitched, monotonous tone.
+Dog	The barking sound produced by dogs, characterized by its loud, sharp, and varied tones, often used as a communication or warning sound.
+Broadband noise, e.g. household appliances	A continuous, low-frequency sound produced by various household appliances, such as washing machines, dryers, and dishwashers, classified under man-made sounds.
+Video game/TV	The sound produced by video games or TV shows, characterized by its dynamic range, sound effects, and music, classified under entertainment sounds.
+other-unknown-impact-machinery	A sound produced by an unknown impact-based machinery, characterized by its intensity and rhythm, classified under industrial sounds.
+Church bell	A metallic, resonant sound produced by a large bell, often used to signal the start of a service or event, classified under religious or cultural sounds.
+Washing machine	The rhythmic, mechanical sound produced by a washing machine as it cycles through its various stages, categorized under household appliances or machines.
+Bouncing	The repetitive, high-pitched sound produced by a ball or other object bouncing off a surface, often associated with play or sports, classified under physical activities or movement sounds.
+Fire engine, fire truck (siren)	The loud, piercing sound produced by the siren of a fire engine or fire truck, often used to alert people to a fire or emergency.
+Splash_and_splatter	The sound of water splashing and splattering, often produced by a water source being disturbed or disrupted.
+furniture movement	The sound of furniture being moved or rearranged, often characterized by the scraping or dragging of surfaces against each other.
+Hiss	A high-pitched, continuous sound produced by the rapid movement of air through a narrow opening, often associated with snakes or other slithering creatures.
+other	A sound that does not fit into any of the previously defined categories, often characterized by its uniqueness and lack of clear acoustic properties.
+Engine	The mechanical noise produced by the internal combustion or electric motor of a vehicle or machine, typically characterized by its rhythmic pattern and intensity, classified under transportation-related sounds.
+Throat clearing	A short, high-pitched sound produced by clearing the throat, often used as a prelude to singing or speaking.
+Emergency vehicle	The loud, siren-like sound produced by emergency vehicles, such as ambulances or police cars, often used to signal their presence and urgency.
+Female singing	The melodious vocalizations produced by a female singer, often characterized by distinct pitch, rhythm, and timbre, belonging to the category of human vocalizations.
+coffee machine	A mechanical device used for brewing coffee, producing a rhythmic, hissing sound during operation.
+Meow	The soft, melodic vocalization produced by cats, often used for communication or expressing contentment.
+Traditional music	A genre of music that draws from historical or cultural roots, characterized by distinct melodies, rhythms, and instruments.
+Fill_(with_liquid)	The sound of liquid being poured or filled into a container, characterized by the splashing and sloshing of the liquid.
+Angry music	A genre of music characterized by its loud, fast-paced, and aggressive sound, often associated with strong emotions like anger or frustration.
+Coin_(dropping)	The sound of a coin falling or landing on a hard surface, characterized by its metallic clangor and short duration.
+Typing	The rhythmic, repetitive sounds produced by the impact of fingers on a keyboard while typing, characterized by distinct patterns and pitches, classified as human activities or computer-related sounds.
+water_drops	The continuous, splashing sound of water droplets falling from a height, often characterized by its intensity and white noise-like qualities, belonging to the category of natural environmental sounds.
+Drill	The loud, vibrating sound produced by a drill while boring holes or fastening objects, characterized by its intensity and rhythmic patterns, classified as construction-related sounds.
+walking	The rhythmic sounds made by the impact of feet on a surface while walking or running, varying in speed, intensity, and pattern, categorized as human activities or movement sounds.
+Door	The sound of a door opening or closing, characterized by a distinct click or creak, often accompanied by other sounds such as footsteps or voices, classified as household sounds or objects.
+brushing_teeth	The sound of bristles against teeth and gums while brushing, characterized by a distinct scraping or grinding noise, often accompanied by water or toothpaste, classified as household sounds or activities.
+Babbling	The continuous, incoherent vocalizations produced by a person, often characterized by repetitive syllables and lack of structure, belonging to the category of human communication sounds.
+Vocal music	The melodic and rhythmic sounds produced by the human voice, often accompanied by musical instruments, belonging to the category of music and sound art.
+Chatter	The casual, informal conversation between two or more people, often characterized by overlapping speech and rapid, rhythmic exchanges of sound, categorized as human communication sounds.
+Chirp_and_tweet	The melodious vocalizations produced by birds, often characterized by distinct patterns, pitches, and rhythms, belonging to the category of natural environmental sounds.
+Chirp tone	The high-pitched, short-duration vocalizations produced by birds, often used for communication or attracting mates, belonging to the category of natural environmental sounds.
+Caw	The loud, sharp, and repetitive vocalizations produced by crows, often used for warning or alerting others, belonging to the category of animal vocalizations.
+water tap running	The continuous, rhythmic sound of water flowing from a faucet, characterized by its steady, pulsating quality, belonging to the category of household sounds.
+Rattle (instrument)	The sharp, metallic sound produced by the vibration of an instrument, often characterized by its high-pitched, staccato quality, classified under percussion instruments.
+Wind chime	The soft, melodic sound produced by the movement of metal or bamboo tubes in the wind, characterized by its gentle, tinkling quality, classified under outdoor or nature-related sounds.
+Splash, splatter	The sound of water splashing or splattering, often characterized by short, sharp bursts of sound, belonging to the category of natural environmental sounds.
+Crash cymbal	The loud, sharp sound produced by striking a cymbal, often used in music or percussion, categorized under musical instruments or sounds.
+Bagpipes	The distinctive, high-pitched sound produced by a bagpipe, characterized by its continuous, pulsating rhythm and unique timbre, classified under musical instruments or sounds.
+smoke extractor	A mechanical device used to remove smoke from the air, characterized by its humming or whirring sound and the occasional sound of suctioning air.
+Bark	The loud, sharp vocalizations produced by dogs, often used for communication or warning, belonging to the category of animal vocalizations.
+Power tool	The loud, high-pitched noise produced by electric or gas-powered tools, such as saws or drills, used for construction or maintenance, classified under machinery-related sounds.
+vacuum cleaner	A mechanical device used for cleaning floors and carpets, characterized by its suctioning and brushing action, often producing a rhythmic, humming sound.
+music-from-uncertain-source	An audio signal containing music that originates from an unknown or unspecified source, often characterized by its ambiguity and lack of clear musical elements.
+microwave	The sound produced by a microwave oven, characterized by its high-pitched, pulsating tone, often used as a warning signal or to indicate cooking progress.
+Reggae	A genre of music characterized by its distinctive rhythm, melody, and lyrics, often featuring a strong bassline and a relaxed, staccato vocal style, belonging to the category of music and soundscapes.
+Speech synthesizer	An electronic device or software program that converts text into spoken words, often used for voice recognition, text-to-speech conversion, or speech synthesis, classified under digital audio processing and communication technologies.
+car/brakes	The sound produced by the braking system of a car, characterized by a sharp, high-pitched screeching or grinding noise, indicating the need for maintenance or replacement, classified under transportation-related sounds.
+Musical_instrument	A device used to produce musical sound, characterized by its unique timbre and resonance, often played by musicians.
+gun_shot	The sharp, explosive sound produced by the discharge of a firearm, characterized by its high-pitched, short duration, and reverberation.
+Human group actions	The collective sounds produced by a group of people engaging in coordinated activities or movements, such as singing, dancing, or clapping, often characterized by their rhythm, tempo, and intensity.
+Laughter	The light, high-pitched laughter often characterized by short, repeated bursts of sound, falling under human vocalizations or emotional expressions.
+Caterwaul	A loud, discordant vocalization produced by a bird, often used as a warning call or to attract mates, classified under avian vocalizations.
+Bird chirping	The melodious vocalizations produced by birds, often characterized by distinct patterns, pitches, and rhythms, belonging to the category of natural environmental sounds.
+Hoe ram	The rhythmic, metallic sound produced by a hoe as it is dragged through the soil, often used for cultivation or gardening.
+drinking_sipping	The sound of liquid being consumed through a straw or mouth, characterized by the rhythmic sucking and swallowing sounds, often associated with drinking coffee or tea.
+Ocean	The continuous, deep, and resonant sound produced by the movement of water in the ocean, often characterized by its low-frequency and ambient qualities, classified under natural environmental sounds.
+Bellow	A deep, resonant sound produced by blowing air through a large instrument, such as a tuba or bassoon, often used in brass band music.
+Fart	A short, sharp sound produced by the expulsion of gas from the rectum, characterized by its high-pitched and brief duration, classified under human bodily sounds.
+pig	The distinctive, low-pitched vocalizations produced by pigs, often characterized by their grunts and snorts, belonging to the category of animal vocalizations.
+cat meowing	The soft, melodic vocalizations produced by cats, often used for communication or expressing emotions, classified under feline vocalizations.
+Bowed_string_instrument	The sound produced by a bowed string instrument, characterized by its rich, resonant tones and vibrato effects, belonging to the category of musical instruments.
+shopping cart	The metallic clanging and rolling sounds produced by a shopping cart as it moves along a surface, often accompanied by the rustling of bags or items inside.
+Burping, eructation	The gurgling or burping sound produced by the expulsion of gas from the stomach, often accompanied by a popping or fizzing noise.
+Choir	The harmonious singing of a group of people, often characterized by distinct voices and melodies, belonging to the category of human vocalizations or musical performances.
+Toilet_flush	The sound of water rushing out of a toilet bowl, characterized by its short duration and high-pitched frequency, belonging to the category of household sounds.
+Rail_transport	The continuous, rhythmic sound produced by the wheels of a train moving on rails, often accompanied by the clacking of the couplings, classified under transportation-related sounds.
+Banjo	The twangy, resonant sound produced by the strings of a banjo, often characterized by its percussive quality and use in folk music, belonging to the category of musical instruments.
+Friction brake	A mechanical device used to slow down or stop the rotation of a wheel or axle, characterized by a screeching or grinding sound.
+Burst, pop	A sudden, explosive sound produced by the release of pressure or energy, often accompanied by a sharp, crackling noise.
+Yell	A loud, high-pitched vocalization produced by the vocal cords, often used for expressing strong emotions or attracting attention.
+crying_baby	The sound of a baby crying, characterized by high-pitched, sobbing vocalizations, often associated with sadness or discomfort.
+snoring	The sound produced by the passage of air through the nose and mouth during sleep, characterized by a low rumbling or snorting noise, often disrupting sleep.
+Boom	A loud, explosive sound often associated with gunfire or fireworks, belonging to the category of explosive sounds.
+church_bells	The ringing sound produced by church bells, typically characterized by its frequency and duration, belonging to the category of religious or cultural sounds.
+Powered saw	The high-pitched, whirring sound produced by a powered saw, often associated with woodworking or construction, belonging to the category of mechanical sounds.
+Subway_and_metro_and_underground	The continuous, rhythmic sounds produced by trains and subways, often characterized by their metallic clanging and rumbling, classified under transportation-related sounds.
+large-crowd	The loud, bustling sounds produced by a large group of people, often characterized by their chatter, laughter, and footsteps, categorized as human activities or social sounds.
+Waves, surf	The rhythmic, crashing sounds produced by ocean waves, often characterized by their pitch and intensity, belonging to the category of natural environmental sounds.
+(object) snapping	The sharp, crackling sound produced by the rapid expansion of air surrounding a lightning bolt, often accompanied by booming or rumbling noises, classified under atmospheric phenomena.
+Goat	The soft, bleating vocalizations produced by goats, often characterized by their distinct pitch and rhythm, categorized under animal vocalizations.
+Waves_and_surf	The continuous, rhythmic sounds produced by waves crashing on the shore, characterized by their intensity and white noise-like qualities, belonging to the category of natural environmental sounds.
+toilet_flush	The sound produced by the flushing of a toilet, characterized by its short duration and distinctive rhythm, categorized as household sounds.
+piano	The rich, resonant sounds produced by the striking of piano keys, characterized by their timbre and dynamic range, classified as musical instruments.
+Glass chink, clink	The sharp, metallic sound produced by the collision of two glass surfaces, often heard when pouring or clinking glasses.
+Wind instrument, woodwind instrument	A musical instrument that produces sound by the vibration of air, typically made of wood or bamboo, and played by blowing air into it.
+Pig	The low, grunting vocalizations produced by pigs, often used for communication or expressing emotions, classified under animal vocalizations.
+barking dog	The loud, rhythmic vocalizations produced by a dog, often characterized by distinct pitch and tone, belonging to the category of animal vocalizations.
+Tick	The short, sharp sound produced by a small insect, often characterized by its high-pitched quality and rapid repetition, classified under insect sounds.
+Water	The continuous, flowing sound of water, often characterized by its intensity and white noise-like qualities, belonging to the category of natural environmental sounds.
+Gunshot_and_gunfire	A sharp, explosive sound produced by the discharge of a firearm, characterized by a short duration and high intensity, classified under man-made sounds.
+Fowl	The vocalizations produced by birds, often characterized by distinct patterns, pitches, and rhythms, belonging to the category of natural environmental sounds.
+Funk	A genre of music characterized by its rhythmic, syncopated beats, often featuring electric instruments and soulful vocals, classified under music-related sounds.
+announcement_speech	A clear, authoritative voice delivering a public or official message, often accompanied by background noise or music.
+Brake	The sharp, metallic sound produced by the friction of brake pads against brake rotors, typically heard when a vehicle is coming to a stop or slowing down.
+Scissors	The cutting sound produced by the blades of scissors as they cut through materials, often accompanied by a snipping or clicking sound.
+Change ringing (campanology)	The melodious pealing of church bells, characterized by distinct patterns and rhythms, belonging to the category of religious and cultural sounds.
+Coin (dropping)	The sharp, metallic sound produced when a coin lands on a hard surface, often accompanied by a slight echo, categorized as everyday sounds.
+traffic_noise	The continuous, low-level noise produced by traffic, characterized by its intensity and white noise-like qualities, classified under urban sounds.
+Finger_snapping	The sharp, rhythmic sound produced by snapping fingers, often used as a percussive element in music or as a signal.
+Mallet_percussion	A percussion instrument that produces sound by striking a set of metal bars with mallets, often used in orchestral and band music to create rhythmic patterns and accents.
+Canidae, dogs, wolves	The howling, barking, and other vocalizations produced by dogs and wolves, classified under mammalian vocalizations.
+crying baby	The high-pitched, wailing vocalizations produced by an infant, often characterized by rapid, rhythmic sobs, belonging to the category of human vocalizations or emotional expressions.
+Cough	The dry, hacking sound produced by the movement of air through the respiratory system, typically accompanied by a clearing of the throat or a sneeze, classified under respiratory sounds.
+Human movement	The rhythmic sounds made by the impact of feet on a surface while walking or running, varying in speed, intensity, and pattern, categorized as human activities or movement sounds.
+crash	A sudden, loud, and sharp sound produced by the collision of two or more objects, often accompanied by a metallic or glassy tone, classified under mechanical sounds.
+Cello	A musical instrument with a long, narrow neck and a resonating body, producing a rich, deep, and mellow sound, classified under musical instruments.
+truck/engine_idling	The low, rumbling sound produced by the engine of a truck when it is idling or not in motion, often accompanied by the sound of the brakes and other mechanical components, classified under transportation-related sounds.
+Adult female speech	The vocalizations produced by adult females, characterized by distinct pitch, rhythm, and intonation, often used for communication or expression.
+Crying_and_sobbing	The loud, high-pitched vocalizations produced by crying and sobbing, characterized by rapid, rhythmic bursts of sound, often accompanied by breathing and body movements.
+Rock drill	The continuous, high-pitched sound produced by a rock drill, often characterized by its intensity and repetitive nature, used for breaking rocks or excavation.
+pile-driver	A heavy, rhythmic sound produced by a construction machine used for driving piles into the ground.
+Music of Latin America	A diverse range of musical genres and styles originating from Latin American countries, characterized by their unique rhythms, melodies, and instruments.
+Shatter	A sudden, sharp sound produced by the breaking of glass or other brittle materials, often accompanied by a high-pitched ringing noise.
+Boing	A short, high-pitched sound often used in electronic devices or games, characterized by its repetitive, rhythmic pattern.
+Hi-hat	A percussive sound produced by striking a metal plate or cymbal with a mallet or stick, often used in drumming and percussion music.
+Fire alarm	A loud, piercing sound produced by a fire alarm system, typically used to alert people of a fire emergency and to evacuate the premises.
+mouse_click	A short, sharp sound produced by a computer mouse when a button is clicked, often characterized by a distinct click-clack rhythm, belonging to the category of electronic sounds.
+breathing	The rhythmic, inhaling and exhaling sounds produced by the human respiratory system, characterized by the movement of air in and out of the lungs, categorized as human biological sounds.
+Toilet flush	The sound produced by the flushing of a toilet, characterized by a rapid, swirling noise, often accompanied by the sound of water rushing and splashing, classified under plumbing-related sounds.
+pouring_water	The sound of liquid pouring from a container, characterized by a continuous, rhythmic splashing noise.
+Footsteps	The rhythmic sounds made by the impact of feet on a surface while walking or running, varying in speed, intensity, and pattern, categorized as human activities or movement sounds.
+cooking	The sizzling sound produced by food cooking, characterized by rapid, popping noises, typically associated with kitchen or culinary sounds.
+Tools	The sounds produced by various hand tools, such as hammers, saws, and drills, often characterized by their rhythmic, percussive nature, belonging to the category of human activities or machinery sounds.
+motorcycle/engine_idling	The steady, low-pitched hum produced by the engine of a motorcycle while it is idling, often accompanied by the sound of the exhaust pipe, classified under transportation-related sounds.
+Bow-wow	The high-pitched, yipping sound produced by a dog, often used for communication or excitement, categorized under animal vocalizations or sounds.
+Speech_synthesizer	An electronic device that generates human-sounding speech from text input, often used in voice assistants or language translation software.
+Fill (with liquid)	The act of adding liquid to a container or space, typically characterized by the sound of liquid flowing or splashing.
+Gunshot, gunfire	The sharp, explosive sound produced by the discharge of a firearm, often accompanied by a short, high-pitched echo.
+Female_singing	The melodious vocalizations produced by a female, often characterized by distinct patterns, pitches, and rhythms, belonging to the category of human vocalizations.
+Keyboard (musical)	The sound produced by striking keys on a musical instrument, often characterized by its timbre and pitch, belonging to the category of musical instruments.
+Marimba, xylophone	The sound produced by striking wooden bars with mallets, often characterized by its resonance and timbre, belonging to the category of percussion instruments.
+Cash register	The metallic clinking and ringing sounds produced by the movement of cash and coins in a register, often accompanied by paper rustling and drawer opening and closing sounds, classified under commercial sounds.
+Afrobeat	The rhythmic, percussive music originating from West Africa, characterized by its use of traditional African instruments and rhythms, often featuring a strong bassline and complex percussion patterns, classified under music genres.
+Female speech, woman speaking	The vocalizations produced by a female speaker, characterized by their pitch, tone, and intonation, often conveying emotions, ideas, or information, classified under human communication sounds.
+Gasp	A sudden, sharp intake of breath, often accompanied by a high-pitched sound, classified under human vocalizations or emotional expressions.
+Domestic_animals_and_pets	The sounds produced by domesticated animals such as dogs, cats, and birds, often characterized by their distinct vocalizations and behaviors, categorized under animal-related sounds.
+Human voice	The vocalizations produced by humans, characterized by a wide range of pitches, tones, and rhythms, often used for communication, expression, or entertainment.
+Siren	A loud, oscillating sound produced by a high-frequency generator, typically used for warning or alerting purposes, classified under warning or alarm sounds.
+Alarm	A loud, high-pitched sound produced by an electronic device to signal danger or an emergency.
+Bathtub (filling or washing)	The sound of water filling or washing a bathtub, characterized by its rhythmic splashing and gurgling.
+Tearing	The sound of fabric or paper being torn, characterized by its sharp, tearing noise.
+Male singing	The melodious vocalizations produced by a male human, often characterized by distinct pitch, rhythm, and emotional expression, belonging to the category of human vocalizations.
+Ringtone	The electronic sound produced by a mobile device to signal an incoming call or message, typically characterized by a distinct melody or pattern, belonging to the category of electronic sounds.
+Gong	The resonant, metallic sound produced by striking a large, flat metal object, often used for ceremonial or ritual purposes, belonging to the category of percussion instruments.
+Air conditioning	The continuous, rhythmic sound produced by an air conditioning unit, characterized by its low-pitched hum and occasional clicking or whirring noises, classified under man-made sounds.
+Pile driver	The loud, percussive sound produced by a pile driver striking a hard surface, often characterized by its repetitive, rhythmic pattern, classified under construction-related sounds.
+female speech	The vocalizations produced by females, characterized by distinct pitch, tone, and rhythm, often used for communication or expression.
+Cheering	The loud, rhythmic sounds produced by people clapping and shouting in unison, often associated with sports or celebrations, classified under human activities or social sounds.
+Ratchet, pawl	The metallic, clicking sound produced by a ratchet mechanism, often used in machinery or tools, classified under mechanical sounds or industrial sounds.
+Growling	A low, rumbling sound produced by an animal, often associated with aggression or warning.
+Bicycle bell	A metallic ringing sound produced by a bicycle bell, used to signal the presence of a cyclist.
+Organ	A musical instrument consisting of pipes and pedals, producing a rich, resonant sound through the vibration of air.
+Blues	A genre of music characterized by its melancholic, expressive, and improvisational style, often associated with African American culture.
+Explosion	A sudden, violent release of energy or matter, producing a loud, sharp sound, often accompanied by a shockwave or blast.
+Mechanisms	The intricate systems and processes that govern the operation of machines, engines, or other mechanical devices, often characterized by their rhythmic, repetitive sounds.
+Bicycle	A two-wheeled vehicle powered by human effort, characterized by the sound of pedaling and the occasional scraping of the brakes against the road surface.
+Thump, thud	A rhythmic, percussive sound produced by the impact of a hard object against a surface, often associated with footsteps or other forms of movement.
+Brass instrument	A musical instrument made of brass or other metals, characterized by its rich, resonant sound and the ability to produce a wide range of notes through the use of a mouthpiece and various embouchures.
+Tap	A short, sharp sound produced by striking a hard surface with a small object, often used to signal or indicate something.
+Wind_instrument_and_woodwind_instrument	A musical instrument that produces sound by the vibration of air, typically characterized by a distinct pitch and timbre, belonging to the category of musical instruments.
+reverse-beeper	A high-pitched, continuous sound produced by a reversing beeper, often used to signal a vehicle's reverse direction.
+Bus	The continuous, rumbling sound produced by the engine of a bus, often accompanied by the screeching of brakes and the clanging of doors.
+Wind_chime	The soft, melodic sound produced by wind blowing through metal chimes, often used to create a calming or relaxing atmosphere.
+Chewing_and_mastication	The rhythmic sounds produced by the movement of teeth and tongue during the process of chewing food, characterized by distinct patterns and pitches, belonging to the category of human activities or movement sounds.
+Bowed string instrument	The musical instrument played by drawing a bow across strings, producing a rich, resonant sound, classified under stringed instruments.
+Squeak	The short, high-pitched sound produced by the friction of two surfaces in contact, often associated with mechanical or mechanical-related sounds.
+large-rotating-saw	A loud, rhythmic sound produced by a large rotating saw, characterized by its high-pitched whirring and occasional clanging noises, classified under machinery-related sounds.
+Run	The rhythmic sounds made by the impact of feet on a surface while running, characterized by their speed, intensity, and pattern, categorized as human activities or movement sounds.
+coughing	The dry, hacking sound produced by the throat and lungs during coughing, often accompanied by a high-pitched wheezing noise, classified under respiratory sounds.
+Rock music	A genre of music characterized by strong, rhythmic beats, distorted electric guitars, and powerful vocals, often associated with rebellion and youth culture.
+Thunderstorm	A natural phenomenon characterized by the continuous rumbling and crackling sound of thunder, accompanied by lightning flashes and heavy rain, often causing fear and awe in those who experience it.
+Silence / background noise only	The absence of any discernible sound, often used as a reference point for measuring the level of ambient noise or the effectiveness of noise-cancelling technology.
+Machine gun	A rapid, continuous, and loud sound produced by a firearm with a rotating barrel, often used in military or law enforcement contexts, classified under weapon-related sounds.
+wind	The sound of wind blowing through leaves, grass, or other objects, characterized by its rustling, whistling, or whooshing qualities, belonging to the category of natural environmental sounds.
+Aircraft	The continuous, humming sound produced by aircraft engines, often accompanied by the occasional roar or buzz of turbines, classified under transportation-related sounds.
+Talking	The human vocalizations produced during conversation, characterized by their rhythmic, melodic, and expressive qualities, belonging to the category of human communication sounds.
+Door, open or close	The sound of a door opening or closing, characterized by a distinct click or creak, often accompanied by a soft rustling sound as the door moves.
+Stationary music	The continuous, steady sound of music played from a fixed location, often characterized by its volume and timbre, and typically classified under the category of music or soundscapes.
+truck/brakes	The screeching sound produced by the brakes of a truck, often heard when the vehicle is coming to a stop or slowing down, classified under transportation-related sounds.
+Packing_tape_and_duct_tape	The rustling sound produced by the adhesive surface of packing tape or duct tape when applied or removed, categorized as household or office supplies sounds.
+Electric_shaver_toothbrush	The buzzing sound produced by the electric motor of a shaver or toothbrush, often heard when the device is in use, classified under personal care or grooming sounds.
+large-sounding-engine	A loud, rumbling sound produced by a large internal combustion engine, often associated with heavy vehicles or machinery.
+Pour	The sound of liquid flowing out of a container, characterized by a continuous, rhythmic splashing or gurgling noise.
+Train horn	The loud, piercing sound produced by the horn of a train, often used to signal its approach or departure, and classified under transportation-related sounds.
+Typewriter	The rhythmic, mechanical clicking sound produced by a typewriter as it types letters, often associated with the sound of paper being fed into the machine.
+Drum	The sharp, resonant sound produced by a drum, characterized by its pitch, tone, and rhythm, often used in music and percussion.
+Railroad car, train wagon	The continuous, metallic clanging sound produced by the wheels of a train car or wagon as it moves along tracks, often accompanied by the rumble of the engine and other sounds.
+Chorus effect	A sound effect that simulates the combined voices of a group of singers, often used in music production.
+Idling	The sound of an engine or machine running at a low speed or in idle mode, characterized by a steady, low hum.
+Chicken, rooster	The distinct vocalizations produced by chickens and roosters, often characterized by their rhythmic, crowing calls.
+Microwave_oven	A kitchen appliance that produces microwaves to heat or cook food, characterized by a beeping sound and a humming noise.
+Piano	A musical instrument with strings that produce sound when struck with mallets, characterized by a rich, resonant sound and a variety of notes.
+Whistle	A handheld musical instrument that produces sound by blowing air through a small hole, characterized by a high-pitched, piercing sound and a variety of notes.
+Scratching_(performance_technique)	The sound produced by rubbing a finger or object against a surface, often used in percussion or drumming.
+Hammer	The sound produced by striking a metal object with a hammer, characterized by a sharp, metallic ring.
+dishes	The sound produced by the clinking or clattering of dishes, often associated with kitchen or culinary sounds.
+Male_singing	The melodious vocalizations produced by male singers, often characterized by distinct patterns, pitches, and rhythms, belonging to the category of human vocalizations.
+Glass shatter	The sharp, crackling sound produced when glass breaks or shatters, typically characterized by its intensity and high-pitched qualities, classified under man-made sounds.
+Percussive sounds, e.g. crash, bang, knock, footsteps	The loud, sharp sounds produced by the impact of objects or bodies on surfaces, characterized by their intensity and short duration, categorized as natural environmental sounds.
+jackhammer	A loud, rhythmic, percussive sound produced by a jackhammer, often used for construction or demolition work.
+Drum_kit	A collection of percussion instruments, including drums, cymbals, and other accessories, used in music or other forms of percussion performance.
+Bird vocalization, bird call, bird song	The melodious vocalizations produced by birds, often characterized by distinct patterns, pitches, and rhythms, and used for communication, territorial defense, or attracting mates.
+Percussion	The sharp, rhythmic sounds produced by striking or shaking objects, often used in music and dance.
+Crumpling_and_crinkling	The crisp, rustling sounds produced by the movement of paper or other lightweight materials, often associated with rustling leaves or paper bags.
+Plucked string instrument	The melodic sounds produced by plucking the strings of a stringed instrument, such as a guitar or harp, characterized by their bright, twangy tones.
+Fusillade	A rapid, continuous series of gunshots, often used in military or action-packed scenes, belonging to the category of man-made sounds.
+Gurgling, bubbling	The bubbling or gushing sound produced by liquid moving through a confined space, such as water flowing through a narrow passage or the stomach rumbling, classified under liquid or fluid movement sounds.
+Computer_keyboard	The clicking or tapping sounds produced by a computer keyboard, often used as a signal of user input or system activity, categorized as electronic or computer-related sounds.
+Marimba_and_xylophone	A percussion instrument consisting of a set of wooden bars struck with mallets, producing a bright, resonant sound, classified under musical instruments.
+Tick-tock	The rhythmic sound produced by a clock or timepiece, characterized by a steady, alternating pattern of sound and silence, classified under timekeeping sounds.
+Chirp, tweet	The short, high-pitched vocalizations produced by birds, often used for communication or attracting mates, classified under bird vocalizations.
+airplane	The continuous, humming sound produced by the engines of an airplane, often accompanied by the occasional roar of the engines or the sound of landing gear touching down, classified under transportation-related sounds.
+Small/medium rotating saw	The high-pitched, whirring sound produced by a small or medium-sized rotating saw, often accompanied by the occasional buzzing or clicking noise, categorized as power tools or machinery sounds.
+burning fire	A crackling, popping sound produced by the combustion of fuel in a fireplace or campfire, often accompanied by a warm, comforting ambiance, classified under domestic sounds.
+car horn	A loud, high-pitched sound produced by the activation of a car's horn, often used to signal danger or warning, categorized under transportation-related sounds.
+Reversing beeps	A series of short, high-pitched beeps produced by a car's reverse gear, indicating that the vehicle is reversing, classified under transportation-related sounds.
+Splinter	A sharp, cracking sound produced by breaking wood or other materials, often accompanied by a high-pitched ringing tone.
+Clock	The steady, rhythmic ticking sound produced by a clock or other timekeeping device, often accompanied by a pendulum swinging back and forth.
+Insect chirping	The high-pitched, trilling vocalizations produced by insects, often used for communication or attracting mates.
+non-machinery-impact	The sound produced by the impact of non-machinery objects, such as footsteps, car horns, or animal vocalizations, belonging to the category of human activities or natural environmental sounds.
+Vehicle horn, car horn, honking	The loud, high-pitched sound produced by the horn of a vehicle, often used to signal its presence or warning of danger, classified under transportation-related sounds.
+Truck	The rumbling sound produced by the engine and suspension of a truck, often accompanied by the sound of tires rolling on the road, categorized under transportation-related sounds.
+Outside, urban or manmade	The sounds produced by human activities and structures in urban environments, such as traffic, construction, and machinery.
+Crackle	The sharp, crackling sound produced by the movement of air or other materials, often associated with electrical or mechanical devices.
+switch	The sound produced by the movement of a switch or other mechanical component, typically characterized by a short, sharp click or pop.
+ringing phone	The high-pitched, continuous sound produced by a phone ringing, often accompanied by a vibration, classified under communication-related sounds.
+Buzz	The low-frequency, humming sound produced by an electric device, often associated with charging or malfunctioning, categorized under electronic sounds.
+Cutlery, silverware	The clinking and clattering sounds produced by metal cutlery and silverware when struck together, often used to signal the start of a meal or to draw attention, classified under kitchen or culinary sounds.
+Hip hop music	A genre of music characterized by its rhythmic beats, bass-heavy sound, and use of electronic instruments, often featuring vocalizations and lyrics that express social and political issues.
+Accordion	A musical instrument that produces sound by the movement of bellows, typically used in folk and traditional music, characterized by its distinctive, reedy sound.
+Smoke detector, smoke alarm	A device that produces a loud, high-pitched sound to alert people of a fire or smoke hazard, classified under safety-related sounds.
+Glockenspiel	A musical instrument consisting of metal bars struck with mallets, producing a bright, metallic sound, categorized under percussion instruments.
+crickets	The chirping or singing sounds produced by crickets, often characterized by their rhythmic patterns and distinct pitches, classified under natural environmental sounds.
+Snap	A sharp, short sound produced by the breaking of a thin object, such as a twig or a piece of paper.
+announcement_jingle	A short, catchy melody or tune used to announce or signal an event, such as a television commercial or a radio program.
+Chopping (food)	The sound produced by cutting food with a knife or other sharp object, characterized by short, sharp noises and varying in intensity and rhythm depending on the type of food and the cutting technique.
+Chant	A melodic vocalization produced by a group of people, often used in religious or cultural ceremonies, characterized by a repetitive pattern and a distinct pitch.
+door opens/closes	The sound of a door opening or closing, characterized by a creaking or squeaking noise, often accompanied by a soft thud or click.
+Inside, large room or hall	The ambient sounds produced within a large room or hall, typically characterized by echoes, reverberation, and a sense of spaciousness.
+Medium engine (mid frequency)	The sound of a medium-sized engine operating at a mid-frequency range, often characterized by a steady hum or buzz, with occasional vibrations or rattles.
+Crumpling, crinkling	The sound of paper or fabric being folded, creased, or wrinkled, often characterized by a crisp, rustling quality, belonging to the category of everyday sounds.
+Electronic music	The instrumental or vocal sounds produced using electronic devices or software, often characterized by a wide range of timbres, rhythms, and textures, classified under music-related sounds.
+car passing by	The sound of a car engine and tires moving on a road, often characterized by its speed, intensity, and rhythm, categorized under transportation-related sounds.
+cash register beeping	The electronic sound produced by a cash register when it is opened or closed, often characterized by a short, high-pitched beep, belonging to the category of man-made sounds.
+Wind noise (microphone)	The continuous, low-frequency sound produced by wind blowing through a microphone, often characterized by its rustling or whispering qualities, belonging to the category of natural environmental sounds.
+car	The sound produced by a car engine, characterized by its rhythmic, high-frequency noise, often associated with transportation-related sounds.
+Electric train	The continuous, rhythmic sound produced by the wheels of an electric train moving on tracks, characterized by its metallic and mechanical qualities, belonging to the category of transportation-related sounds.
+Jazz	The improvised, syncopated, and expressive music genre characterized by its distinctive rhythms, melodies, and harmonies, often featuring instruments such as saxophone, trumpet, and piano, classified under music-related sounds.
+Cupboard_open_or_close	The sound produced by the opening or closing of a cupboard door, characterized by its hinges and door material, often accompanied by a slight click or clatter, categorized as household sounds.
+Mechanical fan	A mechanical device that produces a steady, rhythmic sound when in operation, often used for cooling or ventilation.
+New-age music	A genre of instrumental music that incorporates elements of world music, jazz, rock, and electronic music, often characterized by its use of unconventional instruments and sounds.
+Crushing	The sound produced by the impact of a heavy object or force on a hard surface, often accompanied by a sharp, cracking noise, and can be associated with construction or industrial activities.
+Walk_and_footsteps	The rhythmic sounds produced by the impact of feet on a surface while walking or running, varying in speed, intensity, and pattern, categorized as human activities or movement sounds.
+Helicopter	The continuous, whirring sound produced by the rotors of a helicopter, often characterized by its intensity and mechanical qualities, classified under transportation-related sounds.
+Zipper_(clothing)	The metallic or plastic sound produced by the movement of a zipper, often accompanied by a soft clicking noise, categorized as clothing-related sounds.
+wind blowing	The continuous, whistling sound produced by wind blowing through leaves, grass, or other objects, often characterized by its pitch and rhythm, belonging to the category of natural environmental sounds.
+hen	The distinct, clucking vocalizations produced by hens, often characterized by their rhythm and pitch, belonging to the category of animal vocalizations.
+Machinery impact	The sharp, metallic sound produced by machinery colliding with a hard surface, often characterized by its intensity and duration, classified under man-made sounds.
+(object) banging	A loud, rhythmic sound produced by the impact of an object against a hard surface, often characterized by its intensity and frequency, classified under man-made sounds.
+Domestic_sounds_and_home_sounds	A category of sounds produced within a residential setting, including sounds related to daily activities, appliances, and furniture, categorized under home-related sounds.
+Child speech	The vocalizations produced by children, characterized by their unique intonation, pronunciation, and vocabulary, often used for communication, play, and learning, classified under human vocalizations.
+Chuckle_and_chortle	A light, short burst of laughter characterized by a series of chuckles and chortles, often used to express amusement or delight.
+Sneeze	A sudden, sharp sound produced by the forceful expulsion of air from the nose, often accompanied by a tickling sensation in the nasal passages.
+Accelerating_and_revving_and_vroom	"The loud, high-pitched sound produced by the engine of a vehicle as it accelerates or revs up, often accompanied by the word ""vroom""."
+Gull_and_seagull	The melodious vocalizations produced by gulls and seagulls, often characterized by distinct patterns, pitches, and rhythms, belonging to the category of natural environmental sounds.
+motorcycle/engine_accelerating	The loud, revving sound produced by the engine of a motorcycle, often accompanied by a roar or growl, classified under transportation-related sounds.
+Smash, crash	The sharp, explosive sounds produced by the impact of two objects colliding, often accompanied by a metallic or glassy quality, categorized as impact-related sounds.
+keyboard_typing	The rhythmic, repetitive sounds produced by typing on a keyboard, characterized by distinct key presses and strokes, classified as human activities or computer-related sounds.
+rain	The continuous, soft patter of raindrops hitting various surfaces, often characterized by its intensity and white noise-like qualities, belonging to the category of natural environmental sounds.
+Writing	The scratchy, rhythmic sounds produced by writing with a pen or pencil on paper, characterized by distinct strokes and pressure, categorized as human activities or writing-related sounds.
+frog	The croaking sound produced by frogs, often characterized by its rhythmic, pulsating pattern and distinct pitch.
+chainsaw	The loud, buzzing sound produced by a chainsaw, characterized by its high-frequency, rapid oscillations and distinctive rhythm.
+Dishes_and_pots_and_pans	The clattering and clinking sounds produced by dishes, pots, and pans being washed, characterized by their high-frequency, rapid oscillations and distinctive rhythm.
+fireworks	The loud, explosive sounds produced by fireworks, often characterized by their brightness and sharpness, classified under pyrotechnic sounds.
+Cap gun	The sharp, metallic sound produced by a cap gun, often used in movies or games, classified under firearm sounds.
+Chuckle, chortle	The light, high-pitched laughter often characterized by short, repeated bursts of sound, falling under human vocalizations or emotional expressions.
+Snoring	The low, rumbling sound produced by breathing through the nose or mouth while sleeping, often characterized by irregular breathing patterns and varying intensity, classified under sleep-related sounds.
+Sliding_door	The metallic, scraping sound produced by a sliding door as it moves along its tracks, often accompanied by a soft click or clatter, categorized as household sounds.
+Baby laughter	The joyful, high-pitched laughter produced by babies, often characterized by short, repeated bursts of sound and varying intensity, classified under human vocalizations or emotional expressions.
+door_wood_creaks	The creaking sound produced by wooden doors as they open and close, often characterized by a sharp, metallic tone, belonging to the category of man-made sounds.
+Respiratory sounds	The sounds produced by the respiratory system during breathing, including inhalation, exhalation, and coughing, classified under human physiological sounds.
+Boat_and_Water_vehicle	The continuous, rhythmic sound produced by the movement of a boat or watercraft through water, often characterized by a splashing or slapping sound, belonging to the category of water-related sounds.
+Knock	A rhythmic, sharp sound produced by striking a surface with a hand or other object, often used to signal or announce something.
+Howl (wind)	A loud, mournful sound produced by wind blowing through a narrow opening or channel, often associated with eerie or foreboding atmospheric conditions.
+Thunder	A deep, rumbling sound produced by the rapid expansion of air surrounding a lightning bolt, often accompanied by crackling or booming noises, classified under atmospheric phenomena.
+speech	Human vocalizations used for communication, characterized by rhythmic patterns, pitch variations, and distinct phonemes.
+Applause	The sound of clapping hands, often used to express appreciation or approval, belonging to the category of human activities or social sounds.
+clock_alarm	The loud, repetitive sound produced by a clock, typically signaling the passage of time, classified under man-made sounds.
+Trickle, dribble	A continuous, steady sound produced by the flow of liquid over a surface, often characterized by its softness and rhythmic pattern, belonging to the category of natural environmental sounds.
+Bird	The melodious vocalizations produced by birds, often characterized by distinct patterns, pitches, and rhythms, belonging to the category of natural environmental sounds.
+Telephone dialing, DTMF	The sound of a telephone keypad being dialed using Dual Tone Multi-Frequency (DTMF) technology, characterized by a series of short, high-pitched beeps or tones.
+Breathing	The rhythmic, inhaling and exhaling sounds produced by the human respiratory system, often heard during sleep or meditation, classified under human biophysical sounds.
+Smallenginge	The sound of a small engine, such as a lawnmower or generator, characterized by its steady, humming noise and vibrations, classified under mechanical sounds.
+medium-sounding-engine	A medium-pitched, rhythmic sound produced by a vehicle engine, often characterized by its steady hum and occasional vibrations, belonging to the category of transportation-related sounds.
+Alarm_bell_ringing	A loud, high-pitched sound produced by an alarm bell, often used to signal danger or an emergency, classified under warning or alert sounds.
+vacuum_cleaner	A low-pitched, rhythmic sound produced by a vacuum cleaner, characterized by its suction and movement, categorized as household appliance sounds.
+Screeching	A high-pitched, metallic sound often produced by brakes or metal on metal, classified under mechanical sounds.
+Bang	A sharp, explosive sound often produced by the impact of two objects or the release of energy, classified under impact sounds.
+Baby cry, infant cry	The high-pitched, emotional vocalizations produced by babies or infants, often characterized by their variability and intensity, classified under human vocalizations or emotional expressions.
+Tabla	A percussion instrument with a flat, circular surface and metal jingles, producing a sharp, resonant sound when struck.
+Inside, public space	A sound produced within an enclosed space, typically characterized by its reverberation and reflections, often found in public buildings or areas.
+Domestic sounds	A category of sounds produced within a household or residential setting, typically characterized by their familiarity and repetition, such as footsteps, appliances, and conversations.
+Human_voice	The vocalizations produced by humans, characterized by a wide range of pitches, tones, and rhythms, often used for communication, expression, or entertainment.
+bus/brakes	The screeching or grinding sound produced by the brakes of a bus or other heavy vehicle, typically used to signal a stop or warning of impending collision.
+Cleaning	The sounds produced during cleaning activities, such as the scraping, brushing, or suctioning of surfaces, often characterized by repetitive, rhythmic patterns and varying intensity.
+Running_water	The continuous, rhythmic sound of water flowing over rocks or stones, often characterized by its soothing and calming qualities, belonging to the category of natural environmental sounds.
+Glass breaking	The sharp, cracking sound produced when glass is shattered or broken, often accompanied by a ringing or tinkling noise, classified under man-made sounds.
+Beatboxing	The percussive sounds produced by a person using their mouth, hands, or other body parts to create rhythmic patterns and beats, often used in music or dance, categorized as human activities or music-related sounds.
+Tambourine	A handheld percussion instrument with metal jingles that produce a bright, metallic sound when shaken, classified under musical instruments.
+Doorbell	A device that produces a ringing or dinging sound when pressed, used to announce someone's arrival or to signal a change in the room's occupancy, categorized under household sounds.
+Arrow	A pointed projectile used for hunting or warfare, characterized by its sharp sound when it hits a target or when it is drawn from a bow, classified under weaponry sounds.
+Screaming	A loud, high-pitched vocalization often characterized by rapid, repeated bursts of sound, often associated with strong emotions or distress.
+Giggle	A light, high-pitched laughter often characterized by short, repeated bursts of sound, often used for secretive communication or creating an intimate atmosphere.
+Whispering	A soft, hushed vocalization produced with minimal breath and mouth movements, often used for secretive communication or creating an intimate atmosphere, belonging to human communication sounds.
+other-unknown-human-voice	An unidentifiable human voice, often characterized by its pitch, tone, and rhythm, belonging to the category of human vocalizations.
+crow	The distinctive, cawing vocalizations produced by crows, often characterized by their rhythmic, repetitive patterns, belonging to the category of animal vocalizations.
+Gurgling	The bubbling or gushing sound produced by liquid moving through a confined space, such as water flowing through a narrow passage or the stomach rumbling, classified under liquid or fluid movement sounds.
+Drawer_open_or_close	The sound of a drawer opening or closing, characterized by a sharp, metallic clang or a soft, wooden creak, depending on the type of drawer and its condition.
+Water tap, faucet	The continuous, rhythmic sound of water flowing from a faucet, often characterized by its pitch and intensity, belonging to the category of household appliances.
+male scream	The loud, high-pitched vocalizations produced by a male, often characterized by their intensity and duration, classified under human vocalizations or emotional expressions.
+Frog	The croaking sound produced by frogs, characterized by its high-pitched, rhythmic, and pulsating nature, often used as a natural soundscape element.
+Wild animals	The diverse range of sounds produced by wild animals, including calls, songs, and alarms, often used as indicators of biodiversity and ecological health.
+Vehicle_horn_and_car_horn_and_honking	The loud, high-pitched sound produced by a vehicle horn, often used to signal its presence or warning of danger, classified under transportation-related sounds.
+Shout	The loud, high-pitched vocalizations produced by a person, often used for communication or expression, categorized under human vocalizations or emotional expressions.
+crackling_fire	The sound produced by burning wood or other materials, characterized by its crackling, popping, and snapping noises, often associated with fireplaces or campfires, classified under natural environmental sounds.
+Stream, river	A continuous flow of water over a surface, often characterized by its sound, which can range from gentle babbling to loud rushing.
+Sine wave	A type of sound wave characterized by its regular, oscillating pattern, often used in music and audio processing.
+Alert signal	A short, high-pitched sound used to signal danger or warning, often used in emergency situations.
+Power_tool	A mechanical device used for cutting, drilling, or sanding, characterized by its high-pitched, rhythmic sound, often associated with construction or DIY activities.
+Vacuum_cleaner	A cleaning device that uses suction to remove dirt and debris from floors, characterized by its low-pitched, humming sound, often associated with household chores.
+Drum kit	A collection of percussion instruments, typically consisting of drums, cymbals, and other percussion instruments, used in music and other audio events, classified under musical instruments.
+Harp	A stringed musical instrument, characterized by its plucked strings and distinctive sound, often used in folk and classical music, classified under musical instruments.
+Vehicle	A mechanical device designed for transportation, characterized by its movement and sound, including the engine noise and other sounds produced during operation, classified under transportation-related sounds.
+Brass_instrument	A musical instrument made of brass, producing a rich, resonant sound through the vibration of the player's lips against a cup-shaped or funnel-shaped mouthpiece.
+Plucked_string_instrument	A musical instrument that produces sound by plucking the strings with the fingers, typically featuring a long neck and a flat body, such as a guitar or a harp.
+train	The continuous, rhythmic sound produced by the wheels of a train moving on tracks, often accompanied by braking or whistling sounds, classified under transportation-related sounds.
+Gears	The metallic grinding or whirring sound produced by the movement of gears, often heard in machinery or vehicles, categorized under mechanical sounds.
+Crack	The sharp, sudden sound produced by the breaking of a surface or material, often accompanied by a popping or snapping noise, classified under impact-related sounds.
+other-unknown-alert-signal	A sudden, high-pitched sound used to alert people to an unknown or imminent danger, often characterized by its abrupt onset and short duration.
+music	A form of auditory art characterized by its organized sound patterns, often involving melody, harmony, and rhythm, and typically produced for human enjoyment or cultural expression.
+Livestock_and_farm_animals_and_working_animals	A category of animal-related sounds produced by domesticated animals used for agriculture or work, such as cows mooing, sheep bleating, and horses whinnying.
+children voices	The high-pitched vocalizations produced by children, often characterized by their playful and innocent tone, belonging to the category of human vocalizations.
+bus/wheel_rolling	The rhythmic sound produced by the movement of buses or wheels on a road, characterized by its repetition and intensity, classified under transportation-related sounds.
+Snare_drum	The sharp, cracking sound produced by a snare drum, often used in percussion music to create a rhythmic accent, belonging to the category of musical instruments.
+stationary-music	A continuous, rhythmic sound produced by a musical instrument or device, often characterized by its pitch and tempo, belonging to the category of music and sound production.
+Frying (food)	The sizzling sound produced by food cooking, characterized by rapid, popping noises, typically associated with kitchen or culinary sounds.
+Electric shaver, electric razor	The humming or buzzing sound produced by an electric shaver or razor, often characterized by its intensity and rhythm, belonging to the category of personal grooming and household appliances.
+Ratchet_and_pawl	A metallic clicking sound produced by a ratchet and pawl mechanism, often used in mechanical devices such as clocks and watches.
+Scratching (performance technique)	A percussive sound produced by rubbing a finger or plectrum against a stringed instrument, typically used in rock and metal music.
+car_horn	A loud, high-pitched sound produced by a car horn, often used to signal danger or attract attention.
+Ambient music	Background music characterized by its calming, relaxing, and often unobtrusive nature, often used to create a specific mood or atmosphere.
+engine-of-uncertain-size	The sound produced by an engine, characterized by its rhythmic, pulsating nature and varying intensity, often used to indicate the presence of machinery or vehicles.
+car/wheel_rolling	The sound produced by the movement of car wheels on a surface, characterized by its rhythmic, repetitive nature and varying intensity, often used to indicate the presence of vehicles on the road.
+people talking	The conversational sounds produced by humans, characterized by their rhythmic, tonal, and linguistic features, belonging to the category of human communication sounds.
+brakes_squeaking	The metallic, high-pitched sound produced by the friction of brake pads against brake rotors, typically associated with vehicle braking sounds.
+Whoosh_and_swoosh_and_swish	The continuous, rhythmic sound produced by the movement of air over a surface, such as a door or window, characterized by its soft, breathy quality, belonging to the category of environmental sounds.
+bus	'A large vehicle with a motor and wheels, used for transportation, characterized by its engine noise and the sound of brakes and tires on the road.'
+Burping_and_eructation	'The sound produced by the expulsion of gas from the stomach, characterized by a gurgling or burping noise.'
+Singing	'The human vocalization characterized by rhythmic, melodic tones, often accompanied by lyrics, belonging to the category of human vocalizations or music sounds.'
+Sawing	The rhythmic, metallic sound produced by the movement of a saw blade through wood or other materials, often characterized by a repetitive, oscillating pattern.
+Car crash	The loud, sudden, and chaotic sound produced by the collision of two vehicles, often accompanied by crunching, grinding, and screeching noises.
+Fixed-wing aircraft, airplane	The steady, humming sound produced by the engines of a fixed-wing aircraft, often characterized by a low-frequency rumble and occasional vibrations.
+children_playing	The joyful and energetic sounds produced by children playing, often characterized by laughter, shouts, and clapping, belonging to the category of human activities or social sounds.
+Car alarm	The loud, piercing sound produced by a car alarm, often triggered by a break-in or theft, classified under transportation-related sounds.
+truck	The rumbling and vibrating sounds produced by a truck, often characterized by its engine and brakes, categorized as transportation-related sounds.
+Cupboard open or close	The sound of a cupboard door opening or closing, characterized by a distinct click or clangor, often accompanied by a slight creaking sound, belonging to the category of household sounds.
+Train wheels squealing	The high-pitched, metallic sound produced by the friction of train wheels on rails, often accompanied by a rhythmic clacking or clicking noise, classified under transportation-related sounds.
+Zipper (clothing)	The sound of a zipper being pulled or released, characterized by a distinct snap or pop, often accompanied by a slight rustling sound, belonging to the category of clothing-related sounds.
+Child speech, kid speaking	The high-pitched, melodious vocalizations produced by children, often characterized by their unique intonation and rhythm, belonging to the category of human vocalizations.
+Acoustic guitar	The resonant, twangy sound produced by the strings of an acoustic guitar, often used in various genres of music, classified under musical instruments.
+Hair dryer	The humming, high-pitched sound produced by a hair dryer, often characterized by its intensity and white noise-like qualities, classified under household appliances.
+ice-cream-truck	A loud, jingling sound produced by a truck selling ice cream, often accompanied by a chime or a recorded jingle, classified under commercial sounds.
+Buzzer	A high-pitched, electronic sound produced by a device to alert or signal, often used in security systems or appliances, categorized under electronic sounds.
+Reverse beeper	A loud, warning sound produced by a vehicle's reverse lights, often used to alert pedestrians or other drivers of the vehicle's reverse movement, classified under transportation-related sounds.
+Mechanical_fan	A mechanical device that produces a continuous, rhythmic sound characterized by a low pitch and steady rhythm, often used for cooling or ventilation.
+Crow	The distinctive, cawing vocalizations produced by crows, often characterized by their loudness, rhythm, and distinctive pitch.
+Strum	The sound produced by rapidly plucking or strumming a stringed instrument, often characterized by its rhythm, pitch, and timbre.
+Basketball bounce	The sharp, high-pitched sound produced when a basketball hits a hard surface, often accompanied by a bouncing or ricocheting effect, classified under sports-related sounds.
+Cowbell	The loud, metallic sound produced by striking a cowbell, often used to signal or announce something, categorized under percussion instruments or musical sounds.
+Guitar	The rich, resonant sound produced by strumming or plucking the strings of a guitar, often characterized by its distinct timbre and rhythm, classified under stringed instruments or musical sounds.
+Purr	A low, rumbling sound produced by a cat, often associated with contentment or relaxation, classified under animal-related sounds.
+Independent music	A type of music that is not part of a larger musical composition or genre, often characterized by its unique rhythm, melody, and harmony, classified under music-related sounds.
+Finger snapping	The sharp, percussive sound produced by snapping one's fingers together, often used as a rhythmic accompaniment or signal.
+Fixed-wing_aircraft_and_airplane	The continuous, humming sound produced by the engines of fixed-wing aircraft and airplanes, often accompanied by the flapping of wings and other aircraft-related sounds.
+Walk, footsteps	The rhythmic sounds made by the impact of feet on a surface while walking or running, varying in speed, intensity, and pattern, categorized as human activities or movement sounds.
+Sink (filling or washing)	The sound of water filling or washing a sink, characterized by its rhythmic splashing and gurgling, often accompanied by the sound of water flowing in and out of the sink, categorized as household sounds.
+gunshot	A sharp, explosive sound produced by the discharge of a firearm, often accompanied by a high-pitched echo.
+dishwasher	The rhythmic, mechanical sound produced by a dishwasher as it cleans dishes, characterized by its repetitive pattern and white noise-like qualities.
+Music of Africa	A diverse range of musical styles and traditions originating from Africa, characterized by their unique rhythms, melodies, and instruments, often associated with cultural and spiritual expressions.
+Shouting	The loud, high-pitched vocalizations produced by a person speaking loudly, often characterized by their intensity and emotional expression, belonging to the category of human vocalizations.
+Large engine	A loud, rumbling sound produced by a large internal combustion engine, often associated with heavy vehicles or machinery.
+hoe-ram	The rhythmic, percussive sound produced by a hoe-ram tool while working the soil, belonging to the category of agricultural sounds.
+Christian music	The uplifting, melodic vocalizations and instrumental tones associated with Christian religious practices, often characterized by their emotional intensity and spiritual themes, classified under religious music.
+male speech	The distinct vocalizations produced by male individuals, characterized by their pitch, tone, and rhythm, often used for communication or expression of emotions, categorized under human vocalizations.
+drilling	A rhythmic, high-pitched sound produced by a drill bit rotating against a hard surface, often associated with construction or DIY projects.
+dog	The barking, growling, or yipping vocalizations produced by a dog, often used for communication, protection, or play.
+siren	A loud, oscillating wail produced by a siren, often used for warning or alerting purposes, such as in emergency situations or traffic control.
+television	The sound of a television program, often characterized by its background noise and occasional sound effects.
+truck/wheel_rolling	The rhythmic sound of truck wheels rolling on a paved surface, often accompanied by the rumble of the engine.
+street_music	The diverse range of sounds produced by street musicians, including instruments, vocals, and percussion, often creating a lively and energetic atmosphere.
+Mallet percussion	The sharp, metallic sounds produced by striking a mallet against a hard surface, often used in orchestral music or percussion ensembles, classified under musical instruments.
+bus/engine_accelerating	The gradual increase in speed and pitch of a bus or engine, characterized by a rhythmic, pulsating sound, classified under transportation-related sounds.
+sheep	The distinct, low-pitched vocalizations produced by sheep, often characterized by their rhythmic, repetitive nature, belonging to the category of animal sounds.
+car-alarm	The loud, high-pitched sound produced by a car alarm, often triggered by a door opening or a motion sensor, classified under transportation-related sounds.
+window	A sound produced by the movement of air through a window, characterized by its high-pitched, whistling quality and often accompanied by a soft rustling sound.
+insects	A diverse group of small, air-breathing animals characterized by their wings, antennae, and segmented bodies, producing a wide range of sounds, including buzzing, chirping, and clicking.
+Music of Asia	A rich and diverse musical tradition originating from various countries in Asia, characterized by its unique melodies, rhythms, and instruments, often featuring percussion, strings, and vocals.
+cutlery and dishes	The clinking and clattering sounds produced by cutlery and dishes, often characterized by their metallic and ceramic tones, classified under kitchen or culinary sounds.
+cow	The low, mooing sound produced by cows, often characterized by its rhythmic and resonant qualities, classified under animal sounds.
+washing dishes	The rhythmic sounds made by the impact of water and soap on dishes while washing, often characterized by their splashing and scraping qualities, classified under kitchen or culinary sounds.
+bird singing	The melodious vocalizations produced by birds, often characterized by distinct patterns, pitches, and rhythms, belonging to the category of natural environmental sounds.
+chatter	The light, high-pitched vocalizations produced by people engaged in conversation, characterized by short, repeated bursts of sound, falling under human communication sounds.
+small-sounding-engine	The high-pitched, rapid sounds produced by a small engine, typically associated with transportation-related sounds.
+water tap	The sound of water flowing from a faucet, characterized by its rhythmic, steady pattern and low pitch.
+cupboard/wardrobe	The sound of doors opening and closing, characterized by its metallic clangor and short duration, typically associated with household sounds.
+people walking	The rhythmic sounds produced by the impact of feet on a surface while walking or running, varying in speed, intensity, and pattern, categorized as human activities or movement sounds.
+washing machine	The continuous, rhythmic sound produced by the movement of water and detergent through a washing machine, often characterized by its intensity and white noise-like qualities, classified under household appliances.
+cat	The soft, melodious vocalizations produced by cats, often characterized by their distinct purring sound, falling under animal vocalizations or emotional expressions.
+(object) rustling	The sound of an object moving or shaking, characterized by a soft, continuous rustling or shuffling noise.
+cutlery	The clinking or clattering sounds produced by cutlery, often accompanied by the sound of dishes clinking or scraping against each other, classified under kitchen or culinary sounds.
+car/engine_idling	The steady, low hum or buzz produced by a car engine when it is running at idle, often accompanied by the sound of the exhaust pipe, classified under transportation-related sounds.
+amplified-speech	The amplified sound of human speech, often used in public events or broadcasts, characterized by its clarity and volume.
+people speaking	The natural sound of human speech, often characterized by its rhythm, intonation, and language-specific features, belonging to the category of human communication sounds.
+rooster	The distinct, crowing sound produced by a rooster, often used as an alarm or to announce the start of a new day, classified under animal sounds.
+offscreen	The faint, distant sound of a film or television show playing in the background, often characterized by its low volume and muffled quality, belonging to the category of ambient sounds.
+running engine	The continuous, rhythmic sound produced by a vehicle's engine while it is running, often characterized by its intensity and mechanical nature, classified under transportation-related sounds.
+mobile-music	The music played on a mobile device, often characterized by its high volume and variety of genres, categorized as personal music or entertainment sounds.
+hand_saw	The sound produced by a hand saw as it cuts through wood, characterized by a rhythmic, sawing motion and a distinct, metallic tone.
+female scream	The loud, high-pitched vocalization produced by a female, often associated with fear, anger, or excitement.
+metro leaving	The continuous, rumbling sound produced by a metro train as it departs from a station, often accompanied by braking and door sounds.
+motorcycle	A two-wheeled vehicle with an internal combustion engine, producing a distinctive roaring sound and vibrations.
+beater	A handheld percussion instrument, typically made of wood or metal, producing a sharp, staccato sound when struck.
+person-or-small-group-talking	The sounds produced by human speech, characterized by rhythmic patterns of vocalizations and pauses, often accompanied by background noise.
+can_opening	The metallic sound produced by opening a can, characterized by a sharp, high-pitched tone and a short duration, belonging to the category of man-made sounds.
+cupboard	The sound of items clinking or rattling inside a cupboard, often characterized by a soft, repetitive rhythm, belonging to the category of household sounds.
+dog_barking	The loud, high-pitched vocalizations produced by dogs, often characterized by distinct patterns and rhythms, belonging to the category of animal vocalizations.
+dog-barking-whining	The high-pitched, whining vocalizations produced by dogs, often used for communication or warning.
+clapping	The sharp, rhythmic sounds produced by clapping hands, often used for applause or celebration.
+motorcycle/brakes	The screeching sound produced by the brakes of a motorcycle, often used for warning or alerting drivers.
+glassbreak	The sharp, cracking sound produced by breaking glass, often accompanied by a ringing or chiming tone, classified under man-made sounds.
+Squeal	A high-pitched, sharp sound often produced by animals, such as pigs or cows, when they are excited or in pain.
+Harmony	A pleasing combination of two or more musical notes played simultaneously, often resulting in a melodic and harmonious sound.
+Bassline	The underlying rhythmic pattern in a piece of music, typically played by a bass instrument or synthesizer, providing a foundation for the rest of the song.
+Drum machine	An electronic device used to simulate the sound of drums, often used in electronic music production.
+Cumbia	A traditional Latin American dance and music genre characterized by its lively rhythm and syncopated beats.
+Other sourceless	A category of sounds that do not have a clear or identifiable source, such as electronic or synthetic sounds, often used in experimental or avant-garde music.
+Clip-clop	The rhythmic, metallic sound produced by the striking of two hard objects together, often associated with horse-drawn carriages or clocks.
+Wood block	The resonant, percussive sound produced by striking a wooden block with a mallet or other hard object, often used in percussion instruments or as a rhythmic element in music.
+Slap, smack	The sharp, percussive sound produced by striking a surface with an open hand, often used as a rhythmic element in music or to signal attention.
+Video game music	The instrumental or vocal compositions used in video games, often characterized by their catchy melodies, dynamic changes, and emotional intensity, belonging to the category of music and sound effects.
+Electric piano	The sound produced by an electronic instrument that simulates the sound of an acoustic piano, often characterized by its bright, twangy tone and versatile range, categorized as electronic instruments.
+Carnatic music	The classical music of South India, characterized by its melodic improvisation, rhythmic complexity, and use of ragas (melodic frameworks), belonging to the category of traditional music and cultural sounds.
+Honk	A short, sharp, and high-pitched sound produced by a car horn, often used to signal its presence or warning.
+Rhodes piano	A percussion instrument with a metallic, resonant sound, characterized by its ability to produce a wide range of notes and tones.
+Jingle, tinkle	A short, melodic, and high-pitched sound produced by metal chimes or bells, often used in advertising or as a signal.
+Dance music	A genre of electronic music produced largely for nightclubs, festivals, and raves, characterized by repetitive beats and synthesized sounds, often produced largely for playback by DJs who create seamless selections of tracks, called a mix, by segueing from one recording to another.
+Heavy metal	A subgenre of rock music characterized by its use of distorted electric guitars, heavy bass guitar, drums, and vocals that are often characterized by their intensity and aggression.
+Saxophone	A woodwind instrument with a single reed and a conical bore, played by blowing air across a reed to produce sound. It is commonly used in jazz music and has a distinctive, mellow tone.
+Clicking	A short, sharp, rhythmic sound produced by the impact of a hard surface or object, often associated with electronic devices or machinery.
+House music	A genre of electronic dance music (EDM) characterized by its repetitive beats, synthesized sounds, and bass-heavy production, often played in nightclubs or festivals.
+Oink	A short, high-pitched vocalization produced by a pig, typically used for communication or expressing excitement or contentment.
+Soca music	A genre of music originating from Trinidad and Tobago, characterized by its lively, upbeat rhythm and use of brass instruments, often associated with carnival celebrations.
+Jingle (music)	A short, catchy tune or melody used to promote a product or service, typically played on radio or television.
+Roll	A sound produced by the movement of a wheel or other object, often characterized by a rhythmic, repetitive pattern, such as the sound of car tires on a road or the turning of a drum.
+Tubular bells	A set of eight metal bells, each with a different pitch, that produce a melodic, chiming sound when struck, often used in orchestral music and film scores.
+Maraca	A percussion instrument made of a hollow gourd or calabash, filled with seeds or beads, that produces a rhythmic, shaking sound when shaken or struck, often used in Latin American music and dance.
+Kuduro	A genre of electronic dance music originating in Angola, characterized by its fast tempo, heavy bass, and percussive rhythms, often featuring samples of traditional African music and instruments.
+Ding	A short, sharp, metallic sound often produced by a bell or a mallet striking a surface, classified under percussive sounds.
+Oboe	A woodwind instrument with a distinctive, mellow, and expressive sound, often used in classical music, categorized under musical instruments.
+Cluck	The rhythmic, low-pitched vocalizations produced by chickens, typically used for communication or warning, classified under animal vocalizations.
+Rock and roll	A genre of music characterized by its strong, steady rhythm, electric guitars, and energetic vocals, often associated with youth culture and rebellion.
+Clarinet	A woodwind instrument with a single reed and a distinctive, mellow sound, commonly used in classical and jazz music.
+Electro	A genre of electronic dance music (EDM) characterized by its use of synthesizers, drum machines, and other electronic instruments, often associated with futuristic or sci-fi themes.
+Rattle	A metallic sound produced by the vibration of small objects or particles, often used in percussion instruments or as a sound effect.
+Tuning fork	A musical instrument consisting of two metal tines that produce a high-pitched sound when struck together, used for tuning other instruments or as a reference pitch.
+Vibraphone	A percussion instrument that produces a wide range of pitches by striking metal bars with mallets, often used in jazz and contemporary music.
+Turkey	'The distinctive, low-pitched vocalizations produced by turkeys, often characterized by their rhythmic, repetitive nature and unique timbre, belonging to the category of animal vocalizations.'
+Theremin	'The eerie, ethereal sound produced by moving one's hands in proximity to two antennas, controlling pitch and volume, classified under electronic musical instruments.'
+Chord	'The harmonious combination of three or more different musical notes played simultaneously, often used as a building block in music composition, belonging to the category of musical sounds.'
+Brief tone	A short, simple melody or rhythm often used as a signal or alert, belonging to the category of musical sounds.
+Noise music	A genre of music characterized by its use of unconventional sounds and noise, often produced through electronic means, classified under experimental music.
+Wedding music	A selection of songs and melodies played during a wedding ceremony or reception, typically featuring a mix of traditional and contemporary music, categorized under special events or celebratory sounds.
+Progressive rock	A genre of rock music characterized by its complex, intricate soundscapes and progressive elements, often featuring a wide range of instruments and sounds.
+Bassoon	A woodwind instrument with a distinctive, resonant sound, typically played by blowing air through a reed and producing a rich, mellow tone.
+Bugle	A brass instrument with a short, sharp sound, often used for ceremonial or military purposes, such as signaling the start of a parade or battle.
+Scrape	The metallic sound produced by a tool or object moving against a surface, often accompanied by a grating or abrasive quality, classified under mechanical sounds.
+Snort (horse)	The short, sharp sound produced by a horse when exhaling air through its nostrils, characterized by a high-pitched, nasal quality, belonging to the category of animal sounds.
+Ukulele	The bright, twangy sound produced by a small, four-stringed instrument, often associated with Hawaiian or Latin American music, classified under musical instruments.
+Rumble	A low, continuous rumbling sound, often associated with earthquakes or thunderstorms, classified under natural environmental sounds.
+Plop	A short, sharp sound produced by the impact of an object falling into water or a soft surface, categorized as water-related sounds.
+Sad music	A melancholic and somber musical composition, often characterized by slow tempo, minor key, and emotional expressiveness, classified under human-generated music sounds.
+Snicker	A light, playful sound produced by the human vocal tract, often characterized by short bursts of sound and a high pitch, belonging to the category of human vocalizations or emotional expressions.
+Trombone	A deep, resonant sound produced by a brass instrument with a telescoping slide mechanism, often used in jazz or classical music, categorized as musical instruments.
+Musical note	A distinct pitch or frequency produced by a musical instrument or voice, often used in music composition and performance, classified under musical sounds.
+Sitar	A stringed musical instrument from India, characterized by its long neck and distinctive resonance, often used in Indian classical music.
+Grime music	A subgenre of electronic dance music originating in the UK, characterized by its heavy bass, fast tempo, and distorted, glitchy sounds.
+Tender music	A genre of music characterized by its emotional intensity, often featuring slow tempos, gentle melodies, and expressive vocals, often associated with romantic or introspective themes.
+Crowing, cock-a-doodle-doo	The loud, rhythmic vocalizations produced by crows, often used as a natural alarm or warning sound, belonging to the category of animal vocalizations.
+Trap music	The aggressive, dissonant, and repetitive sound patterns often associated with hip hop and urban music, characterized by its use of distorted and manipulated sounds, belonging to the category of music-related sounds.
+Singing bowl	The resonant, vibrating sound produced by a singing bowl, often used for meditation, relaxation, or healing purposes, belonging to the category of sound healing or spiritual sounds.
+Horse	The sound produced by a horse's hooves as it gallops or trots, characterized by a rhythmic, percussive quality, belonging to the category of animal-related sounds.
+Birthday music	The upbeat, celebratory music typically played at birthday parties, characterized by its tempo, melody, and instrumentation, belonging to the category of music-related sounds.
+Pizzicato	The technique of playing a musical instrument by plucking or striking the strings with the fingers, producing a short, staccato sound, belonging to the category of musical instruments and techniques.
+Rub	A soft, rhythmic sound produced by rubbing two surfaces together, often used in cooking or as a musical instrument.
+Electronic organ	A musical instrument that produces sound through electronic means, typically featuring a keyboard and various sound sources.
+Double bass	A large, stringed musical instrument with a deep, resonant sound, often used in orchestras or jazz music.
+Sampler	An electronic device used to create and manipulate sounds, often used in music production.
+Drum beat	A rhythmic pattern of percussive sounds produced by drums or other percussion instruments, often used in music and dance.
+Creak	A low-pitched, metallic sound produced by the movement of metal parts, often associated with old or poorly maintained structures.
+Soprano saxophone	A high-pitched woodwind instrument with a distinctive, bright, and airy sound, often used in jazz and classical music.
+Sound effect	An artificial sound created using electronic or mechanical means, typically used in movies, video games, and other forms of media to enhance the audio experience.
+Generic impact sounds	A category of sounds produced by the impact of objects on surfaces or other materials, characterized by sharp, short, and high-pitched noises, such as breaking glass or slamming doors.
+Fizz	The crackling, effervescent sound produced by carbonated beverages or other sources of gas, often associated with celebrations or festive occasions.
+UK garage	The genre of electronic dance music originating in the United Kingdom, characterized by its heavy basslines, fast tempo, and use of synthesizers and drum machines.
+Pulse	A rhythmic, steady sound produced by the beating of a heart or other pulsating object, often characterized by its tempo and intensity, belonging to the category of biological sounds.
+Hum	A continuous, low-frequency sound produced by the vibration of an object or the movement of air, often characterized by its intensity and white noise-like qualities, classified under environmental sounds.
+Squish	A soft, compressive sound produced by the deformation of a material, such as a squashy toy or a wet sponge, characterized by its texture and intensity, categorized as physical sounds.
+Tapping (guitar technique)	A rhythmic, percussive technique used in guitar playing, characterized by the rapid, alternating striking of the strings with the fingers or a plectrum, often used in rock and pop music.
+Funny music	A genre of music characterized by its use of humor, often through irony, satire, or absurdity, and typically featuring lighthearted and playful melodies and lyrics.
+Exciting music	A genre of music characterized by its intensity, energy, and emotional impact, often featuring fast tempos, loud dynamics, and powerful instrumentation, and typically used in action, adventure, or sports contexts.
+Mandolin	A stringed musical instrument with a distinctive, twangy sound, often used in folk and pop music.
+Timpani	A percussion instrument with a deep, resonant sound, played with mallets and used in orchestral music.
+Salsa music	A lively, rhythmic dance music originating from Cuba and Puerto Rico, characterized by its syncopated beats and Latin American influences.
+Steelpan	A percussion instrument made of steel sheets, producing a bright, resonant sound often used in Caribbean music.
+Christmas music	A collection of songs and melodies associated with the holiday season, characterized by cheerful and uplifting tones.
+Steel guitar, slide guitar	A stringed instrument with a long neck and a metal slide used to produce a distinctive, twangy sound, often associated with country and rock music.
+Deformable shell	A type of shell that can change shape or form, often found in marine animals such as snails and octopuses.
+Gobble	"The loud, sharp sound produced by a bird when it swallows food, often accompanied by a distinctive ""gobbling"" sound."
+Funk carioca	A genre of Brazilian funk music characterized by its lively, upbeat rhythms and use of percussion instruments such as the surdo and tamborim.
+Didgeridoo	A wind instrument traditionally made from hollowed-out eucalyptus trees, characterized by its distinctive, resonant sound often used in traditional Aboriginal Australian music.
+Opera	A theatrical form of music and drama originating in Italy, characterized by its complex vocal and instrumental harmonies, dramatic storytelling, and elaborate sets and costumes.
+Mellotron	An electronic instrument that simulates the sound of a variety of instruments, such as strings, woodwinds, and percussion, using a set of pre-recorded samples and a keyboard to control the playback.
+Donkey, ass	A large, hoofed mammal with a distinctive braying sound, classified under animal-related sounds.
+Jingle bell	A metallic sound produced by the vibration of a bell, often used to signal or announce something, categorized under musical instruments or sounds.
+Surface contact	The sound produced by the impact of an object on a surface, characterized by its intensity and frequency, classified under mechanical sounds.
+Loop	A repetitive, continuous sound or sequence of sounds, often used in electronic music or sound effects.
+String section	A section of a musical composition that features strings, such as violins, violas, or cellos, typically characterized by their rich, resonant sound.
+Harpsichord	A keyboard instrument with strings that are plucked by a plectrum, often used in Baroque music, characterized by its distinctive, twangy sound.
+Happy music	Upbeat, major-key melodies often associated with positive emotions, characterized by their lively rhythm and cheerful sound.
+Cornet	A brass instrument with a distinctive, bright, and mellow sound, typically used in jazz music and characterized by its conical shape and single-reed mouthpiece.
+Theme music	A short, memorable melody or tune associated with a particular TV show, movie, or brand, often used to evoke a sense of familiarity and nostalgia.
+Grunge	A genre of alternative rock music characterized by its heavy, distorted guitar sound, often accompanied by angsty lyrics and a grunge aesthetic.
+Scratch	A technique used in DJing and turntablism where the DJ manipulates the sound of a record by scratching the vinyl surface with their fingers or a stylus, creating a distinctive rhythmic sound.
+Drum and bass	A genre of electronic dance music (EDM) characterized by its heavy, fast-paced drum beats and bass lines, often accompanied by synthesized sounds and samples.
+Grind	The rough, grinding sound produced by the movement of two hard surfaces against each other, often associated with machinery or food preparation.
+Alto saxophone	The high-pitched, mellow sound produced by blowing air through a single reed, characterized by its versatility and expressive range, belonging to the category of woodwind instruments.
+Beat	The steady, rhythmic sound produced by a drum or other percussion instrument, often accompanied by other musical elements, classified under percussion sounds.
+Yak	A large, hoofed mammal with a distinctive, low-pitched vocalization often used for communication or warning.
+Clickety-clack	The rhythmic, metallic sound produced by the movement of train wheels on tracks, often used to indicate the train's approach or departure.
+Clavinet	A percussion instrument with a unique, resonant sound, characterized by its wooden keys and metal strings, often used in jazz and funk music.
+Gospel music	A genre of religious music characterized by its uplifting, soulful melodies and rhythmic patterns, often featuring choirs and instrumental accompaniment, belonging to the category of music and cultural sounds.
+Melody	A sequence of musical notes arranged in a pleasing pattern, often characterized by its pitch, rhythm, and contour, belonging to the category of music and musical elements.
+Flamenco	A traditional Spanish art form characterized by its passionate, expressive singing, guitar playing, and dance movements, often accompanied by hand clapping and percussion, belonging to the category of music and cultural sounds.
+Electronic dance music	A genre of percussive electronic music produced largely for nightclubs, festivals, and raves, characterized by repetitive beats and synthesized sounds, often produced for playback by DJs who create seamless selections of audio called a mix by segueing from one recording to another.
+Zing	A short, sharp, high-pitched sound, often produced by a metal object striking another or by a high-frequency electronic device, such as a speaker or a musical instrument, and typically associated with excitement, energy, or alertness.
+Scary music	A type of music designed to evoke fear, dread, or unease, often characterized by its dissonance, sudden changes in tempo or dynamics, and use of eerie or unsettling sounds, such as screeching, whispering, or percussive elements, and typically associated with horror films, haunted houses, or other suspenseful contexts.
+Dub	A rhythmic, electronic sound often used in dance music, characterized by its repetitive patterns and deep bass frequencies.
+Goose	The distinctive, high-pitched vocalizations produced by geese, often characterized by their honking or squawking sounds.
+Music of Bollywood	The melodic and rhythmic songs from Indian films, characterized by their use of traditional Indian instruments and melodies, often featuring a blend of Hindi and English lyrics, belonging to the category of cultural and entertainment sounds.
+Beep, bleep	The short, high-pitched electronic sounds often used as alerts, notifications, or indicators, classified under electronic and digital sounds.
+Electronica	The broad range of percussive electronic music produced largely for nightclubs, festivals, and raves, characterized by its repetitive beats and synthesized sounds, belonging to the category of electronic and dance music.
+Shofar	A traditional Jewish musical instrument made from a ram's horn, producing a loud, resonant sound often used for religious ceremonies and celebrations.
+Synthesizer	An electronic musical instrument that generates sound by combining and manipulating various waveforms, often used in electronic music and sound design.
+Drone	A sustained, monotonous sound produced by a single musical note or tone, often used in minimalist or ambient music and soundscapes.
+Crunch	A sharp, crisp sound produced by the impact of two hard objects, often associated with footsteps or the sound of something being crushed.
+Ping	A short, high-pitched sound produced by the reflection of a wave, often used in electronic devices or communication systems.
+	A term used in computing to represent a very small value, often used in scientific and engineering applications.
+Duck	The quacking vocalizations produced by ducks, characterized by their distinctive rhythm and pitch, belonging to the category of animal vocalizations.
+Dubstep	The electronic dance music genre characterized by its heavy bass, fast tempo, and syncopated rhythms, often featuring distorted and staccato sounds, classified under electronic music.
+Violin, fiddle	The high-pitched, bowed string instrument used in various musical genres, producing a rich, resonant sound, categorized under musical instruments.
+Drone music	A type of electronic music characterized by its repetitive, hypnotic soundscapes, often produced using synthesizers or other electronic instruments, classified under the category of electronic music.
+Sizzle	The sizzling sound produced by food cooking, characterized by rapid, popping noises, typically associated with kitchen or culinary sounds.
+Zither	The melodic sound produced by plucking the strings of a zither, a stringed musical instrument with a flat wooden body and a set of strings, classified under the category of stringed instruments.
+Psychedelic rock	A genre of rock music characterized by its use of distorted, psychedelic sounds and effects, often associated with the 1960s counterculture movement.
+Moo	The low, resonant sound produced by cows, typically used as a reference for measuring low-frequency sound levels.
+Clang	A sharp, metallic sound produced by the impact of two hard surfaces, often used in industrial or construction settings.
+Lullaby	A soothing, melodic vocalization or instrumental composition designed to calm and comfort a person or animal, often associated with motherhood or childhood.
+Swing music	A genre of jazz music characterized by its lively, upbeat tempo and distinctive rhythmic patterns, often featuring big band ensembles and improvisation.
+Song	A vocal or instrumental composition with lyrics and a melody, often expressing emotions, telling stories, or conveying a message, classified under music or vocalizations.
+Rustle	The sound of leaves or other dry materials moving in the wind, characterized by a soft, whispering quality, belonging to the category of natural environmental sounds.
+Clatter	The sound of metal striking metal, often produced by the movement of objects or machinery, classified under man-made sounds.
+Oldschool jungle	The rhythmic, percussive sounds of a jungle environment, often characterized by the use of drums, chants, and other traditional instruments, belonging to the category of cultural sounds.
+Whir	A low-pitched, continuous sound produced by the rapid rotation of a small object, such as a fan or a motor, often associated with machinery or technology.
+Soundtrack music	Background music composed specifically to accompany a film, television show, or other visual media, typically characterized by its emotional tone and pacing.
+French horn	A brass musical instrument with a distinctive, mellow, and resonant sound, played by blowing air through a cup-shaped mouthpiece and producing a rich, full-bodied tone.
+Whip	A sharp, cracking sound produced by a whip or similar instrument, often used for discipline or entertainment.
+Trance music	A type of electronic dance music characterized by its uplifting, euphoric, and energetic soundscapes, often featuring repetitive beats and synth leads.
+Kwaito	A genre of South African music characterized by its fast-paced rhythms, percussive beats, and distinctive vocal style, often featuring call-and-response singing and political commentary.
+Flap	The sound of wings flapping in the air, often associated with birds or airplanes, classified under natural or man-made sounds.
+Hammond organ	The distinctive, resonant sound produced by a Hammond organ, characterized by its vibrato and tremolo effects, classified under musical instruments or electronic sounds.
+Punk rock	The loud, aggressive sound of punk rock music, characterized by its fast tempo, distorted guitar riffs, and raw vocals, classified under music genres or cultural sounds.
+Flute	A musical instrument characterized by a cylindrical body and a single, closed end, producing a high-pitched sound through the vibration of air blown across a small opening.
+Whack, thwack	A sharp, percussive sound produced by the impact of a hard object on a surface, often accompanied by a short, high-pitched echo.
+Orchestra	A group of musicians playing together to create a harmonious and complex musical composition, typically consisting of various instruments such as strings, woodwinds, and percussion.
+Quack	The distinctive, high-pitched vocalization produced by ducks, often used to communicate or attract prey.
+Techno	A type of electronic dance music characterized by its repetitive beats, synthesized sounds, and use of digital instruments, often associated with nightclubs and raves.
+Distortion	A type of audio signal processing technique that intentionally introduces nonlinearities into the audio signal, resulting in a distorted sound.
+White noise	A type of audio signal characterized by its high frequency content and lack of any discernible pattern or structure, often used as a reference for measuring other audio signals.
+Unmodified field recording	An audio recording made in its natural environment without any processing or manipulation, capturing the ambient sounds and background noise of the location.
+Environmental noise	The ambient sounds produced by natural and human-made sources in a given environment, often characterized by their background hum, traffic, and other urban sounds.
+Cacophony	A harsh, discordant mixture of sounds that can be unpleasant or overwhelming to the ear, often resulting from a combination of different types of noise or music.
+Hoot	The distinctive, high-pitched vocalization produced by an owl, often used for hunting or communication, belonging to the category of animal vocalizations.
+Squawk	A loud, sharp vocalization produced by birds, often used for warning or communication, belonging to the category of animal vocalizations.
+Fly, housefly	The buzzing sound produced by houseflies while flying, characterized by its high-pitched, rapid quality, classified under insect sounds.
+Yip	A short, high-pitched vocalization produced by dogs, often used for excitement or joy, categorized under animal vocalizations.
+Croak	The distinctive, low-pitched vocalization produced by frogs, often used for communication or attracting mates, belonging to the category of animal vocalizations.
+Owl	The hooting or screeching vocalizations produced by owls, often used for hunting or communication, belonging to the category of bird vocalizations.
+Chipmunk	The high-pitched, chirping vocalizations produced by chipmunks, often used for communication or warning of predators, belonging to the category of mammal vocalizations.
+Roar	A loud, deep, and resonant sound produced by an animal, typically a lion or a bear, often used to communicate or intimidate.
+Field recording	An audio recording made in a natural environment, capturing the ambient sounds and background noise of a particular location.
+Background noise	A persistent, low-level sound that forms the backdrop to other sounds, often characterized by its lack of distinct features or patterns.
+Gramophone record	A vinyl record played on a gramophone, characterized by its scratchy, warm sound and nostalgic association with old-time music.
+Reverberation	The echoing or bouncing of sound in a space, often used in recording studios or live performances to enhance the acoustic ambiance.
+Coo	The distinctive, melodious vocalization produced by a pigeon, often used as a reference point for other bird songs.
+Echo	A repeated, delayed sound resulting from the reflection of a sound wave in a medium, often characterized by a distinct, hollow quality, belonging to the category of acoustic phenomena.
+Whale vocalization	The complex, low-frequency vocalizations produced by whales, often characterized by their distinct patterns and rhythms, belonging to the category of animal vocalizations.
+Noise	A broad category of unwanted or interfering sounds, often characterized by their intensity, frequency, and duration, belonging to the category of environmental sounds.
+Mosquito	A small, buzzing insect that produces a high-pitched, rhythmic sound while flying, often associated with outdoor environments and summer nights.
+Pink noise	A type of white noise characterized by its pinkish hue, produced by averaging the power of a wide range of frequencies, often used as a background sound or to mask unwanted noise.
+Snake	A slithering reptile that produces a soft, hissing sound when threatened or agitated, often associated with natural environments and wildlife.
+Vibration	A rhythmic, oscillatory movement or fluctuation of energy, often producing a sound or felt sensation, classified under mechanical vibrations.
+Throbbing	A pulsating, rhythmic sound or sensation, often associated with a beating heart or other pulsating organs, classified under biological sounds.
+Mains hum	A low-frequency, continuous humming sound produced by the electrical power grid, often heard as a background noise, classified under environmental sounds.
+Patter	A rhythmic, repetitive sound produced by a variety of sources, such as rain, footsteps, or machinery, often characterized by a distinct pattern and intensity.
+Hubbub, speech noise, speech babble	A mixture of voices and sounds produced by people talking, often characterized by overlapping speech, background noise, and varying levels of volume and intensity.
+Static	A constant, unchanging sound produced by a source of electrical or mechanical interference, often characterized by a low-frequency hum or buzz.
+Whimper (dog)	A low, mournful vocalization produced by a dog, often associated with sadness or fear.
+Radio	An electronic device used for transmitting and receiving radio broadcasts, characterized by its static and background noise.
+White noise, pink noise	Two types of noise commonly used in audio processing and sound design, characterized by their spectral properties and frequency distribution.
+Mouse	Small, high-pitched vocalizations produced by mice, often characterized by their rapid, staccato rhythm and distinctive pitch.
+Roaring cats (lions, tigers)	The loud, resonant vocalizations produced by big cats, such as lions and tigers, often characterized by their deep, rumbling quality and distinctive pitch.
+Rodents, rats, mice	The general term for small, furry mammals that belong to the order Rodentia, including rats, mice, and other rodents, often characterized by their sharp teeth and agile movements.
+Sidetone	A high-pitched, whistling sound produced by a microphone or speaker when it is not in use, often used as a diagnostic tool in audio equipment.
+Tape hiss	A faint, continuous, high-pitched sound produced by the movement of magnetic tape on a tape recorder or player, often associated with old-fashioned audio recording technology.
+Neigh, whinny	The high-pitched, resonant vocalizations produced by a horse, often used to communicate with other horses or to signal their presence.
+Sound reproduction	The process of producing and transmitting sound waves through a medium, often using electronic devices such as speakers or headphones.
+Carbon monoxide detector, CO detector	An electronic device designed to detect the presence of carbon monoxide gas in the air, typically used in residential or commercial settings to prevent poisoning.
+Mantra	A word, phrase, or sound repeated as a form of meditation or spiritual practice, often used in Hindu or Buddhist traditions to focus the mind and achieve a state of inner peace or enlightenment.
+Filing (rasp)	The sound of metal filing against metal, characterized by a rhythmic, high-pitched noise, often associated with office or industrial sounds.
+Wheeze	The high-pitched, whistling sound produced by narrowed airways, often associated with respiratory conditions or allergies, categorized under medical or health-related sounds.
+Power saw, circular saw, table saw	The loud, high-pitched sound produced by the blade of a power saw cutting through wood or other materials, often associated with construction or woodworking sounds.
+Photocopier	The sound produced by a photocopier machine, characterized by a rhythmic clicking and whirring noise, often accompanied by a faint humming sound, classified under office or commercial sounds.
+Nicker	The sound produced by a horse's teeth as it bites or chews, characterized by a sharp, high-pitched noise, often accompanied by a soft clacking sound, classified under animal sounds.
+Gush	The sound produced by a liquid flowing rapidly and forcefully, often characterized by a loud, rushing noise, classified under liquid or fluid movement sounds.
+Whimper	A soft, mournful sound often produced by dogs or other animals in distress, characterized by its high-pitched, trembling quality.
+Tire squeal	The loud, high-pitched screeching sound produced by the friction of tires on a surface, typically heard when a vehicle is turning or braking.
+Crockery breaking and smashing	The sharp, cracking and crashing sounds produced when ceramic dishes or other kitchenware are broken or shattered, often accompanied by the sound of shattering glass.
+Single-lens reflex camera	A type of camera that captures images by focusing light onto a single lens, which then reflects the image onto a mirror and onto the film or digital sensor.
+Digestive	The system of organs responsible for breaking down food and absorbing nutrients, characterized by a series of muscular contractions and secretions.
+Mechanical bell	A device that produces a sound through the vibration of a metal clapper or other mechanical means, often used to signal or alert people.
+Rustling leaves	The sound produced by leaves moving in the wind, characterized by a soft, rustling quality, often associated with natural environmental sounds.
+Pant (dog)	The sound produced by a dog panting, characterized by a rhythmic, shallow breathing sound, often associated with animal sounds or vocalizations.
+Microphone	An electronic device used to capture and convert sound waves into electrical signals, often used in audio recording or communication systems, classified under audio recording or communication equipment.
+Slosh	The sound of liquid sloshing or splashing on a surface, often characterized by a rhythmic, splashing pattern, belonging to the category of liquid or fluid movement sounds.
+Groan	The low, guttural sound produced by a heavy object or structure moving or shifting, often accompanied by a rumbling or grinding noise, classified under mechanical or industrial sounds.
+Rain on surface	The continuous, pattering sound of raindrops hitting a surface, often characterized by its intensity and white noise-like qualities, belonging to the category of natural environmental sounds.
+Toot	A short, high-pitched sound produced by a whistle or other musical instrument, often used as a signal or warning.
+Booing	A loud, prolonged sound produced by clapping one's hands or stomping feet, often used as a form of protest or disapproval.
+Sewing machine	The rhythmic, mechanical sound produced by a sewing machine as it stitches fabric, characterized by its steady, repetitive pattern.
+Error signal	A high-pitched, pulsating sound often used to indicate an error or malfunction in electronic devices or systems.
+Steam whistle	A loud, penetrating sound produced by the steam or air whistle of a train, typically signaling its approach or departure, categorized as transportation-related sounds.
+Source-ambiguous sounds	Sounds that cannot be easily attributed to a specific source or cause, often resulting in confusion or uncertainty, classified under ambiguous sounds.
+Spray	The sound of a liquid being expelled from a container, often characterized by a hiss or fizz.
+Canidae, wild dogs, wolves	The howling or barking of wild dogs or wolves, often used for communication or warning.
+Ship	The sound of a ship's engine or sails, often accompanied by the creaking of rigging or the splashing of water.
+Firecracker	A loud, explosive sound produced by the rapid expansion of gunpowder, often accompanied by a sharp crackling noise, classified under man-made sounds and fireworks.
+Sanding	The rough, gritty sound produced by the friction of sandpaper against a surface, often accompanied by a low-pitched hum, categorized as human activities or construction sounds.
+Dental drill, dentist's drill	The high-pitched, whirring sound produced by a dental drill, often accompanied by a buzzing or humming noise, classified under medical or dental-related sounds.
+Wolf-whistling	The high-pitched, mournful whistles produced by wolves, often used for communication or warning purposes, classified under animal vocalizations.
+Lawn mower	The rhythmic, humming sound produced by a lawn mower as it cuts grass, characterized by its repetitive pattern and mechanical nature, categorized as machinery-related sounds.
+Skidding	The sharp, screeching sound produced by tires losing traction and sliding on a surface, often accompanied by a metallic clangor, classified under transportation-related sounds.
+Grunt	A low, guttural vocalization produced by the human vocal tract, often used as a form of communication or expression, classified under human vocalizations.
+Thunk	A sharp, percussive sound produced by the impact of a hard object on a surface, characterized by its short duration and high intensity, classified under physical impacts.
+Sniff	The inhalation of air through the nose, characterized by a short, sharp sound, often used as a form of sensory perception or communication, classified under human respiratory sounds.
+Bass drum	A deep, resonant drum sound often used in music and percussion, characterized by its low frequency and strong, rhythmic beats.
+Bathroom sounds	A variety of sounds produced in a bathroom setting, including running water, flushing toilets, and the sound of someone using the shower or sink.
+Kitchen and dining room sounds	A collection of sounds produced in a kitchen or dining room setting, including the sound of cooking appliances, dishes clinking, and people talking and laughing.
+Heart murmur	A rhythmic, pulsating sound produced by the heart, often heard through a stethoscope, belonging to the category of biological sounds.
+Specific impact sounds	The sharp, short sounds produced by the impact of objects on surfaces, characterized by their distinct patterns and frequencies, classified under the category of mechanical sounds.
+Electric rotor drone, quadcopter	The continuous, humming sound produced by the rotors of an electric aircraft, often used for surveillance or aerial photography, categorized under the category of transportation-related sounds.
+Whoop	A loud, high-pitched vocalization produced by humans, often used for celebration or excitement, classified under human vocalizations.
+Acoustic environment	The overall soundscape or ambient noise of a particular location, characterized by its background noise, reverberation, and other acoustic properties, belonging to the category of natural environmental sounds.
+Sailboat, sailing ship	The continuous, rhythmic sound of water splashing against the hull of a sailboat or sailing ship, often accompanied by the creaking of rigging and the flapping of sails, classified under transportation-related sounds.
+Tire squeal, skidding	The high-pitched, metallic sound produced by the friction of tires on a surface, often accompanied by a skidding or screeching noise, classified under transportation-related sounds.
+Chink, clink	The sharp, metallic sound produced by the impact of two hard objects, such as metal on metal or glass on glass, often characterized by a short, repeated rhythm, classified under mechanical sounds.
+Rowboat, canoe, kayak	The gentle, rhythmic sound produced by the movement of water over the surface of a small boat, such as a rowboat, canoe, or kayak, characterized by a soft, lapping motion, classified under water-related sounds.
+Rapping	A vocal style characterized by rhythmic, spoken lyrics often accompanied by beatboxing and electronic music, classified under human vocalizations and music-related sounds.
+Propeller, airscrew	The mechanical device used to generate lift and propel an aircraft, characterized by a rotating blade or blades, classified under transportation-related sounds.
+Keypress tone	The electronic sound produced when a key is pressed on a computer keyboard, often used as a feedback mechanism or to indicate user input, classified under computer-related sounds.
+Humming	A low-frequency, continuous sound produced by vibrating objects, often associated with human activity or natural phenomena.
+Drum roll	A rhythmic, percussive sound produced by striking a drum or other percussion instrument, often used to signal the beginning of an event or performance.
+Sonar	A system that uses sound waves to detect and locate objects or obstacles, often used in navigation or military applications.
+Pigeon, dove	The cooing or hooting vocalizations produced by pigeons and doves, often characterized by their soft, melodic tones and distinctive patterns, belonging to the category of bird vocalizations.
+Hiccup	"The sudden, rhythmic contraction of the diaphragm and closure of the glottis, producing a short, sharp sound often described as a ""hiccup"" or ""burp"", classified under human vocalizations or physiological sounds."
+Snort	"The sharp, short sound produced by the rapid expansion of air through the nose, often accompanied by a nasal quality and a ""snorting"" sound, categorized under human respiratory sounds."
+Dong, bong	The metallic, ringing sound produced by a church bell, often used to signal the time or other important events, classified under religious or cultural sounds.
+Yodeling	The high-pitched, resonant vocalizations produced by vocal cords stretched and contracted rapidly, often used in traditional folk music or as a form of vocal exercise, categorized under human vocalizations or musical expressions.
+Power windows, electric windows	The electrically operated windows in vehicles, characterized by their smooth, quiet movement and the sound of the motor, classified under transportation-related sounds.
+Jet engine	A loud, continuous, and rhythmic sound produced by the combustion of fuel in a jet aircraft engine, often characterized by its high-pitched and pulsating qualities, belonging to the category of transportation-related sounds.
+Paper rustling	The soft, crinkling sound produced by the movement of paper, often caused by wind or human handling, categorized as natural environmental sounds.
+Alert	A high-pitched, electronic sound often used to signal danger or warning, classified under alarm or warning sounds.
+Shower	The sound of water splashing against a surface, typically produced by a showerhead or faucet, often characterized by its rhythmic, continuous nature and varying intensity.
+Foghorn	The loud, continuous sound produced by a foghorn, often used to signal danger or warning, classified under transportation-related sounds.
+Blender, food processor	The whirring, blending sound produced by a blender or food processor, often associated with kitchen or culinary sounds and characterized by its rapid, pulsating nature.
+Heart sounds, heartbeat	The rhythmic, pulsating sounds produced by the heart, often characterized by their distinct pattern and intensity, belonging to the category of biological sounds.
+Channel, environment and background	The ambient sounds that form the background of a particular audio recording, often characterized by their intensity, frequency, and spatial distribution, belonging to the category of environmental sounds.
+Howl	The mournful, prolonged vocalizations produced by wolves or other animals, often used for communication or warning, belonging to the category of animal vocalizations.
+Pant	The rhythmic, shallow breathing sounds produced by a person while exercising or inhaling deeply, categorized as human respiratory sounds.
+Kettle whistle	The high-pitched, continuous sound produced by the steam whistle of a kettle, often used to signal the boiling of water, classified under kitchen or culinary sounds.
+Stir	The repetitive, rhythmic sounds produced by a spoon or other utensil being stirred in a pot or pan, often accompanied by the sound of bubbling or sizzling, categorized as kitchen or culinary sounds.
+Ducks, geese, waterfowl	The quacking or honking vocalizations produced by ducks, geese, and other waterfowl, often characterized by distinct patterns, pitches, and rhythms, belonging to the category of animal vocalizations.
+Wood	The rustling or creaking sound produced by wood as it moves or changes position, often associated with outdoor or natural environments, categorized as environmental sounds.
+Clunk	The sharp, metallic sound produced by the impact of two hard objects, often accompanied by a short echo, classified under mechanical sounds.
+Stomach rumble	The gurgling or bubbling sound produced by the stomach, often accompanied by a feeling of hunger or discomfort, classified under human physiological sounds.
+Waterfall	The continuous, rushing sound of water splashing from a height, typically characterized by its intensity and white noise-like qualities, belonging to the category of natural environmental sounds.
+Shuffling cards	The soft, rustling sound produced by shuffling a deck of cards, often accompanied by the occasional snap or click, categorized as human activities or movement sounds.
+Wail, moan	A mournful, prolonged vocalization often associated with grief or sadness, classified under human vocalizations.
+Non-motorized land vehicle	A vehicle that does not rely on motor power to move, such as a bicycle or horse-drawn carriage, categorized under transportation-related sounds.
+Natural sounds	Sounds produced by natural phenomena, such as birdsong, waterfall, or thunder, classified under natural environmental sounds.
+Steam	The sound of steam hissing or whistling, often associated with trains or industrial processes, classified under transportation-related sounds.
+Cart	The sound of a cart or trolley moving along tracks, often characterized by its metallic clanging and rumbling, categorized as transportation-related sounds.
+Harmonic	The sound of two or more frequencies blending together in a pleasing, musical way, often produced by instruments or natural phenomena, classified under musical or natural environmental sounds.
+Sound equipment	The mechanical devices used to produce, record, and reproduce sound, often characterized by their electronic components and design, belonging to the category of audio technology.
+Sonic boom	The loud, explosive sound produced by the rapid expansion of air surrounding a supersonic object, often accompanied by a sharp, crackling noise, classified under atmospheric phenomena.
+Eruption	The sudden, explosive release of energy or matter, often accompanied by a loud, rumbling sound, classified under geological or volcanic phenomena.
+Motorboat, speedboat	A watercraft powered by a motor, characterized by its speed and maneuverability, often used for recreational or commercial purposes.
+Studio recording	The process of capturing and recording audio in a controlled environment, typically involving microphones and audio equipment, for use in music, film, or other forms of media.
+Engine knocking	The rhythmic, metallic sound produced by the combustion of fuel in an internal combustion engine, often indicating a problem with the engine or fuel system.
+Human locomotion	The rhythmic sounds produced by the impact of feet on a surface while walking or running, varying in speed, intensity, and pattern, categorized as human activities or movement sounds.
+Ice cream truck, ice cream van	The loud, jingling sound produced by the bell of an ice cream truck or van, often accompanied by the sound of churning ice cream, classified under transportation-related sounds.
+Gargling	The bubbling or gushing sound produced by liquid moving through a confined space, such as water flowing through a narrow passage or the stomach rumbling, classified under liquid or fluid movement sounds.
+Dial tone	A high-pitched, rhythmic sound produced by a telephone to indicate an incoming call or to connect to a network.
+Cellphone buzz, vibrating alert	A short, high-frequency vibration or buzzing sound produced by a cellphone to indicate an incoming message, call, or notification.
+Duck call (hunting tool)	A loud, high-pitched whistle or call used by hunters to attract ducks for hunting.
+Puff	A short, sharp sound produced by the expulsion of air from a small opening, often associated with cigarette smoking or blowing out candles.
+Velcro, hook and loop fastener	A fastening system consisting of two strips, one with small hooks and the other with loops, that can be easily attached and detached from each other.
+Knife	A cutting tool with a sharp blade, typically made of steel, designed for cutting through various materials such as wood, metal, or fabric.
+Rimshot	A sharp, percussive sound produced by striking a drum or other object with a mallet, often used in music or theater.
+Pulleys	The metallic clanging or whirring sound produced by the movement of pulleys, often used in machinery or construction.
+Narration, monologue	A spoken storytelling or commentary, often delivered in a clear and expressive voice, belonging to the category of human speech sounds.
+Electronic tuner	A device used to adjust the pitch of musical instruments, characterized by a high-pitched, electronic sound.
+Yawn	A deep, prolonged inhalation accompanied by a slight opening of the mouth, often used to stretch the muscles of the face and neck, classified under human vocalizations or physical actions.
+Slurp, drinking straw	The sound produced by sucking through a straw, characterized by a rhythmic, slurping noise, often associated with beverages or snacks, categorized under human activities or food-related sounds.
+Wobble	A rhythmic, unsteady movement or vibration, often associated with a musical instrument or a mechanical device.
+Ding-dong	A short, metallic sound produced by a bell or a chime, often used to signal or announce something.
+Ringing tone, ringback tone	A continuous, high-pitched sound produced by a telephone or a mobile device, often used to indicate an incoming call or a voicemail message.
+Synthetic singing	A vocalization produced by a machine or computer program, often characterized by a smooth, consistent tone and a lack of natural expressiveness.
+Tap dance	A rhythmic, percussive dance style that involves striking objects (such as floors, walls, or other surfaces) with the feet, often accompanied by vocalizations and body movements.
+Refrigerator	An appliance designed to cool and preserve food and beverages by removing heat from the interior, characterized by a humming or buzzing sound when in operation.
+Shuffle	The sound of shuffling cards or paper, characterized by a rhythmic, soft rustling noise.
+Stairs	The sound of footsteps on stairs, characterized by a rhythmic, echoing clatter.
+Thump_and_thud	A rhythmic, percussive sound produced by the impact of a hard object against a surface, often associated with footsteps or other forms of movement.
+Engine_starting	The sound produced by the ignition and combustion of fuel in an engine, typically characterized by a loud, rhythmic noise.

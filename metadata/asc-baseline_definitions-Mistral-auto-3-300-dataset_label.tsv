@@ -1,0 +1,47 @@
+label	definition
+car	A vehicle with four wheels, typically powered by an internal combustion engine or an electric motor, and characterized by its metallic structure and engine sounds.
+busystreet	A busy street with a lot of traffic, characterized by the sounds of honking horns, screeching brakes, and revving engines.
+Car	A vehicle with four wheels, typically powered by an internal combustion engine or an electric motor, and characterized by its metallic structure and engine sounds.
+cafe/restaurant	A place where food and drinks are served, often characterized by the sound of clinking dishes, chatter, and the sizzling of food.
+street_pedestrian	A person walking on a street, often characterized by the sound of footsteps, the rustling of clothing, and the occasional car horn.
+library	A place where books and other materials are stored and accessed, often characterized by the sound of turning pages, hushed conversations, and the occasional cough.
+quietstreet	A street with low levels of noise, characterized by the absence of loud sounds and minimal traffic.
+restaurant	A place where food and drinks are served, often featuring a variety of sounds such as clinking dishes, chatter, and cooking noises.
+street_traffic	The sounds produced by vehicles and pedestrians on a street, including horns, engines, and footsteps.
+SubwayStation	A bustling, enclosed space with the constant hum of trains, footsteps, and distant conversations; the sound of train brakes and doors opening and closing; the occasional announcement over the PA system.
+residential_area	A quiet, peaceful neighborhood with the sound of birds chirping, leaves rustling, and distant traffic; the occasional barking of dogs or children playing; the sound of lawnmowers and leaf blowers on weekends.
+Park	An open, green space designed for recreation and relaxation, characterized by the sound of birds singing, leaves rustling, and children playing.
+home	A place where people live and interact, characterized by a mix of sounds such as footsteps, voices, and appliances.
+office	A place where people work, characterized by a mix of sounds such as typing, talking, and the hum of office equipment.
+train	A mode of transportation consisting of a series of connected cars, characterized by the sound of wheels on tracks and the occasional braking noise.
+tube	The sound of a train moving through a tunnel, characterized by its echoey and reverberant qualities.
+Subway	The continuous, rumbling sound produced by the movement of trains on underground tracks, often accompanied by the clanging of metal on metal.
+supermarket	The ambient noise of a supermarket, including the sound of shopping carts rolling, people chatting, and the hum of refrigerators and air conditioners.
+grocery_store	The bustling, cacophony of sounds in a grocery store, including the chatter of customers, the clinking of shopping carts, and the hum of refrigerators.
+bus	The rumbling, metallic sound of a bus engine, accompanied by the screeching of brakes and the chatter of passengers.
+Kitchen	The sizzling, bubbling, and clattering sounds of a busy kitchen, including the cooking of food, the washing of dishes, and the chatter of cooks and servers.
+beach	The sound of waves crashing against the shore, seagulls squawking, and people chatting and laughing.
+Cafe	The sound of coffee machines brewing, clinking of dishes and cutlery, and conversations between customers and staff.
+public_square	The sound of people talking, children playing, and street performers playing music or making noise.
+Elevator	The sound of an elevator moving up or down, characterized by its rhythmic, metallic clanging and soft humming.
+forest_path	The rustling and crunching of leaves and twigs underfoot, accompanied by the occasional chirping of birds and the distant sound of water flowing.
+Restroom	The sound of water flushing, followed by the soft clinking of the toilet seat and the occasional rustling of toilet paper.
+openairmarket	A bustling marketplace with a variety of vendors selling fresh produce, handmade crafts, and other goods; characterized by the sounds of people haggling, vendors calling out their wares, and the clinking of shopping bags.
+shopping_mall	A large, enclosed shopping center with multiple stores, restaurants, and other amenities; characterized by the sounds of shoppers browsing, cash registers ringing, and the hum of air conditioning.
+	A term used in computing to represent a value that is not a number; not applicable to audio descriptions.
+unknown	A sound that is unfamiliar or unidentifiable
+airport	The continuous, low-pitched hum of aircraft engines and other airport-related sounds, such as announcements and footsteps
+tram	The rhythmic clanging of tram tracks and the occasional screeching of brakes, accompanied by the chatter and footsteps of passengers
+Bus	A large, motorized vehicle designed for transportation of passengers, characterized by its loud, rumbling engine and the sound of brakes and doors opening and closing.
+Metro	A rapid transit system consisting of trains that run on tracks underground or above ground, characterized by its deep, resonant hum and the sound of trains arriving and departing.
+metro_station	The sound of people talking, footsteps, and trains arriving and departing in a busy urban environment.
+Street	The sound of traffic, including cars, buses, and motorcycles, as well as pedestrians and street vendors.
+CrowdedIndoor	The sound of people talking, laughing, and moving around in a crowded indoor space, such as a shopping mall or a concert venue.
+ResidentialArea	A quiet, peaceful neighborhood with a mix of residential and commercial buildings, characterized by low traffic and a relaxed atmosphere.
+CityCenter	A bustling, lively area in the heart of a city, characterized by high traffic, tall buildings, and a variety of shops, restaurants, and entertainment venues.
+Tubestation	A busy, noisy train station with multiple tracks and platforms, characterized by the sound of trains arriving and departing, footsteps, and announcements.
+Restaurant	A place where food and drinks are served to customers, often with tables, chairs, and a kitchen.
+tubestation	The sound of trains arriving and departing from a tube station, characterized by the clanging of wheels on rails and the rumble of engines.
+park	The sound of people enjoying outdoor activities in a park, such as laughter, chatter, and the rustling of leaves.
+metro	The sound of trains moving through a metro system, characterized by the clanging of wheels on tracks and the rumble of engines.
+city_center	A bustling, urban environment characterized by the sounds of traffic, people, a mix of honking horns, chatter, and the hum of engines, with occasional bursts of sirens and construction noise.

@@ -1,0 +1,1239 @@
+dataset	label	definition
+Fsd50k	Conversation	(a) talk between two or more people in which thoughts, feelings, and ideas are expressed, questions are asked and answered, or news and information is exchanged
+AudioSet	Conversation	(a) talk between two or more people in which thoughts, feelings, and ideas are expressed, questions are asked and answered, or news and information is exchanged
+Dcase2017t4	Conversation	(a) talk between two or more people in which thoughts, feelings, and ideas are expressed, questions are asked and answered, or news and information is exchanged
+AudioSet	Whir	(esp. of machines) to make a soft, continuous sound like a wheel turning very quickly
+Dcase2017t4	Whir	(esp. of machines) to make a soft, continuous sound like a wheel turning very quickly
+AudioSet	Mantra	(especially in Hinduism and Buddhism) a word or sound that is believed to have a special spiritual power
+AudioSet	Chirp tone	(especially of a bird) to make a short high sound or sounds
+AudioSet	Skidding	(especially of a vehicle) to slide along a surface so that you have no control
+Dcase2017t4	Skidding	(especially of a vehicle) to slide along a surface so that you have no control
+AudioSet	Whimper (dog)	(especially of an animal) to make a series of small, weak sounds expressing pain or unhappiness
+Dcase2017t4	Whimper (dog)	(especially of an animal) to make a series of small, weak sounds expressing pain or unhappiness
+ESC50	crackling_fire	(material that is in) the state of burning that produces flames that send out heat and light, and might produce smoke
+Fsd50k	Fire	(material that is in) the state of burning that produces flames that send out heat and light, and might produce smoke
+AudioSet	Fire	(material that is in) the state of burning that produces flames that send out heat and light, and might produce smoke
+Dcase2017t4	Fire	(material that is in) the state of burning that produces flames that send out heat and light, and might produce smoke
+Fsd50k	Tick-tock	(of a clock) to make a regular clicking sound
+AudioSet	Tick-tock	(of a clock) to make a regular clicking sound
+Dcase2017t4	Tick-tock	(of a clock) to make a regular clicking sound
+Fsd50k	Bark	(of a dog) to make a loud, rough noise
+AudioSet	Bark	(of a dog) to make a loud, rough noise
+Dcase2017t4	Bark	(of a dog) to make a loud, rough noise
+UrbanSound8K	dog_bark	(of a dog) to make a loud, rough noise
+AudioSet	Nicker	(of a horse) give a soft breathy whinny
+AudioSet	Slosh	(of a liquid) to move around noisily in the bottom of a container, or to cause liquid to move around in this way by making rough movements
+Dcase2017t4	Slosh	(of a liquid) to move around noisily in the bottom of a container, or to cause liquid to move around in this way by making rough movements
+Fsd50k	Run	(of people and some animals) to move along, faster than walking, by taking quick steps in which each foot is lifted before the next foot touches the ground
+AudioSet	Run	(of people and some animals) to move along, faster than walking, by taking quick steps in which each foot is lifted before the next foot touches the ground
+Dcase2017t4	Run	(of people and some animals) to move along, faster than walking, by taking quick steps in which each foot is lifted before the next foot touches the ground
+Fsd50k	Gurgling	(of water, especially small streams) to flow quickly while making a low, pleasant sound
+AudioSet	Gurgling	(of water, especially small streams) to flow quickly while making a low, pleasant sound
+Dcase2017t4	Gurgling	(of water, especially small streams) to flow quickly while making a low, pleasant sound
+UrbanSound8K	gun_shot	(the sound of) the shooting of a gun
+Fsd50k	Cowbell	a bell that is hung from a cow's neck so that the cow can be found, or a metal musical instrument in the shape of such a bell that is hit with a stick
+AudioSet	Cowbell	a bell that is hung from a cow's neck so that the cow can be found, or a metal musical instrument in the shape of such a bell that is hit with a stick
+Fsd50k	Doorbell	a bell, operated by a button on or next to the door of a house, that you push to tell the people inside that you are there
+AudioSet	Doorbell	a bell, operated by a button on or next to the door of a house, that you push to tell the people inside that you are there
+Dcase2017t4	Doorbell	a bell, operated by a button on or next to the door of a house, that you push to tell the people inside that you are there
+Fsd50k	Fowl	a bird of a type that is used to produce meat or eggs
+AudioSet	Fowl	a bird of a type that is used to produce meat or eggs
+Dcase2017t4	Fowl	a bird of a type that is used to produce meat or eggs
+AudioSet	Duck	a bird that lives by water and has webbed feet (= feet with skin between the toes), a short neck, and a large beak
+Dcase2017t4	Duck	a bird that lives by water and has webbed feet (= feet with skin between the toes), a short neck, and a large beak
+Fsd50k	Gull_and_seagull	a bird that lives near the sea and has short legs, long wings, and white and grey feathers
+AudioSet	Owl	a bird with a flat face and large eyes that hunts small mammals at night
+Dcase2017t4	Owl	a bird with a flat face and large eyes that hunts small mammals at night
+AudioSet	Sink (filling or washing)	a bowl that is attached to the wall in a kitchen or bathroom in which you wash dishes or your hands, etc.
+Dcase2017t4	Sink (filling or washing)	a bowl that is attached to the wall in a kitchen or bathroom in which you wash dishes or your hands, etc.
+Fsd50k	Sink_(filling_or_washing)	a bowl that is attached to the wall in a kitchen or bathroom in which you wash dishes or your hands, etc.
+AudioSet	Drawer open or close	a box-shaped container, without a top, that is part of a piece of furniture. It slides in and out to open and close and is used for keeping things in
+Fsd50k	Drawer_open_or_close	a box-shaped container, without a top, that is part of a piece of furniture. It slides in and out to open and close and is used for keeping things in
+Fsd50k	Accordion	a box-shaped musical instrument consisting of a folded central part with a keyboard, played by pushing the two ends towards each other
+AudioSet	Accordion	a box-shaped musical instrument consisting of a folded central part with a keyboard, played by pushing the two ends towards each other
+Dcase2017t4	Accordion	a box-shaped musical instrument consisting of a folded central part with a keyboard, played by pushing the two ends towards each other
+AudioSet	Air brake	a brake operated by air pressure, used on large vehicles such as buses and trains
+Dcase2017t4	Air brake	a brake operated by air pressure, used on large vehicles such as buses and trains
+Fsd50k	Trumpet	a brass musical instrument consisting of a metal tube with one narrow end, into which the player blows, and one wide end. Three buttons are pressed in order to change notes.
+AudioSet	Trumpet	a brass musical instrument consisting of a metal tube with one narrow end, into which the player blows, and one wide end. Three buttons are pressed in order to change notes.
+Dcase2017t4	Trumpet	a brass musical instrument consisting of a metal tube with one narrow end, into which the player blows, and one wide end. Three buttons are pressed in order to change notes.
+Fsd50k	Cricket	a brown or black insect that makes short, loud noises by rubbing its wings together
+AudioSet	Cricket	a brown or black insect that makes short, loud noises by rubbing its wings together
+ESC50	crickets	a brown or black insect that makes short, loud noises by rubbing its wings together
+AudioSet	Race car, auto racing	a car designed for use in races
+Dcase2017t4	Race car, auto racing	a car designed for use in races
+Fsd50k	Race_car_and_auto_racing	a car designed for use in races
+AudioSet	Distortion	a change in or loss of sound quality, due to changes in the shape of the sound wave
+Dcase2017t4	Distortion	a change in or loss of sound quality, due to changes in the shape of the sound wave
+Fsd50k	Water	a clear liquid, without colour or taste, that falls from the sky as rain and is necessary for animal and plant life
+AudioSet	Water	a clear liquid, without colour or taste, that falls from the sky as rain and is necessary for animal and plant life
+Dcase2017t4	Water	a clear liquid, without colour or taste, that falls from the sky as rain and is necessary for animal and plant life
+AudioSet	Alarm clock	a clock that you can set to wake you up at a particular time with a loud noise
+ESC50	clock_alarm	a clock that you can set to wake you up at a particular time with a loud noise
+Fsd50k	Hi-hat	a combination of two cymbals and a pedal, all mounted on a metal stand. It is a part of the standard drum kit used by drummers in many styles of music including rock, pop, jazz, and blues
+AudioSet	Hi-hat	a combination of two cymbals and a pedal, all mounted on a metal stand. It is a part of the standard drum kit used by drummers in many styles of music including rock, pop, jazz, and blues
+Dcase2017t4	Hi-hat	a combination of two cymbals and a pedal, all mounted on a metal stand. It is a part of the standard drum kit used by drummers in many styles of music including rock, pop, jazz, and blues
+ESC50	dog	a common animal with four legs, especially kept by people as a pet or to hunt or guard things
+Fsd50k	Dog	a common animal with four legs, especially kept by people as a pet or to hunt or guard things
+AudioSet	Dog	a common animal with four legs, especially kept by people as a pet or to hunt or guard things
+Dcase2017t4	Dog	a common animal with four legs, especially kept by people as a pet or to hunt or guard things
+AudioSet	Heart murmur	a condition in which unusual sounds can be heard in the heart, sometimes as a result of a fault in its structure
+AudioSet	Flap	a consonant sound made when the tongue moves forward and down, and quickly touches the alveolar ridge
+Dcase2017t4	Flap	a consonant sound made when the tongue moves forward and down, and quickly touches the alveolar ridge
+Fsd50k	Dishes_and_pots_and_pans	a container, flatter than a bowl and sometimes with a lid, from which food can be served or which can be used for cooking
+AudioSet	Dishes, pots, and pans	a container, flatter than a bowl and sometimes with a lid, from which food can be served or which can be used for cooking
+Dcase2017t4	Dishes, pots, and pans	a container, flatter than a bowl and sometimes with a lid, from which food can be served or which can be used for cooking
+AudioSet	Hum	a continuous low noise
+AudioSet	Babbling	a continuous low or confused sound, especially the sound of several people talking
+Dcase2017t4	Babbling	a continuous low or confused sound, especially the sound of several people talking
+AudioSet	Rumble	a continuous low sound
+Dcase2017t4	Rumble	a continuous low sound
+AudioSet	Dial tone	a continuous sound that tells you that a phone is connected to the phone system and is ready to be used
+Dcase2017t4	Dial tone	a continuous sound that tells you that a phone is connected to the phone system and is ready to be used
+AudioSet	Telephone dialing, DTMF	a continuous sound that tells you that a phone is connected to the phone system and is ready to be used
+Dcase2017t4	Telephone dialing, DTMF	a continuous sound that tells you that a phone is connected to the phone system and is ready to be used
+Fsd50k	Bird	a creature with feathers and wings, usually able to fly
+AudioSet	Bird	a creature with feathers and wings, usually able to fly
+Dcase2017t4	Bird	a creature with feathers and wings, usually able to fly
+ESC50	chirping_birds	a creature with feathers and wings, usually able to fly
+AudioSet	Howl (wind)	a current of air moving approximately horizontally, especially one strong enough to be felt
+AudioSet	Rustling leaves	a current of air moving approximately horizontally, especially one strong enough to be felt
+Dcase2017t4	Rustling leaves	a current of air moving approximately horizontally, especially one strong enough to be felt
+ESC50	wind	a current of air moving approximately horizontally, especially one strong enough to be felt
+Fsd50k	Wind	a current of air moving approximately horizontally, especially one strong enough to be felt
+AudioSet	Wind	a current of air moving approximately horizontally, especially one strong enough to be felt
+Dcase2017t4	Wind	a current of air moving approximately horizontally, especially one strong enough to be felt
+AudioSet	Wind noise (microphone)	a current of air moving approximately horizontally, especially one strong enough to be felt
+Dcase2017t4	Wind noise (microphone)	a current of air moving approximately horizontally, especially one strong enough to be felt
+AudioSet	Sine wave	a curve that shows a regular smooth repeating pattern
+Fsd50k	Boom	a deep and loud hollow sound
+AudioSet	Boom	a deep and loud hollow sound
+AudioSet	Groan	a deep, long sound showing great pain or unhappiness
+Dcase2017t4	Groan	a deep, long sound showing great pain or unhappiness
+AudioSet	Zipper (clothing)	a device consisting of two rows of metal or plastic teeth-like parts that are brought together by pulling a small sliding piece over them, used for closing openings in clothing, bags, etc.
+Fsd50k	Zipper_(clothing)	a device consisting of two rows of metal or plastic teeth-like parts that are brought together by pulling a small sliding piece over them, used for closing openings in clothing, bags, etc.
+AudioSet	Civil defense siren	a device for making a loud warning noise
+Dcase2017t4	Civil defense siren	a device for making a loud warning noise
+UrbanSound8K	siren	a device for making a loud warning noise
+ESC50	siren	a device for making a loud warning noise
+Fsd50k	Siren	a device for making a loud warning noise
+AudioSet	Siren	a device for making a loud warning noise
+Dcase2017t4	Siren	a device for making a loud warning noise
+AudioSet	Clock	a device for measuring and showing time, usually found in or on a building and not worn by a person
+Fsd50k	Clock	a device for measuring and showing time, usually found in or on a building and not worn by a person
+Fsd50k	Telephone	a device for speaking to someone in another place by means of electrical signals
+AudioSet	Telephone	a device for speaking to someone in another place by means of electrical signals
+Dcase2017t4	Telephone	a device for speaking to someone in another place by means of electrical signals
+AudioSet	Telephone bell ringing	a device for speaking to someone in another place by means of electrical signals
+Fsd50k	Camera	a device for taking photographs or making films or television programmes
+AudioSet	Camera	a device for taking photographs or making films or television programmes
+AudioSet	Single-lens reflex camera	a device for taking photographs or making films or television programmes
+Dcase2017t4	Single-lens reflex camera	a device for taking photographs or making films or television programmes
+AudioSet	Air horn, truck horn	a device on a vehicle that is used to make a loud noise as a warning or signal to other people
+Dcase2017t4	Air horn, truck horn	a device on a vehicle that is used to make a loud noise as a warning or signal to other people
+UrbanSound8K	car horn	a device on a vehicle that is used to make a loud noise as a warning or signal to other people
+ESC50	car_horn	a device on a vehicle that is used to make a loud noise as a warning or signal to other people
+AudioSet	Train horn	a device on a vehicle that is used to make a loud noise as a warning or signal to other people
+Dcase2017t4	Train horn	a device on a vehicle that is used to make a loud noise as a warning or signal to other people
+AudioSet	Vehicle horn, car horn, honking	a device on a vehicle that is used to make a loud noise as a warning or signal to other people
+Dcase2017t4	Vehicle horn, car horn, honking	a device on a vehicle that is used to make a loud noise as a warning or signal to other people
+Fsd50k	Vehicle_horn_and_car_horn_and_honking	a device on a vehicle that is used to make a loud noise as a warning or signal to other people
+AudioSet	Television	a device shaped like a box with a screen that receives electrical signals and changes them into moving images and sound, or the method or business of sending images and sound by electrical signals
+Dcase2017t4	Television	a device shaped like a box with a screen that receives electrical signals and changes them into moving images and sound, or the method or business of sending images and sound by electrical signals
+AudioSet	Fire alarm	a device such as a bell or siren that warns the people in a building that the building is on fire
+Dcase2017t4	Fire alarm	a device such as a bell or siren that warns the people in a building that the building is on fire
+AudioSet	Sampler	a device that allows you to record parts of other people's songs and then use these parts to create new pieces of music
+Dcase2017t4	Sampler	a device that allows you to record parts of other people's songs and then use these parts to create new pieces of music
+AudioSet	Propeller, airscrew	a device that causes a ship or aircraft to move, consisting of two or more blades that spin at high speed
+Dcase2017t4	Propeller, airscrew	a device that causes a ship or aircraft to move, consisting of two or more blades that spin at high speed
+AudioSet	Water tap, faucet	a device that controls the flow of liquid, especially water, from a pipe
+Dcase2017t4	Water tap, faucet	a device that controls the flow of liquid, especially water, from a pipe
+Fsd50k	Water_tap_and_faucet	a device that controls the flow of liquid, especially water, from a pipe
+AudioSet	Smoke detector, smoke alarm	a device that makes a loud noise when there is smoke present to tell people that there is a fire
+Dcase2017t4	Smoke detector, smoke alarm	a device that makes a loud noise when there is smoke present to tell people that there is a fire
+Fsd50k	Scissors	a device used for cutting materials such as paper, cloth, and hair, consisting of two sharp blades that are joined in the middle, and two handles with holes to put your fingers through
+AudioSet	Scissors	a device used for cutting materials such as paper, cloth, and hair, consisting of two sharp blades that are joined in the middle, and two handles with holes to put your fingers through
+AudioSet	Steam whistle	a device used to produce sound in the form of a whistle using live steam, which creates, projects, and amplifies its sound by acting as a vibrating system
+Dcase2017t4	Steam whistle	a device used to produce sound in the form of a whistle using live steam, which creates, projects, and amplifies its sound by acting as a vibrating system
+AudioSet	Gears	a device, often consisting of connecting sets of wheels with teeth (= points) around the edge, that controls how much power from an engine goes to the moving parts of a machine
+Dcase2017t4	Gears	a device, often consisting of connecting sets of wheels with teeth (= points) around the edge, that controls how much power from an engine goes to the moving parts of a machine
+ESC50	sheep	a farm animal with thick wool that eats grass and is kept for its wool, skin, and meat
+AudioSet	Sheep	a farm animal with thick wool that eats grass and is kept for its wool, skin, and meat
+Dcase2017t4	Sheep	a farm animal with thick wool that eats grass and is kept for its wool, skin, and meat
+AudioSet	Wildfire	a fire that is burning strongly and out of control on an area of grass or bushes in the countryside
+AudioSet	Firecracker	a firework that makes a loud noise when it explodes
+Dcase2017t4	Firecracker	a firework that makes a loud noise when it explodes
+Fsd50k	Door	a flat object that is used to close the entrance of something such as a room or building, or the entrance itself
+AudioSet	Door	a flat object that is used to close the entrance of something such as a room or building, or the entrance itself
+Dcase2017t4	Door	a flat object that is used to close the entrance of something such as a room or building, or the entrance itself
+AudioSet	Sliding door	a flat object that is used to close the entrance of something such as a room or building, or the entrance itself
+Dcase2017t4	Sliding door	a flat object that is used to close the entrance of something such as a room or building, or the entrance itself
+Fsd50k	Sliding_door	a flat object that is used to close the entrance of something such as a room or building, or the entrance itself
+Fsd50k	Skateboard	a flat, narrow board with two small wheels under each end, which a person stands on and moves forward by pushing one foot on the ground
+AudioSet	Skateboard	a flat, narrow board with two small wheels under each end, which a person stands on and moves forward by pushing one foot on the ground
+Dcase2017t4	Skateboard	a flat, narrow board with two small wheels under each end, which a person stands on and moves forward by pushing one foot on the ground
+AudioSet	Crash cymbal	a flat, round musical instrument made of brass that makes a loud noise when hit with a stick or against another cymbal
+Fsd50k	Crash_cymbal	a flat, round musical instrument made of brass that makes a loud noise when hit with a stick or against another cymbal
+AudioSet	Cymbal	a flat, round musical instrument made of brass that makes a loud noise when hit with a stick or against another cymbal
+Dcase2017t4	Cymbal	a flat, round musical instrument made of brass that makes a loud noise when hit with a stick or against another cymbal
+AudioSet	Bee, wasp, etc.	a flying insect that has a yellow and black body and is able to sting
+Dcase2017t4	Bee, wasp, etc.	a flying insect that has a yellow and black body and is able to sting
+AudioSet	Cattle, bovinae	a group of animals that includes cows, buffalo, and bison, that are often kept for their milk or meat
+AudioSet	Choir	a group of people who sing together
+Dcase2017t4	Choir	a group of people who sing together
+Fsd50k	Growling	A growling sound is long, low, and rough, like the threatening sound made by a dog
+AudioSet	Growling	A growling sound is long, low, and rough, like the threatening sound made by a dog
+AudioSet	Wood	a hard substance that forms the branches and trunks of trees and can be used as a building material, for making things, or as a fuel
+Fsd50k	Glass	a hard, transparent material, used to make windows, bottles, and other objects
+AudioSet	Glass	a hard, transparent material, used to make windows, bottles, and other objects
+AudioSet	Caterwaul	a high unpleasant noise like one made by a cat
+Dcase2017t4	Caterwaul	a high unpleasant noise like one made by a cat
+Fsd50k	Bell	a hollow metal object shaped like a cup that makes a ringing sound when hit by something hard, especially a clapper
+AudioSet	Bell	a hollow metal object shaped like a cup that makes a ringing sound when hit by something hard, especially a clapper
+Dcase2017t4	Bell	a hollow metal object shaped like a cup that makes a ringing sound when hit by something hard, especially a clapper
+AudioSet	Bicycle bell	a hollow metal object shaped like a cup that makes a ringing sound when hit by something hard, especially a clapper
+Dcase2017t4	Bicycle bell	a hollow metal object shaped like a cup that makes a ringing sound when hit by something hard, especially a clapper
+Fsd50k	Bicycle_bell	a hollow metal object shaped like a cup that makes a ringing sound when hit by something hard, especially a clapper
+AudioSet	Change ringing (campanology)	a hollow metal object shaped like a cup that makes a ringing sound when hit by something hard, especially a clapper
+AudioSet	Church bell	a hollow metal object shaped like a cup that makes a ringing sound when hit by something hard, especially a clapper
+Fsd50k	Church_bell	a hollow metal object shaped like a cup that makes a ringing sound when hit by something hard, especially a clapper
+ESC50	church_bells	a hollow metal object shaped like a cup that makes a ringing sound when hit by something hard, especially a clapper
+AudioSet	Jingle bell	a hollow metal object shaped like a cup that makes a ringing sound when hit by something hard, especially a clapper
+Dcase2017t4	Jingle bell	a hollow metal object shaped like a cup that makes a ringing sound when hit by something hard, especially a clapper
+AudioSet	Foghorn	a horn that makes a very loud sound to warn ships that they are close to land or other ships
+Dcase2017t4	Foghorn	a horn that makes a very loud sound to warn ships that they are close to land or other ships
+AudioSet	Horse	a large animal with four legs that people ride on or use for carrying things or pulling vehicles
+Dcase2017t4	Horse	a large animal with four legs that people ride on or use for carrying things or pulling vehicles
+AudioSet	Turkey	a large bird grown for its meat on farms
+AudioSet	Ship	a large boat for travelling on water, especially across the sea
+AudioSet	Bass drum	a large drum that produces a low sound
+Dcase2017t4	Bass drum	a large drum that produces a low sound
+Fsd50k	Bass_drum	a large drum that produces a low sound
+ESC50	cow	a large female farm animal kept to produce meat and milk
+AudioSet	Orchestra	a large group of musicians who play many different instruments together and are led by a conductor
+Fsd50k	Crowd	a large group of people who have come together
+AudioSet	Crowd	a large group of people who have come together
+Dcase2017t4	Crowd	a large group of people who have come together
+AudioSet	Bassoon	a large musical instrument that is played by blowing into a long, curved tube
+Fsd50k	Piano	a large musical instrument with a row of black and white keys that are pressed to play notes
+AudioSet	Piano	a large musical instrument with a row of black and white keys that are pressed to play notes
+Dcase2017t4	Piano	a large musical instrument with a row of black and white keys that are pressed to play notes
+AudioSet	Fusillade	a large number of bullets fired at the same time or one after another very quickly
+Dcase2017t4	Fusillade	a large number of bullets fired at the same time or one after another very quickly
+ESC50	pig	a large pink, brown, or black farm animal with short legs and a curved tail, kept for its meat
+AudioSet	Pig	a large pink, brown, or black farm animal with short legs and a curved tail, kept for its meat
+AudioSet	Ice cream truck, ice cream van	a large road vehicle that is used for transporting large amounts of goods
+Dcase2017t4	Ice cream truck, ice cream van	a large road vehicle that is used for transporting large amounts of goods
+Fsd50k	Truck	a large road vehicle that is used for transporting large amounts of goods
+AudioSet	Truck	a large road vehicle that is used for transporting large amounts of goods
+Dcase2017t4	Truck	a large road vehicle that is used for transporting large amounts of goods
+ESC50	chainsaw	a large saw with a motor and teeth-like parts fitted onto a continuous chain, used especially for cutting trees
+AudioSet	Chainsaw	a large saw with a motor and teeth-like parts fitted onto a continuous chain, used especially for cutting trees
+Dcase2017t4	Chainsaw	a large saw with a motor and teeth-like parts fitted onto a continuous chain, used especially for cutting trees
+Fsd50k	Bus	a large vehicle in which people are driven from one place to another
+AudioSet	Bus	a large vehicle in which people are driven from one place to another
+Dcase2017t4	Bus	a large vehicle in which people are driven from one place to another
+AudioSet	Fire engine, fire truck (siren)	a large vehicle that carries firefighters and their equipment to a fire
+Dcase2017t4	Fire engine, fire truck (siren)	a large vehicle that carries firefighters and their equipment to a fire
+AudioSet	Goose	a large water bird similar to a duck but larger, or the meat from this bird
+Dcase2017t4	Goose	a large water bird similar to a duck but larger, or the meat from this bird
+AudioSet	Roaring cats (lions, tigers)	a large wild animal of the cat family with yellowish-brown fur that lives in Africa and southern Asia
+Dcase2017t4	Roaring cats (lions, tigers)	a large wild animal of the cat family with yellowish-brown fur that lives in Africa and southern Asia
+ESC50	crow	a large, black bird with a loud, unpleasant cry
+Fsd50k	Crow	a large, black bird with a loud, unpleasant cry
+AudioSet	Crow	a large, black bird with a loud, unpleasant cry
+Dcase2017t4	Crow	a large, black bird with a loud, unpleasant cry
+AudioSet	Trombone	a large, brass musical instrument that you play by blowing into it and sliding a U-shaped tube in and out to change the length and produce different notes
+AudioSet	Pigeon, dove	a large, usually grey bird that is often seen in towns sitting on buildings in large groups, and is sometimes eaten as food
+Fsd50k	Harp	a large, wooden musical instrument with many strings that you play with the fingers
+AudioSet	Harp	a large, wooden musical instrument with many strings that you play with the fingers
+AudioSet	Spray	a liquid that is forced out of a special container under pressure so that it becomes a mass of small liquid drops like a cloud
+Dcase2017t4	Spray	a liquid that is forced out of a special container under pressure so that it becomes a mass of small liquid drops like a cloud
+AudioSet	Narration, monologue	a long speech by one person
+Dcase2017t4	Narration, monologue	a long speech by one person
+AudioSet	Didgeridoo	a long wooden wind instrument played by Australian Aborigines to produce a long deep sound
+Dcase2017t4	Didgeridoo	a long wooden wind instrument played by Australian Aborigines to produce a long deep sound
+AudioSet	Neigh, whinny	a long, loud, high call that is produced by a horse when it is excited or frightened
+Fsd50k	Screech	a long, loud, high noise that is unpleasant to hear
+AudioSet	Screech	a long, loud, high noise that is unpleasant to hear
+AudioSet	Packing tape, duct tape	a long, thin strip of very strong, sticky material that is sold in a roll and is often used for covering holes or other repair jobs
+Fsd50k	Packing_tape_and_duct_tape	a long, thin strip of very strong, sticky material that is sold in a roll and is often used for covering holes or other repair jobs
+AudioSet	Squeal	a long, very high sound or cry
+Dcase2017t4	Squeal	a long, very high sound or cry
+AudioSet	Flap	a lot of public anger, excitement, or discussion
+AudioSet	Hiccup	a loud noise that you make in the throat without wanting to, caused by a sudden tightening of a muscle just below the chest and usually happening repeatedly
+Dcase2017t4	Hiccup	a loud noise that you make in the throat without wanting to, caused by a sudden tightening of a muscle just below the chest and usually happening repeatedly
+AudioSet	Whoop	a loud, excited shout, especially showing your enjoyment of or agreement with something
+Dcase2017t4	Whoop	a loud, excited shout, especially showing your enjoyment of or agreement with something
+AudioSet	Belly laugh	a loud, uncontrolled laugh
+Dcase2017t4	Belly laugh	a loud, uncontrolled laugh
+AudioSet	Drone	a low continuous noise that does not change its note
+AudioSet	Thunk	a low sound made by something falling or hitting something else heavily
+ESC50	washing_machine	a machine for washing clothes, sheets, and other things made of cloth
+AudioSet	Cash register	a machine in a shop or other business that records sales and into which money received is put
+Dcase2017t4	Cash register	a machine in a shop or other business that records sales and into which money received is put
+AudioSet	Vacuum cleaner	a machine that cleans floors and other surfaces by sucking up dust and dirt
+Dcase2017t4	Vacuum cleaner	a machine that cleans floors and other surfaces by sucking up dust and dirt
+ESC50	vacuum_cleaner	a machine that cleans floors and other surfaces by sucking up dust and dirt
+Fsd50k	Printer	a machine that is connected to a computer and prints onto paper using ink
+AudioSet	Printer	a machine that is connected to a computer and prints onto paper using ink
+AudioSet	Sewing machine	a machine that is used for joining together pieces of cloth, with a needle that is operated either by turning a handle or by electricity
+UrbanSound8K	air_conditioner	a machine that keeps the air in a building cool
+ESC50	engine	a machine that uses the energy from liquid fuel or steam to produce movement
+Fsd50k	Engine	a machine that uses the energy from liquid fuel or steam to produce movement
+AudioSet	Engine	a machine that uses the energy from liquid fuel or steam to produce movement
+Dcase2017t4	Engine	a machine that uses the energy from liquid fuel or steam to produce movement
+AudioSet	Engine knocking	a machine that uses the energy from liquid fuel or steam to produce movement
+Dcase2017t4	Engine knocking	a machine that uses the energy from liquid fuel or steam to produce movement
+Fsd50k	Engine_starting	a machine that uses the energy from liquid fuel or steam to produce movement
+AudioSet	Engine starting	a machine that uses the energy from liquid fuel or steam to produce movement
+Dcase2017t4	Engine starting	a machine that uses the energy from liquid fuel or steam to produce movement
+AudioSet	Heavy engine (low frequency)	a machine that uses the energy from liquid fuel or steam to produce movement
+Dcase2017t4	Heavy engine (low frequency)	a machine that uses the energy from liquid fuel or steam to produce movement
+AudioSet	Light engine (high frequency)	a machine that uses the energy from liquid fuel or steam to produce movement
+Dcase2017t4	Light engine (high frequency)	a machine that uses the energy from liquid fuel or steam to produce movement
+AudioSet	Medium engine (mid frequency)	a machine that uses the energy from liquid fuel or steam to produce movement
+Dcase2017t4	Medium engine (mid frequency)	a machine that uses the energy from liquid fuel or steam to produce movement
+AudioSet	Lawn mower	a machine used for cutting grass
+Dcase2017t4	Lawn mower	a machine used for cutting grass
+Fsd50k	Typewriter	a machine with keys that you press to produce letters and numbers on paper
+AudioSet	Typewriter	a machine with keys that you press to produce letters and numbers on paper
+Fsd50k	Vehicle	a machine, usually with wheels and an engine, used for transporting people or goods, especially on land
+AudioSet	Vehicle	a machine, usually with wheels and an engine, used for transporting people or goods, especially on land
+Dcase2017t4	Vehicle	a machine, usually with wheels and an engine, used for transporting people or goods, especially on land
+AudioSet	Tuning fork	a metal object with two long, thin parts, joined to a short handle, that, when hit gently, produces a particular note. It is used for tuning musical instruments
+AudioSet	Steel guitar, slide guitar	a method of playing the guitar in which the player holds the guitar in a horizontal position and plucks the strings with one hand while sliding a bar called a steel to change the pitch of one or more strings with the other
+Dcase2017t4	Steel guitar, slide guitar	a method of playing the guitar in which the player holds the guitar in a horizontal position and plucks the strings with one hand while sliding a bar called a steel to change the pitch of one or more strings with the other
+AudioSet	White noise	a mixture of sounds or electrical signals that consists of all the sounds or signals in a large range
+Dcase2017t4	White noise	a mixture of sounds or electrical signals that consists of all the sounds or signals in a large range
+AudioSet	Pink noise	a mixture of sounds or electrical signals that has a lot of low-frequency sounds, producing a deep sound
+Dcase2017t4	Pink noise	a mixture of sounds or electrical signals that has a lot of low-frequency sounds, producing a deep sound
+AudioSet	Vibraphone	a musical instrument consisting of a frame with a set of metal bars in it that you hit with sticks. The bars have electrical devices attached to them that make them vibrate (= shake) so that they produce musical notes that seem to shake slightly
+Dcase2017t4	Vibraphone	a musical instrument consisting of a frame with a set of metal bars in it that you hit with sticks. The bars have electrical devices attached to them that make them vibrate (= shake) so that they produce musical notes that seem to shake slightly
+Fsd50k	Chime	a musical instrument consisting of a set of metal tubes that are hit to produce a ringing sound
+AudioSet	Chime	a musical instrument consisting of a set of metal tubes that are hit to produce a ringing sound
+AudioSet	Tubular bells	a musical instrument consisting of a set of metal tubes that are hit to produce a ringing sound
+Dcase2017t4	Tubular bells	a musical instrument consisting of a set of metal tubes that are hit to produce a ringing sound
+Fsd50k	Marimba_and_xylophone	a musical instrument consisting of flat wooden bars of different lengths that are hit with sticks
+AudioSet	Marimba, xylophone	a musical instrument consisting of flat wooden bars of different lengths that are hit with sticks
+Dcase2017t4	Marimba, xylophone	a musical instrument consisting of flat wooden bars of different lengths that are hit with sticks
+AudioSet	Maraca	a musical instrument consisting of two hollow containers filled with beans or small stones. They are shaken to provide the rhythm for some types of music
+AudioSet	Bugle	a musical instrument like a simple trumpet, used especially in the army
+AudioSet	Cornet	a musical instrument made from metal, usually brass, that you play by blowing into it
+Fsd50k	Glockenspiel	a musical instrument made of flat metal bars of different lengths that you hit with small hammers
+AudioSet	Glockenspiel	a musical instrument made of flat metal bars of different lengths that you hit with small hammers
+Dcase2017t4	Glockenspiel	a musical instrument made of flat metal bars of different lengths that you hit with small hammers
+AudioSet	Zither	a musical instrument shaped like a flat box, with many strings stretched across it that you pull at with your fingers or with a small piece of plastic
+AudioSet	Harpsichord	a musical instrument similar to a piano. It was played especially in the 17th and 18th centuries.
+Dcase2017t4	Harpsichord	a musical instrument similar to a piano. It was played especially in the 17th and 18th centuries.
+AudioSet	French horn	a musical instrument that consists of a long metal tube bent into circles, with a wide opening at one end, played by blowing down the tube and moving the fingers on valves
+AudioSet	Brass instrument	a musical instrument that produces sound by sympathetic vibration of air in a tubular resonator in sympathy with the vibration of the player's lips
+Dcase2017t4	Brass instrument	a musical instrument that produces sound by sympathetic vibration of air in a tubular resonator in sympathy with the vibration of the player's lips
+Fsd50k	Brass_instrument	a musical instrument that produces sound by sympathetic vibration of air in a tubular resonator in sympathy with the vibration of the player's lips
+AudioSet	Wind instrument, woodwind instrument	a musical instrument whose sound is produced by blowing
+Dcase2017t4	Wind instrument, woodwind instrument	a musical instrument whose sound is produced by blowing
+Fsd50k	Wind_instrument_and_woodwind_instrument	a musical instrument whose sound is produced by blowing
+AudioSet	Electronic organ	a musical instrument with a keyboard in which sound is produced by air being forced through pipes of different sizes and lengths when you press the keys with your hands or feet, or in which sound is produced electronically
+Dcase2017t4	Electronic organ	a musical instrument with a keyboard in which sound is produced by air being forced through pipes of different sizes and lengths when you press the keys with your hands or feet, or in which sound is produced electronically
+AudioSet	Hammond organ	a musical instrument with a keyboard in which sound is produced by air being forced through pipes of different sizes and lengths when you press the keys with your hands or feet, or in which sound is produced electronically
+Dcase2017t4	Hammond organ	a musical instrument with a keyboard in which sound is produced by air being forced through pipes of different sizes and lengths when you press the keys with your hands or feet, or in which sound is produced electronically
+AudioSet	Mellotron	a musical instrument with a keyboard in which sound is produced by air being forced through pipes of different sizes and lengths when you press the keys with your hands or feet, or in which sound is produced electronically
+Fsd50k	Organ	a musical instrument with a keyboard in which sound is produced by air being forced through pipes of different sizes and lengths when you press the keys with your hands or feet, or in which sound is produced electronically
+AudioSet	Organ	a musical instrument with a keyboard in which sound is produced by air being forced through pipes of different sizes and lengths when you press the keys with your hands or feet, or in which sound is produced electronically
+Dcase2017t4	Organ	a musical instrument with a keyboard in which sound is produced by air being forced through pipes of different sizes and lengths when you press the keys with your hands or feet, or in which sound is produced electronically
+AudioSet	Bowed string instrument	a musical instrument with a set of strings that vibrate to produce sound when they are pulled, hit, or rubbed with a bow
+Dcase2017t4	Bowed string instrument	a musical instrument with a set of strings that vibrate to produce sound when they are pulled, hit, or rubbed with a bow
+Fsd50k	Bowed_string_instrument	a musical instrument with a set of strings that vibrate to produce sound when they are pulled, hit, or rubbed with a bow
+AudioSet	Plucked string instrument	a musical instrument with a set of strings that vibrate to produce sound when they are pulled, hit, or rubbed with a bow
+Dcase2017t4	Plucked string instrument	a musical instrument with a set of strings that vibrate to produce sound when they are pulled, hit, or rubbed with a bow
+Fsd50k	Plucked_string_instrument	a musical instrument with a set of strings that vibrate to produce sound when they are pulled, hit, or rubbed with a bow
+AudioSet	Mandolin	a musical instrument with four pairs of metal strings and a round back
+Dcase2017t4	Mandolin	a musical instrument with four pairs of metal strings and a round back
+Fsd50k	Drum	a musical instrument, especially one made from a skin stretched over the end of a hollow tube or bowl, played by hitting with the hand or a stick
+AudioSet	Drum	a musical instrument, especially one made from a skin stretched over the end of a hollow tube or bowl, played by hitting with the hand or a stick
+Dcase2017t4	Drum	a musical instrument, especially one made from a skin stretched over the end of a hollow tube or bowl, played by hitting with the hand or a stick
+AudioSet	Saxophone	a musical instrument, usually made of metal, that is played by blowing into it to make a reed vibrate. They are made in different sizes.
+AudioSet	Acoustic guitar	a musical instrument, usually made of wood, with six strings and a long neck, played with the fingers or a plectrum
+Dcase2017t4	Acoustic guitar	a musical instrument, usually made of wood, with six strings and a long neck, played with the fingers or a plectrum
+Fsd50k	Acoustic_guitar	a musical instrument, usually made of wood, with six strings and a long neck, played with the fingers or a plectrum
+AudioSet	Electric guitar	a musical instrument, usually made of wood, with six strings and a long neck, played with the fingers or a plectrum
+Dcase2017t4	Electric guitar	a musical instrument, usually made of wood, with six strings and a long neck, played with the fingers or a plectrum
+Fsd50k	Electric_guitar	a musical instrument, usually made of wood, with six strings and a long neck, played with the fingers or a plectrum
+Fsd50k	Guitar	a musical instrument, usually made of wood, with six strings and a long neck, played with the fingers or a plectrum
+AudioSet	Guitar	a musical instrument, usually made of wood, with six strings and a long neck, played with the fingers or a plectrum
+Dcase2017t4	Guitar	a musical instrument, usually made of wood, with six strings and a long neck, played with the fingers or a plectrum
+AudioSet	Opera	a musical play in which most of the words are sung, or plays and music of this type
+AudioSet	Creak	a noise made when something creaks
+Dcase2017t4	Creak	a noise made when something creaks
+Fsd50k	Ratchet_and_pawl	a part of a machine that allows movement in one direction only. It is usually a wheel with teeth-like parts that either slide over or lock against the free end of a bar
+AudioSet	Ratchet, pawl	a part of a machine that allows movement in one direction only. It is usually a wheel with teeth-like parts that either slide over or lock against the free end of a bar
+Dcase2017t4	Ratchet, pawl	a part of a machine that allows movement in one direction only. It is usually a wheel with teeth-like parts that either slide over or lock against the free end of a bar
+Fsd50k	Mechanisms	a part of a machine, or a set of parts that work together
+AudioSet	Mechanisms	a part of a machine, or a set of parts that work together
+Dcase2017t4	Mechanisms	a part of a machine, or a set of parts that work together
+AudioSet	Inside, large room or hall	a part of the inside of a building that is separated from other parts by walls, floor, and ceiling
+Dcase2017t4	Inside, large room or hall	a part of the inside of a building that is separated from other parts by walls, floor, and ceiling
+AudioSet	Inside, public space	a part of the inside of a building that is separated from other parts by walls, floor, and ceiling
+Dcase2017t4	Inside, public space	a part of the inside of a building that is separated from other parts by walls, floor, and ceiling
+AudioSet	Inside, small room	a part of the inside of a building that is separated from other parts by walls, floor, and ceiling
+Dcase2017t4	Inside, small room	a part of the inside of a building that is separated from other parts by walls, floor, and ceiling
+AudioSet	Angry music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+Dcase2017t4	Angry music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	Background music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+Dcase2017t4	Background music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	Birthday music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	Carnatic music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	Christian music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+Dcase2017t4	Christian music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	Christmas music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+Dcase2017t4	Christmas music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	Country	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+Dcase2017t4	Country	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	Cumbia	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	Exciting music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+Dcase2017t4	Exciting music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	Funny music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	Grime music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	Happy music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	Independent music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+Dcase2017t4	Independent music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	Jingle (music)	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+Dcase2017t4	Jingle (music)	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	Kuduro	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	Kwaito	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	Middle Eastern music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+Dcase2017t4	Middle Eastern music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	Music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+Fsd50k	Music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+Dcase2017t4	Music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	Music for children	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+Dcase2017t4	Music for children	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	Music of Africa	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	Music of Asia	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+Dcase2017t4	Music of Asia	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	Music of Latin America	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+Dcase2017t4	Music of Latin America	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	Oldschool jungle	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	Progressive rock	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+Dcase2017t4	Progressive rock	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	Psychedelic rock	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+Dcase2017t4	Psychedelic rock	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	Sad music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	Salsa music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	Scary music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+Dcase2017t4	Scary music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	Soca music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	Soundtrack music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+Dcase2017t4	Soundtrack music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+UrbanSound8K	street_music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	Swing music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+Dcase2017t4	Swing music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	Tender music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	Traditional music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	UK garage	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	Video game music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+Dcase2017t4	Video game music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	Vocal music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	Wedding music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+Dcase2017t4	Wedding music	a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it
+AudioSet	Wood block	a percussion musical instrument
+Dcase2017t4	Wood block	a percussion musical instrument
+AudioSet	Rimshot	a percussion technique used to produce an accented snare drum backbeat.
+Dcase2017t4	Rimshot	a percussion technique used to produce an accented snare drum backbeat.
+AudioSet	Silence	a period without any sound; complete quiet
+Dcase2017t4	Silence	a period without any sound; complete quiet
+Fsd50k	Writing	a person's style of writing with a pen on paper that can be recognized as their own
+AudioSet	Writing	a person's style of writing with a pen on paper that can be recognized as their own
+Dcase2017t4	Writing	a person's style of writing with a pen on paper that can be recognized as their own
+AudioSet	Flap	a piece of cloth or other material fixed along one edge, especially used for covering or closing something
+AudioSet	Radio	a piece of electronic equipment used for listening to radio broadcasts
+Dcase2017t4	Radio	a piece of electronic equipment used for listening to radio broadcasts
+AudioSet	Pulleys	a piece of equipment for moving heavy objects up or down, consisting of a small wheel over which a rope or chain attached to the object can be easily raised or lowered
+Dcase2017t4	Pulleys	a piece of equipment for moving heavy objects up or down, consisting of a small wheel over which a rope or chain attached to the object can be easily raised or lowered
+AudioSet	Pump (liquid)	a piece of equipment that is used to cause liquid, air, or gas to move from one place to another
+Dcase2017t4	Pump (liquid)	a piece of equipment that is used to cause liquid, air, or gas to move from one place to another
+Fsd50k	Tools	a piece of equipment that you use with your hands to make or repair something
+AudioSet	Tools	a piece of equipment that you use with your hands to make or repair something
+Dcase2017t4	Tools	a piece of equipment that you use with your hands to make or repair something
+AudioSet	Cupboard open or close	a piece of furniture or a space for storing things, with a door or doors and usually with shelves
+Dcase2017t4	Cupboard open or close	a piece of furniture or a space for storing things, with a door or doors and usually with shelves
+Fsd50k	Cupboard_open_or_close	a piece of furniture or a space for storing things, with a door or doors and usually with shelves
+AudioSet	Whip	a piece of leather or rope that is fastened to a stick, used for hitting animals or people
+Dcase2017t4	Whip	a piece of leather or rope that is fastened to a stick, used for hitting animals or people
+AudioSet	Keys jangling	a piece of metal that has been cut into a special shape and is used for opening or closing a lock, starting a car engine, etc.
+Dcase2017t4	Keys jangling	a piece of metal that has been cut into a special shape and is used for opening or closing a lock, starting a car engine, etc.
+Fsd50k	Keys_jangling	a piece of metal that has been cut into a special shape and is used for opening or closing a lock, starting a car engine, etc.
+AudioSet	Harmony	a pleasant musical sound made by different notes being played or sung at the same time
+UrbanSound8K	jackhammer	a pneumatic drill
+AudioSet	Jackhammer	a pneumatic drill
+Dcase2017t4	Jackhammer	a pneumatic drill
+AudioSet	Zing	a quality that makes something interesting or exciting; enthusiasm or energy
+AudioSet	Sniff	a quick breath in through the nose to smell something, or to stop liquid in the nose from coming out
+AudioSet	Lullaby	a quiet song that is sung to children to help them go to sleep
+AudioSet	Rail transport	a railway engine connected to carriages for carrying people or to wheeled containers for carrying goods
+Dcase2017t4	Rail transport	a railway engine connected to carriages for carrying people or to wheeled containers for carrying goods
+Fsd50k	Rail_transport	a railway engine connected to carriages for carrying people or to wheeled containers for carrying goods
+AudioSet	Railroad car, train wagon	a railway engine connected to carriages for carrying people or to wheeled containers for carrying goods
+Dcase2017t4	Railroad car, train wagon	a railway engine connected to carriages for carrying people or to wheeled containers for carrying goods
+Fsd50k	Subway_and_metro_and_underground	a railway engine connected to carriages for carrying people or to wheeled containers for carrying goods
+ESC50	train	a railway engine connected to carriages for carrying people or to wheeled containers for carrying goods
+Fsd50k	Train	a railway engine connected to carriages for carrying people or to wheeled containers for carrying goods
+AudioSet	Train	a railway engine connected to carriages for carrying people or to wheeled containers for carrying goods
+Dcase2017t4	Train	a railway engine connected to carriages for carrying people or to wheeled containers for carrying goods
+AudioSet	Subway, metro, underground	a railway system in which electric trains travel through tunnels below ground
+Dcase2017t4	Subway, metro, underground	a railway system in which electric trains travel through tunnels below ground
+ESC50	sea_waves	a raised line of water that moves across the surface of an area of water, especially the sea
+Fsd50k	Waves_and_surf	a raised line of water that moves across the surface of an area of water, especially the sea
+AudioSet	Waves, surf	a raised line of water that moves across the surface of an area of water, especially the sea
+Dcase2017t4	Waves, surf	a raised line of water that moves across the surface of an area of water, especially the sea
+AudioSet	Jingle, tinkle	a repeated gentle ringing sound
+Dcase2017t4	Jingle, tinkle	a repeated gentle ringing sound
+AudioSet	Snake	a reptile with a long body and no legs
+AudioSet	Clickety-clack	a rhythmic usually fast click-clack
+Dcase2017t4	Clickety-clack	a rhythmic usually fast click-clack
+Fsd50k	Car	a road vehicle with an engine, four wheels, and seats for a small number of people
+AudioSet	Car	a road vehicle with an engine, four wheels, and seats for a small number of people
+Dcase2017t4	Car	a road vehicle with an engine, four wheels, and seats for a small number of people
+AudioSet	Car passing by	a road vehicle with an engine, four wheels, and seats for a small number of people
+Dcase2017t4	Car passing by	a road vehicle with an engine, four wheels, and seats for a small number of people
+Fsd50k	Car_passing_by	a road vehicle with an engine, four wheels, and seats for a small number of people
+Fsd50k	Gong	a round piece of metal that is hung in a frame and hit with a stick to produce a sound as a signal, also used as a musical instrument
+AudioSet	Gong	a round piece of metal that is hung in a frame and hit with a stick to produce a sound as a signal, also used as a musical instrument
+AudioSet	Stomach rumble	a rumbling, growling or gurgling noise produced by movement of the contents of the gastrointestinal tract as they are propelled through the small intestine by a series of muscle contractions called peristalsis
+ESC50	hand_saw	a saw (= a tool that has a long or round blade with sharp points, for cutting hard materials such as wood) that is operated by hand rather than using electricity or a motor
+AudioSet	Alto saxophone	a saxophone (= a metal musical instrument that is played by blowing into it to make a single reedvibrate) that is of a size and range between a soprano saxophone and a tenor saxophone
+AudioSet	Soprano saxophone	a saxophone (= a metal musical instrument that is played by blowing into it to make a single reedvibrate) that is of a size and range between a soprano saxophone and a tenor saxophone
+AudioSet	Whimper	a series of small, weak sounds expressing pain or unhappiness, especially of an animal
+Dcase2017t4	Whimper	a series of small, weak sounds expressing pain or unhappiness, especially of an animal
+AudioSet	Drum kit	a set of drums and cymbals played by one person
+Dcase2017t4	Drum kit	a set of drums and cymbals played by one person
+Fsd50k	Drum_kit	a set of drums and cymbals played by one person
+AudioSet	Timpani	a set of kettledrums (= large metal drums with round bottoms) played in an orchestra
+Dcase2017t4	Timpani	a set of kettledrums (= large metal drums with round bottoms) played in an orchestra
+AudioSet	Wind chime	a set of small bells, or objects that make ringing sounds
+Fsd50k	Wind_chime	a set of small bells, or objects that make ringing sounds
+AudioSet	Vibration	a setting on an electronic device that causes it to vibrate when something happens, such as receiving a new message
+Dcase2017t4	Vibration	a setting on an electronic device that causes it to vibrate when something happens, such as receiving a new message
+AudioSet	Ding	a short ringing sound like that made by a bell
+Dcase2017t4	Ding	a short ringing sound like that made by a bell
+Fsd50k	Crackle	a short, dry, sharp sound
+AudioSet	Crackle	a short, dry, sharp sound
+Dcase2017t4	Crackle	a short, dry, sharp sound
+Fsd50k	Chirp_and_tweet	a short, high sound made by a bird
+AudioSet	Chirp, tweet	a short, high sound made by a bird
+Dcase2017t4	Chirp, tweet	a short, high sound made by a bird
+AudioSet	Beep, bleep	a short, high sound made by a machine, especially if it is repeated
+Dcase2017t4	Beep, bleep	a short, high sound made by a machine, especially if it is repeated
+AudioSet	Reversing beeps	a short, loud sound, especially made by something electronic
+Dcase2017t4	Reversing beeps	a short, loud sound, especially made by something electronic
+AudioSet	Grunt	a short, low sound that an animal or person makes
+Dcase2017t4	Grunt	a short, low sound that an animal or person makes
+AudioSet	Yip	a short, sharp cry
+Dcase2017t4	Yip	a short, sharp cry
+AudioSet	Ping	a short, sharp sound
+AudioSet	Battle cry	a shout given by soldiers as they run towards the enemy
+Dcase2017t4	Battle cry	a shout given by soldiers as they run towards the enemy
+Fsd50k	Raindrop	a single drop of rain
+AudioSet	Raindrop	a single drop of rain
+Dcase2017t4	Raindrop	a single drop of rain
+ESC50	frog	a small animal that has smooth skin, lives in water and on land, has long powerful back legs with which it jumps from place to place, has no tail, and is usually greenish-brown in colour
+Fsd50k	Frog	a small animal that has smooth skin, lives in water and on land, has long powerful back legs with which it jumps from place to place, has no tail, and is usually greenish-brown in colour
+AudioSet	Frog	a small animal that has smooth skin, lives in water and on land, has long powerful back legs with which it jumps from place to place, has no tail, and is usually greenish-brown in colour
+Fsd50k	Cat	a small animal with fur, four legs, a tail, and claws, usually kept as a pet or for catching mice
+AudioSet	Cat	a small animal with fur, four legs, a tail, and claws, usually kept as a pet or for catching mice
+Dcase2017t4	Cat	a small animal with fur, four legs, a tail, and claws, usually kept as a pet or for catching mice
+AudioSet	Sailboat, sailing ship	a small boat with sails
+Dcase2017t4	Sailboat, sailing ship	a small boat with sails
+AudioSet	Electric toothbrush	a small brush with a long handle that you use to clean your teeth
+Dcase2017t4	Electric toothbrush	a small brush with a long handle that you use to clean your teeth
+AudioSet	Toothbrush	a small brush with a long handle that you use to clean your teeth
+AudioSet	Ding	a small damaged area on a surface where something has hit it
+AudioSet	Snare drum	a small drum with twisted wires stretched across the bottom that shake against it when it is hit
+Dcase2017t4	Snare drum	a small drum with twisted wires stretched across the bottom that shake against it when it is hit
+Fsd50k	Snare_drum	a small drum with twisted wires stretched across the bottom that shake against it when it is hit
+AudioSet	Fly, housefly	a small fly often found in houses
+Dcase2017t4	Fly, housefly	a small fly often found in houses
+AudioSet	Mosquito	a small flying insect that bites people and animals and sucks their blood
+AudioSet	Ukulele	a small guitar or banjo with four strings
+AudioSet	Mouse	a small mammal with short fur, a pointed face, and a long tail
+Fsd50k	Tambourine	a small musical instrument consisting of a circular wooden frame with metal discs loosely attached to it, shaken or hit with the hand to make the discs ring
+AudioSet	Tambourine	a small musical instrument consisting of a circular wooden frame with metal discs loosely attached to it, shaken or hit with the hand to make the discs ring
+Fsd50k	Chink_and_clink	a small narrow crack or opening
+AudioSet	Chink, clink	a small narrow crack or opening
+Dcase2017t4	Chink, clink	a small narrow crack or opening
+AudioSet	Rodents, rats, mice	a small rodent, larger than a mouse, that has a long tail and is considered to be harmful
+Dcase2017t4	Rodents, rats, mice	a small rodent, larger than a mouse, that has a long tail and is considered to be harmful
+Fsd50k	Boat_and_Water_vehicle	a small vehicle for travelling on water
+AudioSet	Boat, Water vehicle	a small vehicle for travelling on water
+Dcase2017t4	Boat, Water vehicle	a small vehicle for travelling on water
+AudioSet	Motorboat, speedboat	a small, fast boat that is powered by an engine
+Dcase2017t4	Motorboat, speedboat	a small, fast boat that is powered by an engine
+AudioSet	Rowboat, canoe, kayak	a small, light, narrow boat, pointed at both ends and moved using a paddle (= a short pole with a flat blade)
+Dcase2017t4	Rowboat, canoe, kayak	a small, light, narrow boat, pointed at both ends and moved using a paddle (= a short pole with a flat blade)
+Fsd50k	Harmonica	a small, rectangular musical instrument, played by blowing and sucking air through it
+AudioSet	Harmonica	a small, rectangular musical instrument, played by blowing and sucking air through it
+Dcase2017t4	Harmonica	a small, rectangular musical instrument, played by blowing and sucking air through it
+AudioSet	Coin (dropping)	a small, round piece of metal, usually silver or copper coloured, that is used as money
+Fsd50k	Coin_(dropping)	a small, round piece of metal, usually silver or copper coloured, that is used as money
+AudioSet	Splinter	a small, sharp, broken piece of wood, glass, plastic, or similar material
+AudioSet	Plop	a soft sound like that of something solid dropping lightly into a liquid
+Fsd50k	Whoosh_and_swoosh_and_swish	a soft sound made by something moving fast through the air or like that made when air is pushed out of something
+AudioSet	Whoosh, swoosh, swish	a soft sound made by something moving fast through the air or like that made when air is pushed out of something
+Dcase2017t4	Whoosh, swoosh, swish	a soft sound made by something moving fast through the air or like that made when air is pushed out of something
+AudioSet	Clip-clop	a sound like that of horses' hoofs (= the hard part on the bottom of a horse's foot) on a hard surface
+AudioSet	Environmental noise	a sound or sounds, especially when it is unwanted, unpleasant, or loud
+Dcase2017t4	Environmental noise	a sound or sounds, especially when it is unwanted, unpleasant, or loud
+AudioSet	Noise	a sound or sounds, especially when it is unwanted, unpleasant, or loud
+Dcase2017t4	Noise	a sound or sounds, especially when it is unwanted, unpleasant, or loud
+Fsd50k	Rattle	a sound similar to a series of quickly repeated knocks
+AudioSet	Rattle	a sound similar to a series of quickly repeated knocks
+Dcase2017t4	Rattle	a sound similar to a series of quickly repeated knocks
+AudioSet	Echo	a sound that is heard after it has been reflected off a surface such as a wall or a cliff
+Dcase2017t4	Echo	a sound that is heard after it has been reflected off a surface such as a wall or a cliff
+AudioSet	Reverberation	a sound that lasts for a long time and makes things seem to shake
+AudioSet	Busy signal	a sound that means that the phone you are calling is being used
+AudioSet	Sitar	a South Asian musical instrument with a round body, a long neck, and two sets of strings
+Dcase2017t4	Sitar	a South Asian musical instrument with a round body, a long neck, and two sets of strings
+AudioSet	Harmonic	a special note that sounds when a musical note is played that is different from the main note
+AudioSet	Ambulance (siren)	a special vehicle used to take sick or injured people to hospital
+Dcase2017t4	Ambulance (siren)	a special vehicle used to take sick or injured people to hospital
+AudioSet	Flap	a state of nervous excitement
+ESC50	thunderstorm	a storm with thunder and lightning and usually heavy rain
+Fsd50k	Thunderstorm	a storm with thunder and lightning and usually heavy rain
+AudioSet	Thunderstorm	a storm with thunder and lightning and usually heavy rain
+Dcase2017t4	Thunderstorm	a storm with thunder and lightning and usually heavy rain
+AudioSet	Banjo	a stringed musical instrument with a long neck and a hollow circular body
+Dcase2017t4	Banjo	a stringed musical instrument with a long neck and a hollow circular body
+AudioSet	Throbbing	a strong, regular beat
+Dcase2017t4	Throbbing	a strong, regular beat
+AudioSet	Afrobeat	a style of music first developed in Nigeria in the 1960s and 1970s that combines African music and jazz, funk, and soul music
+Dcase2017t4	Afrobeat	a style of music first developed in Nigeria in the 1960s and 1970s that combines African music and jazz, funk, and soul music
+AudioSet	Dub	a style of music or poetry connected with reggae in which the main part of the tune is removed and various special effects are added
+AudioSet	Funk	a style of music, usually for dancing to, with a strong rhythm based on jazz and a tune that repeats
+Dcase2017t4	Funk	a style of music, usually for dancing to, with a strong rhythm based on jazz and a tune that repeats
+AudioSet	Funk carioca	a style of music, usually for dancing to, with a strong rhythm based on jazz and a tune that repeats
+AudioSet	Gospel music	a style of religious music originally performed by black Americans
+AudioSet	Heavy metal	a style of rock music with a strong beat, played very loudly using electric guitars
+Dcase2017t4	Heavy metal	a style of rock music with a strong beat, played very loudly using electric guitars
+AudioSet	Rock music	a style of rock music with a strong beat, played very loudly using electric guitars
+Dcase2017t4	Rock music	a style of rock music with a strong beat, played very loudly using electric guitars
+Fsd50k	Liquid	a substance, such as water, that is not solid or a gas and that can be poured easily
+AudioSet	Liquid	a substance, such as water, that is not solid or a gas and that can be poured easily
+Dcase2017t4	Liquid	a substance, such as water, that is not solid or a gas and that can be poured easily
+AudioSet	Bang	a sudden very loud noise
+Dcase2017t4	Bang	a sudden very loud noise
+Fsd50k	Hammer	a tool consisting of a piece of metal with a flat end that is fixed onto the end of a long, thin, usually wooden handle, used for hitting things
+AudioSet	Hammer	a tool consisting of a piece of metal with a flat end that is fixed onto the end of a long, thin, usually wooden handle, used for hitting things
+Dcase2017t4	Hammer	a tool consisting of a piece of metal with a flat end that is fixed onto the end of a long, thin, usually wooden handle, used for hitting things
+Fsd50k	Drill	a tool or machine that makes holes
+AudioSet	Drill	a tool or machine that makes holes
+Dcase2017t4	Drill	a tool or machine that makes holes
+AudioSet	Power tool	a tool that operates with an electric motor
+Dcase2017t4	Power tool	a tool that operates with an electric motor
+Fsd50k	Power_tool	a tool that operates with an electric motor
+AudioSet	Clarinet	a tube-shaped musical instrument that is played by blowing through a single reed
+AudioSet	Flute	a tube-shaped musical instrument with a hole that you blow across at one end while holding the tube out horizontally to one side
+Dcase2017t4	Flute	a tube-shaped musical instrument with a hole that you blow across at one end while holding the tube out horizontally to one side
+AudioSet	Oboe	a tube-shaped musical instrument, played by blowing through a double reed at the top
+AudioSet	Melody	a tune, often forming part of a larger piece of music
+Fsd50k	Bicycle	a two-wheeled vehicle that you sit on and move by turning the two pedals (= flat parts you press with your feet)
+AudioSet	Bicycle	a two-wheeled vehicle that you sit on and move by turning the two pedals (= flat parts you press with your feet)
+Dcase2017t4	Bicycle	a two-wheeled vehicle that you sit on and move by turning the two pedals (= flat parts you press with your feet)
+ESC50	helicopter	a type of aircraft without wings, that has one or two sets of large blades that go round very fast on top. It can land and take off vertically and can stay in one place in the air
+AudioSet	Helicopter	a type of aircraft without wings, that has one or two sets of large blades that go round very fast on top. It can land and take off vertically and can stay in one place in the air
+Dcase2017t4	Helicopter	a type of aircraft without wings, that has one or two sets of large blades that go round very fast on top. It can land and take off vertically and can stay in one place in the air
+Fsd50k	Chicken_and_rooster	a type of bird kept on a farm for its eggs or its meat, or the meat of this bird that is cooked and eaten
+AudioSet	Chicken, rooster	a type of bird kept on a farm for its eggs or its meat, or the meat of this bird that is cooked and eaten
+ESC50	rooster	a type of bird kept on a farm for its eggs or its meat, or the meat of this bird that is cooked and eaten
+AudioSet	Bluegrass	a type of country music from the southern US played on instruments such as guitars, banjos, and violins
+AudioSet	Dubstep	a type of electronic dance music
+Dcase2017t4	Dubstep	a type of electronic dance music
+AudioSet	Ska	a type of fast pop music with a strong beat, originally played in Jamaica in the late 1950s and popular there and in the UK. It influenced the development of reggae.
+Dcase2017t4	Ska	a type of fast pop music with a strong beat, originally played in Jamaica in the late 1950s and popular there and in the UK. It influenced the development of reggae.
+AudioSet	Punk rock	a type of fast, loud, often offensive music that was originally popular among young people in the late 1970s
+Dcase2017t4	Punk rock	a type of fast, loud, often offensive music that was originally popular among young people in the late 1970s
+AudioSet	Jazz	a type of modern music originally developed by African-Americans, with a rhythm in which the strong notes often come before the beat. Jazz is usually improvised (= invented as it is played).
+Dcase2017t4	Jazz	a type of modern music originally developed by African-Americans, with a rhythm in which the strong notes often come before the beat. Jazz is usually improvised (= invented as it is played).
+AudioSet	New-age music	a type of music that is intended to produce a calm and peaceful state of mind
+Dcase2017t4	New-age music	a type of music that is intended to produce a calm and peaceful state of mind
+AudioSet	Dance music	a type of music with a strong beat that people dance to in a nightclub
+Dcase2017t4	Dance music	a type of music with a strong beat that people dance to in a nightclub
+AudioSet	Ambient music	a type of music, often without a tune or beat, that is intended to make people relax or create a particular mood
+Dcase2017t4	Ambient music	a type of music, often without a tune or beat, that is intended to make people relax or create a particular mood
+AudioSet	Disco	a type of music, popular in the 1970s, that people dance to in a nightclub
+Dcase2017t4	Disco	a type of music, popular in the 1970s, that people dance to in a nightclub
+AudioSet	Bagpipes	a type of musical instrument, played especially in Scotland and Ireland, from which you produce sound by blowing air into a bag and pressing it out through pipes
+Dcase2017t4	Bagpipes	a type of musical instrument, played especially in Scotland and Ireland, from which you produce sound by blowing air into a bag and pressing it out through pipes
+AudioSet	Drum and bass	a type of popular dance music with a fast, strong drum rhythm and a loud bass
+Dcase2017t4	Drum and bass	a type of popular dance music with a fast, strong drum rhythm and a loud bass
+AudioSet	Reggae	a type of popular music from Jamaica, with a strong second and fourth beat
+Dcase2017t4	Reggae	a type of popular music from Jamaica, with a strong second and fourth beat
+AudioSet	Drone music	a type of popular music with a strong fast beat, produced using electronic instruments
+AudioSet	Electro	a type of popular music with a strong fast beat, produced using electronic instruments
+AudioSet	Electronic dance music	a type of popular music with a strong fast beat, produced using electronic instruments
+Dcase2017t4	Electronic dance music	a type of popular music with a strong fast beat, produced using electronic instruments
+AudioSet	Electronic music	a type of popular music with a strong fast beat, produced using electronic instruments
+Dcase2017t4	Electronic music	a type of popular music with a strong fast beat, produced using electronic instruments
+AudioSet	Noise music	a type of popular music with a strong fast beat, produced using electronic instruments
+AudioSet	Trance music	a type of popular music with a strong fast beat, produced using electronic instruments
+Dcase2017t4	Trance music	a type of popular music with a strong fast beat, produced using electronic instruments
+AudioSet	Hip hop music	a type of popular music with a strong rhythm in which the words are spoken rather than sung, and the subject of the songs is often politics or society
+Dcase2017t4	Hip hop music	a type of popular music with a strong rhythm in which the words are spoken rather than sung, and the subject of the songs is often politics or society
+AudioSet	Rock and roll	a type of popular music with a strong, loud beat that is usually played with electric guitars and drums
+Dcase2017t4	Rock and roll	a type of popular music with a strong, loud beat that is usually played with electric guitars and drums
+AudioSet	Rhythm and blues	a type of popular music, originally by African American artists of the 1940s and 1950s, that combined features of blues and jazz witha strong beat
+Dcase2017t4	Rhythm and blues	a type of popular music, originally by African American artists of the 1940s and 1950s, that combined features of blues and jazz witha strong beat
+AudioSet	Trap music	a type of rap music (= popular music in which the words are spoken rather than sung) that comes originally from the southern United States
+AudioSet	Grunge	a type of rock music and a fashion for untidy clothes, popular in the early 1990s
+Dcase2017t4	Grunge	a type of rock music and a fashion for untidy clothes, popular in the early 1990s
+AudioSet	Blues	a type of slow, sad music, originally from the southern US, in which the singer typically sings about their difficult life or bad luck in love
+Dcase2017t4	Blues	a type of slow, sad music, originally from the southern US, in which the singer typically sings about their difficult life or bad luck in love
+AudioSet	Flamenco	a type of Spanish dance music, or the dance performed to this music
+Dcase2017t4	Flamenco	a type of Spanish dance music, or the dance performed to this music
+Fsd50k	Insect	a type of very small animal with six legs, a body divided into three parts and usually two pairs of wings, or, more generally, any similar very small animal
+AudioSet	Insect	a type of very small animal with six legs, a body divided into three parts and usually two pairs of wings, or, more generally, any similar very small animal
+Dcase2017t4	Insect	a type of very small animal with six legs, a body divided into three parts and usually two pairs of wings, or, more generally, any similar very small animal
+ESC50	insects	a type of very small animal with six legs, a body divided into three parts and usually two pairs of wings, or, more generally, any similar very small animal
+AudioSet	Song	a usually short piece of music with words that are sung
+Dcase2017t4	Song	a usually short piece of music with words that are sung
+ESC50	airplane	a vehicle designed for air travel that has wings and one or more engines
+AudioSet	Fixed-wing aircraft, airplane	a vehicle designed for air travel that has wings and one or more engines
+Dcase2017t4	Fixed-wing aircraft, airplane	a vehicle designed for air travel that has wings and one or more engines
+Fsd50k	Fixed-wing_aircraft_and_airplane	a vehicle designed for air travel that has wings and one or more engines
+AudioSet	Emergency vehicle	a vehicle used by emergency services
+Dcase2017t4	Emergency vehicle	a vehicle used by emergency services
+AudioSet	Motor vehicle (road)	a vehicle with two wheels and an engine
+Dcase2017t4	Motor vehicle (road)	a vehicle with two wheels and an engine
+Fsd50k	Motor_vehicle_(road)	a vehicle with two wheels and an engine
+Fsd50k	Motorcycle	a vehicle with two wheels and an engine
+AudioSet	Motorcycle	a vehicle with two wheels and an engine
+Dcase2017t4	Motorcycle	a vehicle with two wheels and an engine
+Fsd50k	Ocean	a very large area of sea
+AudioSet	Ocean	a very large area of sea
+Dcase2017t4	Ocean	a very large area of sea
+AudioSet	Whale vocalization	a very large sea mammal that breathes air through a hole at the top of its head
+AudioSet	Aircraft engine	a very powerful engine. When fuel is burned inside the engine, hot air and gases are produced and then pushed out of the back of the engine at high speed, forcing the engine forward.
+AudioSet	Jet engine	a very powerful engine. When fuel is burned inside the engine, hot air and gases are produced and then pushed out of the back of the engine at high speed, forcing the engine forward.
+Dcase2017t4	Jet engine	a very powerful engine. When fuel is burned inside the engine, hot air and gases are produced and then pushed out of the back of the engine at high speed, forcing the engine forward.
+AudioSet	Cap gun	a very small amount of explosive powder in a paper container, used especially in toy guns to produce a loud noise
+Dcase2017t4	Cap gun	a very small amount of explosive powder in a paper container, used especially in toy guns to produce a loud noise
+Fsd50k	Alarm	a warning of danger, usually a loud noise or flashing light
+AudioSet	Alarm	a warning of danger, usually a loud noise or flashing light
+Dcase2017t4	Alarm	a warning of danger, usually a loud noise or flashing light
+AudioSet	Car alarm	a warning of danger, usually a loud noise or flashing light
+Dcase2017t4	Car alarm	a warning of danger, usually a loud noise or flashing light
+Fsd50k	Whispering	a way of speaking very quietly, using the breath but not the voice, so that only the person close to you can hear you
+AudioSet	Whispering	a way of speaking very quietly, using the breath but not the voice, so that only the person close to you can hear you
+Dcase2017t4	Whispering	a way of speaking very quietly, using the breath but not the voice, so that only the person close to you can hear you
+AudioSet	Arrow	a weapon that is like a long, thin stick with a sharp point at one end and often feathers at the other, shot from a bow (= a long, thin piece of wood bent into a curve by a piece of string)
+AudioSet	Steelpan	a wide metal drum shaped like a bowl, traditionally made from an oil container, used especially in popular music from the Caribbean islands
+Dcase2017t4	Steelpan	a wide metal drum shaped like a bowl, traditionally made from an oil container, used especially in popular music from the Caribbean islands
+AudioSet	Canidae, dogs, wolves	a wild animal of the dog family
+Dcase2017t4	Canidae, dogs, wolves	a wild animal of the dog family
+AudioSet	Rattle (instrument)	a wooden device that when turned round and round produces a noise like a series of knocks
+Fsd50k	Rattle_(instrument)	a wooden device that when turned round and round produces a noise like a series of knocks
+AudioSet	Violin, fiddle	a wooden musical instrument with four strings that is held against the neck and played by moving a bow across the strings
+Dcase2017t4	Violin, fiddle	a wooden musical instrument with four strings that is held against the neck and played by moving a bow across the strings
+AudioSet	Cello	a wooden musical instrument with four strings, that is held vertically between the legs and is played by moving a bow across the strings
+Dcase2017t4	Cello	a wooden musical instrument with four strings, that is held vertically between the legs and is played by moving a bow across the strings
+AudioSet	Chop	an act of cutting something with an axe, knife, or other sharp instrument
+ESC50	hen	an adult female chicken, often kept for its eggs
+AudioSet	Shofar	an ancient musical horn typically made of a ram's horn, used for Jewish religious purposes
+AudioSet	Donkey, ass	an animal like a small horse with long ears
+AudioSet	Goat	an animal related to sheep that usually has horns and a beard. Goats live wild on mountains or are kept on farms to provide milk, meat, wool, etc.
+Dcase2017t4	Goat	an animal related to sheep that usually has horns and a beard. Goats live wild on mountains or are kept on farms to provide milk, meat, wool, etc.
+AudioSet	Domestic animals, pets	an animal that is not wild and is kept as a pet or to produce food
+Dcase2017t4	Domestic animals, pets	an animal that is not wild and is kept as a pet or to produce food
+Fsd50k	Domestic_animals_and_pets	an animal that is not wild and is kept as a pet or to produce food
+AudioSet	Train whistle	an audible signaling device on a steam or gas locomotive, used to warn that the train is approaching, and to communicate with rail workers
+Dcase2017t4	Train whistle	an audible signaling device on a steam or gas locomotive, used to warn that the train is approaching, and to communicate with rail workers
+AudioSet	Chorus effect	an audio effect that occurs when individual sounds with approximately the same time, and very similar pitches, converge
+AudioSet	Field recording	an audio recording produced outside a recording studio
+Dcase2017t4	Field recording	an audio recording produced outside a recording studio
+AudioSet	Unmodified field recording	an audio recording produced outside a recording studio
+AudioSet	Machine gun	an automatic gun that can fire a lot of bullets one after the other very quickly
+Dcase2017t4	Machine gun	an automatic gun that can fire a lot of bullets one after the other very quickly
+AudioSet	Electric shaver, electric razor	an electric device for shaving hair from someone's face or body
+AudioSet	Mechanical fan	an electric device with blades that turn quickly, used to move the air around
+Dcase2017t4	Mechanical fan	an electric device with blades that turn quickly, used to move the air around
+Fsd50k	Mechanical_fan	an electric device with blades that turn quickly, used to move the air around
+AudioSet	Bass guitar	an electric guitar with four strings that plays very low notes
+Dcase2017t4	Bass guitar	an electric guitar with four strings that plays very low notes
+Fsd50k	Bass_guitar	an electric guitar with four strings that plays very low notes
+AudioSet	Blender	an electric machine used in the kitchen for breaking down foods or making smooth liquid substances from soft foods and liquids
+Dcase2017t4	Blender	an electric machine used in the kitchen for breaking down foods or making smooth liquid substances from soft foods and liquids
+AudioSet	Microwave oven	an electric oven that uses waves of energy to cook or heat food quickly
+Dcase2017t4	Microwave oven	an electric oven that uses waves of energy to cook or heat food quickly
+Fsd50k	Microwave_oven	an electric oven that uses waves of energy to cook or heat food quickly
+AudioSet	Hair dryer	an electrical device, usually held in the hand, that blows out hot air and is used for drying a person's hair
+AudioSet	Electronic tuner	an electronic device for checking the notes played on a musical instrument so that they can be corrected
+AudioSet	Effects unit	an electronic device that alters the sound of a musical instrument or other audio source through audio signal processing
+Dcase2017t4	Effects unit	an electronic device that alters the sound of a musical instrument or other audio source through audio signal processing
+AudioSet	Buzzer	an electronic device that makes a buzzing sound
+Dcase2017t4	Buzzer	an electronic device that makes a buzzing sound
+AudioSet	Synthesizer	an electronic keyboard instrument that can produce and combine a large range of recorded sounds, often in order to copy other musical instruments or voices
+Dcase2017t4	Synthesizer	an electronic keyboard instrument that can produce and combine a large range of recorded sounds, often in order to copy other musical instruments or voices
+AudioSet	Drum machine	an electronic machine that produces the sound of drums
+Dcase2017t4	Drum machine	an electronic machine that produces the sound of drums
+AudioSet	Theremin	an electronic musical instrument controlled without physical contact by the performer
+Dcase2017t4	Theremin	an electronic musical instrument controlled without physical contact by the performer
+AudioSet	Clavinet	an electronic musical instrument similar to a piano
+AudioSet	Electric piano	an electronic musical instrument similar to a piano
+Dcase2017t4	Electric piano	an electronic musical instrument similar to a piano
+AudioSet	Keyboard (musical)	an electronic musical instrument similar to a piano
+Fsd50k	Keyboard_(musical)	an electronic musical instrument similar to a piano
+AudioSet	Rhodes piano	an electronic musical instrument similar to a piano
+Fsd50k	Tabla	an Indian musical instrument consisting of a pair of small drums that you play with your palms and fingers
+AudioSet	Tabla	an Indian musical instrument consisting of a pair of small drums that you play with your palms and fingers
+Dcase2017t4	Tabla	an Indian musical instrument consisting of a pair of small drums that you play with your palms and fingers
+AudioSet	Marimba_and_xylophone	an instrument like a xylophone but with a lower sound, having a row of wooden bars fixed along a frame that you hit with sticks
+Fsd50k	Marimba, xylophone	an instrument like a xylophone but with a lower sound, having a row of wooden bars fixed along a frame that you hit with sticks
+AudioSet	Singing bowl	an inverted bell, supported from below with the rim uppermost
+AudioSet	Musical instrument	an object, such as a piano, guitar, or drum, that is played to produce musical sounds
+Dcase2017t4	Musical instrument	an object, such as a piano, guitar, or drum, that is played to produce musical sounds
+Fsd50k	Musical_instrument	an object, such as a piano, guitar, or drum, that is played to produce musical sounds
+AudioSet	Police car (siren)	an official car used by the police
+Dcase2017t4	Police car (siren)	an official car used by the police
+AudioSet	Cacophony	an unpleasant mixture of loud sounds
+Dcase2017t4	Cacophony	an unpleasant mixture of loud sounds
+AudioSet	Squawk	an unpleasantly loud, sharp noise made by a bird
+Fsd50k	Livestock_and_farm_animals_and_working_animals	animals and birds that are kept on a farm, such as cows, sheep, or chickens
+AudioSet	Livestock, farm animals, working animals	animals and birds that are kept on a farm, such as cows, sheep, or chickens
+Dcase2017t4	Livestock, farm animals, working animals	animals and birds that are kept on a farm, such as cows, sheep, or chickens
+Fsd50k	Aircraft	any vehicle, with or without an engine, that can fly, such as a plane or helicopter
+AudioSet	Aircraft	any vehicle, with or without an engine, that can fly, such as a plane or helicopter
+Dcase2017t4	Aircraft	any vehicle, with or without an engine, that can fly, such as a plane or helicopter
+AudioSet	Sidetone	audible feedback to someone speaking or otherwise producing sound as an indication of active transmission.
+Dcase2017t4	Sidetone	audible feedback to someone speaking or otherwise producing sound as an indication of active transmission.
+AudioSet	Power windows, electric windows	automobile windows which can be raised and lowered by pressing a button or switch, as opposed to using a crank handle
+Dcase2017t4	Power windows, electric windows	automobile windows which can be raised and lowered by pressing a button or switch, as opposed to using a crank handle
+AudioSet	String section	bowed instruments belonging to the violin family
+Dcase2017t4	String section	bowed instruments belonging to the violin family
+AudioSet	Respiratory sounds	breathing
+Fsd50k	Respiratory_sounds	breathing
+AudioSet	Patter	continuous and sometimes funny speech or talk, especially used by someone trying to sell things or by an entertainer
+AudioSet	Scratching (performance technique)	cuts on or damage to a surface caused by something hard or rough rubbing on it
+Fsd50k	Scratching (performance technique)	cuts on or damage to a surface caused by something hard or rough rubbing on it
+Dcase2017t4	Scratching (performance technique)	cuts on or damage to a surface caused by something hard or rough rubbing on it
+Fsd50k	Scratching_(performance_technique)	cuts on or damage to a surface caused by something hard or rough rubbing on it
+AudioSet	Sound equipment	devices that reproduce, record, or process sound
+AudioSet	Musical note	distinct and isolatable sounds that act as the most basic building blocks for nearly all of music
+ESC50	rain	drops of water from clouds
+Fsd50k	Rain	drops of water from clouds
+AudioSet	Rain	drops of water from clouds
+Dcase2017t4	Rain	drops of water from clouds
+AudioSet	Rain on surface	drops of water from clouds
+Dcase2017t4	Rain on surface	drops of water from clouds
+AudioSet	Sonar	equipment, especially on a ship, that uses sound waves to discover how deep the water is or the position of an object in the water, such as a group of fish
+Dcase2017t4	Sonar	equipment, especially on a ship, that uses sound waves to discover how deep the water is or the position of an object in the water, such as a group of fish
+AudioSet	Throat clearing	expelling air from one's lungs, sometimes to clear mucus, sometimes to attract attention to something
+Fsd50k	Boiling	extremely hot
+AudioSet	Boiling	extremely hot
+Dcase2017t4	Boiling	extremely hot
+AudioSet	Techno	fast electronic dance music with a regular beat
+Dcase2017t4	Techno	fast electronic dance music with a regular beat
+AudioSet	Dental drill, dentist's drill	hand-held, mechanical instrument used to perform a variety of common dental procedures, including removing decay, polishing fillings, performing cosmetic dentistry, and altering prostheses
+Dcase2017t4	Dental drill, dentist's drill	hand-held, mechanical instrument used to perform a variety of common dental procedures, including removing decay, polishing fillings, performing cosmetic dentistry, and altering prostheses
+AudioSet	Howl	If a dog or wolf howls, it makes a long, sad sound
+Dcase2017t4	Howl	If a dog or wolf howls, it makes a long, sad sound
+AudioSet	Honk	If a goose or a car horn honks, it makes a short, loud sound.
+Dcase2017t4	Honk	If a goose or a car horn honks, it makes a short, loud sound.
+Fsd50k	Drip	If a liquid drips, it falls in drops, or you make it fall in drops
+AudioSet	Drip	If a liquid drips, it falls in drops, or you make it fall in drops
+Fsd50k	Splash_and_splatter	If a liquid splashes or if you splash a liquid, it falls on or hits something or someone
+AudioSet	Splash, splatter	If a liquid splashes or if you splash a liquid, it falls on or hits something or someone
+UrbanSound8K	engine_idling	If an engine or machine idles, it runs slowly but does not move or do any work
+Fsd50k	Idling	If an engine or machine idles, it runs slowly but does not move or do any work
+AudioSet	Idling	If an engine or machine idles, it runs slowly but does not move or do any work
+Dcase2017t4	Idling	If an engine or machine idles, it runs slowly but does not move or do any work
+AudioSet	Toilet flush	If you flush a toilet, or if a toilet flushes, its contents empty and it fills with water again
+ESC50	toilet_flush	If you flush a toilet, or if a toilet flushes, its contents empty and it fills with water again
+Fsd50k	Toilet_flush	If you flush a toilet, or if a toilet flushes, its contents empty and it fills with water again
+AudioSet	Sound effect	in a radio or television programme or a film, one of the sounds other than speech or music that are added to make it seem more exciting or real
+Dcase2017t4	Sound effect	in a radio or television programme or a film, one of the sounds other than speech or music that are added to make it seem more exciting or real
+AudioSet	Beat	in music, a regular emphasis, or a place in the music where such an emphasis is expected
+Fsd50k	Cutlery_and_silverware	knives, forks, and spoons used for eating food
+AudioSet	Cutlery, silverware	knives, forks, and spoons used for eating food
+Dcase2017t4	Cutlery, silverware	knives, forks, and spoons used for eating food
+AudioSet	Pop music	modern popular music, usually with a strong beat, created with electrical or electronic equipment, and easy to listen to and remember
+Dcase2017t4	Pop music	modern popular music, usually with a strong beat, created with electrical or electronic equipment, and easy to listen to and remember
+AudioSet	Electronica	music made using instruments such as synthesizers (= electronic keyboards) and electronic drums, often containing samples (= small pieces) of recorded sound. There are many different types of electronica
+Dcase2017t4	Electronica	music made using instruments such as synthesizers (= electronic keyboards) and electronic drums, often containing samples (= small pieces) of recorded sound. There are many different types of electronica
+AudioSet	Classical music	music that is considered to be part of a long, formal tradition and to have lasting value
+AudioSet	Theme music	music that is written for and played during a particular television programme or film
+Dcase2017t4	Theme music	music that is written for and played during a particular television programme or film
+AudioSet	Mallet percussion	musical instruments that you play by hitting them with your hand or an object such as a stick
+Dcase2017t4	Mallet percussion	musical instruments that you play by hitting them with your hand or an object such as a stick
+Fsd50k	Mallet_percussion	musical instruments that you play by hitting them with your hand or an object such as a stick
+Fsd50k	Percussion	musical instruments that you play by hitting them with your hand or an object such as a stick
+AudioSet	Percussion	musical instruments that you play by hitting them with your hand or an object such as a stick
+Dcase2017t4	Percussion	musical instruments that you play by hitting them with your hand or an object such as a stick
+AudioSet	Static	noise on a radio or television caused by electricity in the air
+AudioSet	Snoring	noisy breathing while you are sleeping
+ESC50	snoring	noisy breathing while you are sleeping
+AudioSet	Outside, rural or natural	not inside a building
+Dcase2017t4	Outside, rural or natural	not inside a building
+AudioSet	Outside, urban or manmade	not inside a building
+Dcase2017t4	Outside, urban or manmade	not inside a building
+AudioSet	Flap	part of the back of an aircraft wing that can be moved up or down to help the aircraft go up or down
+AudioSet	Pizzicato	played by plucking the strings of a musical instrument such as a violin or cello with the fingers instead of using a bow
+Dcase2017t4	Pizzicato	played by plucking the strings of a musical instrument such as a violin or cello with the fingers instead of using a bow
+AudioSet	Tapping (guitar technique)	playing technique that can be used on any stringed instrument, but which is most commonly used on guitar
+AudioSet	House music	popular dance music with a fast regular beat, usually produced on electronic equipment
+Dcase2017t4	House music	popular dance music with a fast regular beat, usually produced on electronic equipment
+AudioSet	Soul music	popular music that expresses deep feelings, originally performed by Black Americans
+Dcase2017t4	Soul music	popular music that expresses deep feelings, originally performed by Black Americans
+AudioSet	Artillery fire	ranged weapons that launch munitions far beyond the range and power of infantry firearms
+Fsd50k	Cheering	shouts of encouragement and approval
+AudioSet	Cheering	shouts of encouragement and approval
+Dcase2017t4	Cheering	shouts of encouragement and approval
+ESC50	fireworks	small containers filled with explosive chemicals that make a loud noise when they explode and sometimes produce bright, colored patterns
+Fsd50k	Fireworks	small containers filled with explosive chemicals that make a loud noise when they explode and sometimes produce bright, colored patterns
+AudioSet	Fireworks	small containers filled with explosive chemicals that make a loud noise when they explode and sometimes produce bright, colored patterns
+AudioSet	Baby cry, infant cry	someone, usually a child, who cries a lot without good reason
+Dcase2017t4	Baby cry, infant cry	someone, usually a child, who cries a lot without good reason
+ESC50	crying_baby	someone, usually a child, who cries a lot without good reason
+Fsd50k	Animal	something that lives and moves but is not a human, bird, fish, or insect
+AudioSet	Animal	something that lives and moves but is not a human, bird, fish, or insect
+Dcase2017t4	Animal	something that lives and moves but is not a human, bird, fish, or insect
+ESC50	engine	something that provides power, often economic power, for other things
+AudioSet	Music of Bollywood	songs featured in Hindi films
+Dcase2017t4	Music of Bollywood	songs featured in Hindi films
+AudioSet	A capella	sung by a group of people without any musical instruments
+AudioSet	Female speech, woman speaking	the ability to talk, the activity of talking, or a piece of spoken language
+Dcase2017t4	Female speech, woman speaking	the ability to talk, the activity of talking, or a piece of spoken language
+Fsd50k	Female_speech_and_woman_speaking	the ability to talk, the activity of talking, or a piece of spoken language
+AudioSet	Male speech, man speaking	the ability to talk, the activity of talking, or a piece of spoken language
+Dcase2017t4	Male speech, man speaking	the ability to talk, the activity of talking, or a piece of spoken language
+Fsd50k	Male_speech_and_man_speaking	the ability to talk, the activity of talking, or a piece of spoken language
+Fsd50k	Speech	the ability to talk, the activity of talking, or a piece of spoken language
+AudioSet	Speech	the ability to talk, the activity of talking, or a piece of spoken language
+Dcase2017t4	Speech	the ability to talk, the activity of talking, or a piece of spoken language
+AudioSet	Speech synthesizer	the ability to talk, the activity of talking, or a piece of spoken language
+Fsd50k	Speech_synthesizer	the ability to talk, the activity of talking, or a piece of spoken language
+AudioSet	Finger snapping	the act of creating a snapping or clicking sound with one's fingers
+Dcase2017t4	Finger snapping	the act of creating a snapping or clicking sound with one's fingers
+Fsd50k	Finger_snapping	the act of creating a snapping or clicking sound with one's fingers
+Fsd50k	Crying_and_sobbing	the act of crying, or the sound of someone crying
+AudioSet	Crying, sobbing	the act of crying, or the sound of someone crying
+Dcase2017t4	Crying, sobbing	the act of crying, or the sound of someone crying
+AudioSet	Clicking	the act of pressing a button on the mouse (= small control device) of a computer to operate it
+AudioSet	Stir	the act of stirring a liquid or other substance in order to mix it
+ESC50	breathing	the act or process of taking air into your lungs and releasing it
+Fsd50k	Breathing	the act or process of taking air into your lungs and releasing it
+AudioSet	Breathing	the act or process of taking air into your lungs and releasing it
+AudioSet	Squish	the act or sound of crushing something that is soft
+AudioSet	Baby laughter	the act or sound of laughing
+Fsd50k	Laughter	the act or sound of laughing
+AudioSet	Laughter	the act or sound of laughing
+Dcase2017t4	Laughter	the act or sound of laughing
+AudioSet	Flap	the action of a bird waving its wings when flying, or of something else moving in this way
+ESC50	glass_breaking	the action of damaging or destroying a glass object
+AudioSet	Child singing	the activity of making musical sounds with the voice, usually a tune with words
+Dcase2017t4	Child singing	the activity of making musical sounds with the voice, usually a tune with words
+AudioSet	Female singing	the activity of making musical sounds with the voice, usually a tune with words
+Dcase2017t4	Female singing	the activity of making musical sounds with the voice, usually a tune with words
+Fsd50k	Female_singing	the activity of making musical sounds with the voice, usually a tune with words
+AudioSet	Male singing	the activity of making musical sounds with the voice, usually a tune with words
+Dcase2017t4	Male singing	the activity of making musical sounds with the voice, usually a tune with words
+Fsd50k	Male_singing	the activity of making musical sounds with the voice, usually a tune with words
+Fsd50k	Singing	the activity of making musical sounds with the voice, usually a tune with words
+AudioSet	Singing	the activity of making musical sounds with the voice, usually a tune with words
+Dcase2017t4	Singing	the activity of making musical sounds with the voice, usually a tune with words
+AudioSet	Synthetic singing	the activity of making musical sounds with the voice, usually a tune with words
+Dcase2017t4	Synthetic singing	the activity of making musical sounds with the voice, usually a tune with words
+AudioSet	Rapping	the activity of performing a style of popular music that involves speaking, rather than singing, words to music that has a strong rhythm
+Dcase2017t4	Rapping	the activity of performing a style of popular music that involves speaking, rather than singing, words to music that has a strong rhythm
+AudioSet	Beatboxing	the activity of using your mouth and voice to make sounds like a drum machine (= an electronic machine that produces drum sounds)
+AudioSet	Loop	the curved shape made when something long and thin, such as a piece of string, bends until one part of it nearly touches or crosses another part of it
+Fsd50k	Explosion	the fact of something such as a bomb exploding
+AudioSet	Explosion	the fact of something such as a bomb exploding
+Dcase2017t4	Explosion	the fact of something such as a bomb exploding
+ESC50	cat	a small animal with fur, four legs, a tail, and claws, usually kept as a pet or for catching mice
+Fsd50k	Meow	the high crying sound of a cat
+AudioSet	Meow	the high crying sound of a cat
+Dcase2017t4	Meow	the high crying sound of a cat
+AudioSet	Steam	the hot gas that is produced when water boils
+Dcase2017t4	Steam	the hot gas that is produced when water boils
+AudioSet	Double bass	the largest musical instrument of the violin family. It plays the lowest line of music in orchestral music and in jazz.
+Dcase2017t4	Double bass	the largest musical instrument of the violin family. It plays the lowest line of music in orchestral music and in jazz.
+AudioSet	Crowing, cock-a-doodle-doo	the long call that a male chicken makes
+Dcase2017t4	Crowing, cock-a-doodle-doo	the long call that a male chicken makes
+AudioSet	Caw	the loud, rough cry of a bird such as a crow
+AudioSet	Bassline	the low notes and rhythm created in a piece of music by an instrument that plays low notes, usually a bass guitar (= an electric guitar with four strings) or double bass (= a instrument similar to a very large violin)
+AudioSet	Bird vocalization, bird call, bird song	the musical sound that a bird makes
+Dcase2017t4	Bird vocalization, bird call, bird song	the musical sound that a bird makes
+Fsd50k	Bird_vocalization_and_bird_call_and_bird_song	the musical sound that a bird makes
+AudioSet	Traffic noise, roadway noise	the number of vehicles moving along roads, or the amount of aircraft, trains, or ships moving along a route
+Dcase2017t4	Traffic noise, roadway noise	the number of vehicles moving along roads, or the amount of aircraft, trains, or ships moving along a route
+Fsd50k	Traffic_noise_and_roadway_noise	the number of vehicles moving along roads, or the amount of aircraft, trains, or ships moving along a route
+ESC50	engine	the part of a railway train that pulls it along
+Fsd50k	Hands	the part of the body at the end of the arm that is used for holding, moving, touching, and feeling things
+AudioSet	Hands	the part of the body at the end of the arm that is used for holding, moving, touching, and feeling things
+Dcase2017t4	Hands	the part of the body at the end of the arm that is used for holding, moving, touching, and feeling things
+AudioSet	Pulse	the regular beating of the heart, especially when it is felt at the wrist or side of the neck
+AudioSet	Heart sounds, heartbeat	the regular movement or sound that the heart makes as it sends blood around your body
+AudioSet	Whack, thwack	the short, loud sound of something like a stick hitting a surface
+Dcase2017t4	Whack, thwack	the short, loud sound of something like a stick hitting a surface
+AudioSet	Hoot	the sound an owl makes
+ESC50	clock_tick	the sound clocks and watches make every second
+Fsd50k	Tick	the sound clocks and watches make every second
+AudioSet	Tick	the sound clocks and watches make every second
+Dcase2017t4	Tick	the sound clocks and watches make every second
+AudioSet	Ding-dong	the sound made by a bell
+Dcase2017t4	Ding-dong	the sound made by a bell
+AudioSet	Rustle	the sound made by the movement of things such as leaves or paper
+Dcase2017t4	Rustle	the sound made by the movement of things such as leaves or paper
+AudioSet	Sizzle	the sound of food cooking in hot fat
+Dcase2017t4	Sizzle	the sound of food cooking in hot fat
+AudioSet	Crunch	the sound of hard food being crushed between the teeth, or like something being crushed or broken
+Dcase2017t4	Crunch	the sound of hard food being crushed between the teeth, or like something being crushed or broken
+AudioSet	Drum roll	the sound of many quick beats played one after the other on a drum
+Dcase2017t4	Drum roll	the sound of many quick beats played one after the other on a drum
+Fsd50k	Applause	the sound of people clapping their hands repeatedly to show enjoyment or approval of something such as a performance or speech
+AudioSet	Applause	the sound of people clapping their hands repeatedly to show enjoyment or approval of something such as a performance or speech
+Dcase2017t4	Applause	the sound of people clapping their hands repeatedly to show enjoyment or approval of something such as a performance or speech
+ESC50	footsteps	the sound or mark made by a person walking as their foot touches the ground
+Fsd50k	Walk_and_footsteps	the sound or mark made by a person walking as their foot touches the ground
+AudioSet	Walk, footsteps	the sound or mark made by a person walking as their foot touches the ground
+Dcase2017t4	Walk, footsteps	the sound or mark made by a person walking as their foot touches the ground
+AudioSet	Moo	the sound that a cow makes
+AudioSet	Bow-wow	the sound that a dog makes
+Dcase2017t4	Bow-wow	the sound that a dog makes
+AudioSet	Quack	the sound that a duck makes
+Fsd50k	Ringtone	the sound that a phone makes, especially a mobile phone when someone calls it
+AudioSet	Ringtone	the sound that a phone makes, especially a mobile phone when someone calls it
+Fsd50k	Thump_and_thud	the sound that is made when something heavy falls or hits something else
+AudioSet	Thump, thud	the sound that is made when something heavy falls or hits something else
+Dcase2017t4	Thump, thud	the sound that is made when something heavy falls or hits something else
+AudioSet	Human voice	the sounds that are made when people speak or sing
+Fsd50k	Human_voice	the sounds that are made when people speak or sing
+Fsd50k	Thunder	the sudden loud noise that comes from the sky especially during a storm
+AudioSet	Thunder	the sudden loud noise that comes from the sky especially during a storm
+Dcase2017t4	Thunder	the sudden loud noise that comes from the sky especially during a storm
+AudioSet	Air conditioning	the system used for keeping the air in a building or vehicle cool
+Dcase2017t4	Air conditioning	the system used for keeping the air in a building or vehicle cool
+Fsd50k	Gunshot_and_gunfire	the usually repeated shooting of one or more guns
+AudioSet	Gunshot, gunfire	the usually repeated shooting of one or more guns
+Dcase2017t4	Gunshot, gunfire	the usually repeated shooting of one or more guns
+AudioSet	Kettle whistle	the whistle of a stove top kettle
+AudioSet	Chord	three or more musical notes played at the same time
+AudioSet	Shatter	to (cause something to) break suddenly into very small pieces
+Fsd50k	Shatter	to (cause something to) break suddenly into very small pieces
+Dcase2017t4	Shatter	to (cause something to) break suddenly into very small pieces
+AudioSet	Roll	to (cause something to) move somewhere by turning over and over or from side to side
+Dcase2017t4	Roll	to (cause something to) move somewhere by turning over and over or from side to side
+AudioSet	Breaking	to (cause something to) separate suddenly or violently into two or more pieces, or to (cause something to) stop working by being damaged
+Dcase2017t4	Breaking	to (cause something to) separate suddenly or violently into two or more pieces, or to (cause something to) stop working by being damaged
+Fsd50k	Slam	to (cause to) move against a hard surface with force and usually a loud noise
+AudioSet	Slam	to (cause to) move against a hard surface with force and usually a loud noise
+Dcase2017t4	Slam	to (cause to) move against a hard surface with force and usually a loud noise
+AudioSet	Bouncing	to (cause to) move up or away after hitting a surface
+Fsd50k	Burping_and_eructation	to allow air from the stomach to come out through the mouth in a noisy way
+AudioSet	Burping, eructation	to allow air from the stomach to come out through the mouth in a noisy way
+Dcase2017t4	Burping, eructation	to allow air from the stomach to come out through the mouth in a noisy way
+Fsd50k	Crumpling_and_crinkling	to become covered in many small lines and folds, or to cause something to do this
+AudioSet	Crumpling, crinkling	to become covered in many small lines and folds, or to cause something to do this
+AudioSet	Flap	to behave in a nervous and excited way
+AudioSet	Burst, pop	to break open or apart suddenly, or to make something do this
+Dcase2017t4	Burst, pop	to break open or apart suddenly, or to make something do this
+AudioSet	Crack	to break something so that it does not separate, but very thin lines appear on its surface, or to become broken in this way
+Dcase2017t4	Crack	to break something so that it does not separate, but very thin lines appear on its surface, or to become broken in this way
+Fsd50k	Sigh	to breathe out slowly and noisily, expressing tiredness, sadness, pleasure, etc.
+AudioSet	Sigh	to breathe out slowly and noisily, expressing tiredness, sadness, pleasure, etc.
+AudioSet	Pant	to breathe quickly and loudly through your mouth, usually because you have been doing something very energetic
+Dcase2017t4	Pant	to breathe quickly and loudly through your mouth, usually because you have been doing something very energetic
+ESC50	mouse_click	to carry out a computer operation by pressing a button on the mouse or keyboard
+AudioSet	Snap	to cause something that is thin to break suddenly and quickly with a cracking sound
+AudioSet	Smash, crash	to cause something to break noisily into a lot of small pieces
+Dcase2017t4	Smash, crash	to cause something to break noisily into a lot of small pieces
+AudioSet	Frying (food)	to cook food in hot oil or fat
+Dcase2017t4	Frying (food)	to cook food in hot oil or fat
+Fsd50k	Frying_(food)	to cook food in hot oil or fat
+Fsd50k	Chewing_and_mastication	to crush food into smaller, softer pieces with the teeth so that it can be swallowed
+AudioSet	Chewing, mastication	to crush food into smaller, softer pieces with the teeth so that it can be swallowed
+Fsd50k	Screaming	to cry or say something loudly and usually on a high note, especially because of strong emotions such as fear, excitement, or anger
+AudioSet	Screaming	to cry or say something loudly and usually on a high note, especially because of strong emotions such as fear, excitement, or anger
+Dcase2017t4	Screaming	to cry or say something loudly and usually on a high note, especially because of strong emotions such as fear, excitement, or anger
+AudioSet	Scratch	to cut or damage a surface or your skin slightly with or on something sharp or rough
+AudioSet	Chopping (food)	to cut something into pieces with an axe, knife, or other sharp instrument
+Fsd50k	Sawing	to cut wood or other hard material using a saw
+AudioSet	Sawing	to cut wood or other hard material using a saw
+Dcase2017t4	Sawing	to cut wood or other hard material using a saw
+AudioSet	Gobble	to eat food too fast
+AudioSet	Gush	to flow or send out quickly and in large amounts
+Fsd50k	Cough	to force air out of your lungs through your throat with a short, loud sound
+AudioSet	Cough	to force air out of your lungs through your throat with a short, loud sound
+ESC50	coughing	to force air out of your lungs through your throat with a short, loud sound
+AudioSet	Slap, smack	to hit someone or something forcefully with the flat inside part of your hand, producing a short, loud noise, especially as a way of punishing a child
+Dcase2017t4	Slap, smack	to hit someone or something forcefully with the flat inside part of your hand, producing a short, loud noise, especially as a way of punishing a child
+Fsd50k	Tap	to hit something gently, and often repeatedly, especially making short, sharp noises
+AudioSet	Tap	to hit something gently, and often repeatedly, especially making short, sharp noises
+Dcase2017t4	Tap	to hit something gently, and often repeatedly, especially making short, sharp noises
+Fsd50k	Accelerating_and_revving_and_vroom	to increase the operating speed of an engine while the vehicle is not moving, usually to warm it to the correct temperature
+AudioSet	Accelerating, revving, vroom	to increase the operating speed of an engine while the vehicle is not moving, usually to warm it to the correct temperature
+Dcase2017t4	Accelerating, revving, vroom	to increase the operating speed of an engine while the vehicle is not moving, usually to warm it to the correct temperature
+Fsd50k	Chuckle_and_chortle	to laugh quietly
+AudioSet	Chuckle, chortle	to laugh quietly
+Dcase2017t4	Chuckle, chortle	to laugh quietly
+Fsd50k	Giggle	to laugh repeatedly in a quiet but uncontrolled way, often at something silly or rude or when you are nervous
+AudioSet	Giggle	to laugh repeatedly in a quiet but uncontrolled way, often at something silly or rude or when you are nervous
+Dcase2017t4	Giggle	to laugh repeatedly in a quiet but uncontrolled way, often at something silly or rude or when you are nervous
+AudioSet	Humming	to make a continuous low sound
+AudioSet	Mains hum	to make a continuous low sound
+Fsd50k	Buzz	to make a continuous, low sound such as the one a bee makes
+AudioSet	Buzz	to make a continuous, low sound such as the one a bee makes
+Dcase2017t4	Buzz	to make a continuous, low sound such as the one a bee makes
+AudioSet	Whistle	to make a high sound by forcing air through a small hole or passage, especially through the lips, or through a special device held to the lips
+Dcase2017t4	Whistle	to make a high sound by forcing air through a small hole or passage, especially through the lips, or through a special device held to the lips
+AudioSet	Whistling	to make a high sound by forcing air through a small hole or passage, especially through the lips, or through a special device held to the lips
+AudioSet	Wheeze	to make a high, rough noise while breathing because of some breathing difficulty
+Dcase2017t4	Wheeze	to make a high, rough noise while breathing because of some breathing difficulty
+UrbanSound8K	drilling	to make a hole in something using a special tool
+AudioSet	Roar	to make a long, loud, deep sound
+Dcase2017t4	Roar	to make a long, loud, deep sound
+AudioSet	Wail, moan	to make a long, low sound of pain, suffering, or another strong emotion
+AudioSet	Tire squeal	to make a long, very high sound or cry
+Dcase2017t4	Tire squeal	to make a long, very high sound or cry
+AudioSet	Train wheels squealing	to make a long, very high sound or cry
+Dcase2017t4	Train wheels squealing	to make a long, very high sound or cry
+AudioSet	Clang	to make a loud deep ringing sound like that of metal being hit, or to cause something to make this sound
+Dcase2017t4	Clang	to make a loud deep ringing sound like that of metal being hit, or to cause something to make this sound
+Fsd50k	Hiss	to make a noise like a long s sound
+AudioSet	Hiss	to make a noise like a long s sound
+Dcase2017t4	Hiss	to make a noise like a long s sound
+Fsd50k	Purr	to make a quiet, continuous, soft sound
+AudioSet	Purr	to make a quiet, continuous, soft sound
+Dcase2017t4	Purr	to make a quiet, continuous, soft sound
+ESC50	clapping	to make a short loud noise by hitting your hands together
+Fsd50k	Clapping	to make a short loud noise by hitting your hands together
+AudioSet	Clapping	to make a short loud noise by hitting your hands together
+Dcase2017t4	Clapping	to make a short loud noise by hitting your hands together
+AudioSet	Toot	to make a short sound or series of short sounds, especially with the horn of a car as a warning
+Dcase2017t4	Toot	to make a short sound or series of short sounds, especially with the horn of a car as a warning
+Fsd50k	Squeak	to make a short, very high cry or sound
+AudioSet	Squeak	to make a short, very high cry or sound
+Fsd50k	Pour	to make a substance flow from a container, especially into another container, by raising just one side of the container that the substance is in
+AudioSet	Pour	to make a substance flow from a container, especially into another container, by raising just one side of the container that the substance is in
+ESC50	pouring_water	to make a substance flow from a container, especially into another container, by raising just one side of the container that the substance is in
+AudioSet	Snort	to make an explosive sound by forcing air quickly up or down the nose
+AudioSet	Snort (horse)	to make an explosive sound by forcing air quickly up or down the nose
+AudioSet	Clatter	to make continuous loud noises by hitting hard objects against each other, or to cause objects to do this
+Dcase2017t4	Clatter	to make continuous loud noises by hitting hard objects against each other, or to cause objects to do this
+AudioSet	Sanding	to make something smooth by rubbing it with something rough, especially sandpaper (= strong paper with sand attached to it)
+AudioSet	Cluck	to make the low, interrupted noise that a chicken makes
+Dcase2017t4	Cluck	to make the low, interrupted noise that a chicken makes
+AudioSet	Oink	to make the noise that a pig makes
+Dcase2017t4	Oink	to make the noise that a pig makes
+AudioSet	Gobble	to make the sound of a male turkey
+AudioSet	Gargling	to move a liquid around in your throat without swallowing, especially to clean it or stop it feeling painful
+Fsd50k	Strum	to move your fingers across the strings of a guitar or similar instrument
+AudioSet	Strum	to move your fingers across the strings of a guitar or similar instrument
+Dcase2017t4	Strum	to move your fingers across the strings of a guitar or similar instrument
+AudioSet	Fill (with liquid)	to pour a liquid in a very thin stream, or so that drops fall continuously
+Fsd50k	Fill_(with_liquid)	to pour a liquid in a very thin stream, or so that drops fall continuously
+Fsd50k	Trickle_and_dribble	to pour a liquid in a very thin stream, or so that drops fall continuously
+AudioSet	Trickle, dribble	to pour a liquid in a very thin stream, or so that drops fall continuously
+Dcase2017t4	Trickle, dribble	to pour a liquid in a very thin stream, or so that drops fall continuously
+AudioSet	Rub	to press or be pressed against something with a circular or up-and-down repeated movement
+Fsd50k	Crushing	to press something very hard so that it is broken or its shape is destroyed
+AudioSet	Crushing	to press something very hard so that it is broken or its shape is destroyed
+Dcase2017t4	Crushing	to press something very hard so that it is broken or its shape is destroyed
+Fsd50k	Tearing	to pull or be pulled apart, or to pull pieces off
+AudioSet	Tearing	to pull or be pulled apart, or to pull pieces off
+Fsd50k	Fart	to release gas from the bowels through the bottom
+AudioSet	Fart	to release gas from the bowels through the bottom
+Dcase2017t4	Fart	to release gas from the bowels through the bottom
+AudioSet	Scrape	to remove an unwanted covering or a top layer from something, especially using a sharp edge or something rough
+Dcase2017t4	Scrape	to remove an unwanted covering or a top layer from something, especially using a sharp edge or something rough
+ESC50	door_wood_knock	to repeatedly hit something, producing a noise
+Fsd50k	Knock	to repeatedly hit something, producing a noise
+AudioSet	Knock	to repeatedly hit something, producing a noise
+Dcase2017t4	Knock	to repeatedly hit something, producing a noise
+AudioSet	Child speech, kid speaking	to say words, to use the voice, or to have a conversation with someone
+Dcase2017t4	Child speech, kid speaking	to say words, to use the voice, or to have a conversation with someone
+Fsd50k	Child_speech_and_kid_speaking	to say words, to use the voice, or to have a conversation with someone
+AudioSet	Children playing	to say words, to use the voice, or to have a conversation with someone
+AudioSet	Bellow	to shout in a loud voice, or (of a cow or large animal) to make a loud, deep sound
+Fsd50k	Yell	to shout something or make a loud noise, usually when you are angry, in pain, or excited
+AudioSet	Yell	to shout something or make a loud noise, usually when you are angry, in pain, or excited
+Dcase2017t4	Yell	to shout something or make a loud noise, usually when you are angry, in pain, or excited
+AudioSet	Chant	to sing a religious prayer or song to a simple tune
+AudioSet	Yodeling	to sing by making a series of very fast changes between the natural voice and a much higher voice
+ESC50	laughing	to smile while making sounds with your voice that show you think something is funny or you are happy
+AudioSet	Drum beat	to speak enthusiastically about a belief or idea in order to persuade other people to support it too
+AudioSet	Children shouting	to speak with a very loud voice, often as loud as possible, usually when you want to make yourself heard in noisy situations, or when the person you are talking to is a long way away or cannot hear very well
+Dcase2017t4	Children shouting	to speak with a very loud voice, often as loud as possible, usually when you want to make yourself heard in noisy situations, or when the person you are talking to is a long way away or cannot hear very well
+Fsd50k	Shout	to speak with a very loud voice, often as loud as possible, usually when you want to make yourself heard in noisy situations, or when the person you are talking to is a long way away or cannot hear very well
+AudioSet	Shout	to speak with a very loud voice, often as loud as possible, usually when you want to make yourself heard in noisy situations, or when the person you are talking to is a long way away or cannot hear very well
+Dcase2017t4	Shout	to speak with a very loud voice, often as loud as possible, usually when you want to make yourself heard in noisy situations, or when the person you are talking to is a long way away or cannot hear very well
+Fsd50k	Gasp	to take a short, quick breath through the mouth, especially because of surprise, pain, or shock
+AudioSet	Gasp	to take a short, quick breath through the mouth, especially because of surprise, pain, or shock
+Dcase2017t4	Gasp	to take a short, quick breath through the mouth, especially because of surprise, pain, or shock
+ESC50	drinking_sipping	to take liquid into the body through the mouth
+Fsd50k	Chatter	to talk for a long time about things that are not important
+AudioSet	Chatter	to talk for a long time about things that are not important
+Dcase2017t4	Chatter	to talk for a long time about things that are not important
+AudioSet	Hubbub, speech noise, speech babble	to talk or say something in a quick, confused, excited, or silly way
+Dcase2017t4	Hubbub, speech noise, speech babble	to talk or say something in a quick, confused, excited, or silly way
+AudioSet	Biting	to use your teeth to cut into something or someone
+Dcase2017t4	Biting	to use your teeth to cut into something or someone
+AudioSet	Shuffle	to walk by pulling your feet slowly along the ground rather than lifting them
+AudioSet	Bird flight, flapping wings	to wave something, especially wings when or as if flying
+AudioSet	Flap	to wave something, especially wings when or as if flying
+AudioSet	Computer keyboard	to write using a machine, either a computer keyboard or a typewriter
+Fsd50k	Computer_keyboard	to write using a machine, either a computer keyboard or a typewriter
+ESC50	keyboard_typing	to write using a machine, either a computer keyboard or a typewriter
+Fsd50k	Typing	to write using a machine, either a computer keyboard or a typewriter
+AudioSet	Typing	to write using a machine, either a computer keyboard or a typewriter
+AudioSet	Folk music	traditional music from a particular country or region, or modern music and songs that are in a similar style
+AudioSet	Wild animals	undomesticated animal species, but has come to include all organisms that grow or live wild in an area without being introduced by humans
+Dcase2017t4	Wild animals	undomesticated animal species, but has come to include all organisms that grow or live wild in an area without being introduced by humans
+Fsd50k	Wild_animals	undomesticated animal species, but has come to include all organisms that grow or live wild in an area without being introduced by humans
+Fsd50k	Stream	water that flows naturally along a fixed route formed by a channel cut into rock or ground, usually at ground level
+AudioSet	Stream	water that flows naturally along a fixed route formed by a channel cut into rock or ground, usually at ground level
+Dcase2017t4	Stream	water that flows naturally along a fixed route formed by a channel cut into rock or ground, usually at ground level
+AudioSet	Waterfall	water, especially from a river or stream, dropping from a higher to a lower point, sometimes from a great height
+Dcase2017t4	Waterfall	water, especially from a river or stream, dropping from a higher to a lower point, sometimes from a great height
+AudioSet	Bleat	When a sheep or goat bleats, it makes the typical sound of these animals.
+Dcase2017t4	Bleat	When a sheep or goat bleats, it makes the typical sound of these animals.
+AudioSet	Eruption	When a volcano erupts, it explodes and flames and rocks come out of it
+Dcase2017t4	Eruption	When a volcano erupts, it explodes and flames and rocks come out of it
+AudioSet	Croak	When animals such as frogs and crows croak, they make deep rough sounds.
+AudioSet	Coo	When birds such as doves and pigeons coo, they make a low soft sound.
+Fsd50k	Sneeze	When you sneeze, air and often small drops of liquid suddenly come out of your nose and mouth in a way you cannot control
+AudioSet	Sneeze	When you sneeze, air and often small drops of liquid suddenly come out of your nose and mouth in a way you cannot control
+ESC50	sneezing	When you sneeze, air and often small drops of liquid suddenly come out of your nose and mouth in a way you cannot control
+AudioSet	Basketball bounce	The sound of a basketball bouncing on a hard surface, such as a basketball court
+Dcase2017t4	Basketball bounce	The sound of a basketball bouncing on a hard surface, such as a basketball court
+AudioSet	Bathtub (filling or washing)	Sounds originating from a large container for holding water in which a person may bathe
+Fsd50k	Bathtub_(filling_or_washing)	Sounds originating from a large container for holding water in which a person may bathe
+AudioSet	Boing	A bouncing or spring-like sound with a tonal component that sweeps upwards
+Dcase2017t4	Boing	A bouncing or spring-like sound with a tonal component that sweeps upwards
+ESC50	brushing_teeth	The act of cleaning one's teeth with a toothbrush and toothpaste to remove plaque and maintain oral hygiene
+ESC50	can_opening	The sound of a sharp snap and a crisp hiss as the tab lifts the lid, breaking the seal and releasing pressure
+UrbanSound8K	children_playing	The sound of children at play, including any of vocalization or the sounds of their activities
+AudioSet	Domestic sounds, home sounds	Sounds that suggest they have been recorded in the home
+Fsd50k	Domestic_sounds_and_home_sounds	Sounds that suggest they have been recorded in the home
+ESC50	door_wood_creaks	Abrupt sounds of individual ruptures in a rigid substance under stress
+AudioSet	Filing (rasp)	Sounds of a common wood- and metal-working tool used to remove fine amounts of material from a workpiece
+AudioSet	Human group actions	Sounds produced by groups of humans rather than individuals
+Fsd50k	Human_group_actions	Sounds produced by groups of humans rather than individuals
+AudioSet	Shuffling cards	The sound of playing cards being manually rearranged into a random order
+Dcase2017t4	Snicker	A disrespectful laugh
+ESC50	water_drops	Sounds clearly attributable to drops of water
+TUT2017	beach	An area of sand or small stones near the sea or another area of water such as a lake
+TUT2017	bus	A large vehicle in which people are driven from one place to another 
+TUT2017	cafe/restaurant	A restaurant where simple and usually quite cheap meals are served
+TUT2017	car	A road vehicle with an engine, usually four wheels, and seating for between one and five people
+TUT2017	city_center	The central part of a city
+TUT2017	forest_path	Path in a woodland area
+TUT2017	grocery_store	A shop that sells food and small things that are often needed in the home
+TUT2017	home	The house, apartment, etc. where you live, especially with your family
+TUT2017	library	A building, room, or organization that has a collection esp. of books, music, and information that can be accessed by computer for people to read, use, or borrow
+TUT2017	metro_station	An underground electric railway system in some cities
+TUT2017	office	A room or part of a building in which people work, especially sitting at tables with computers, phones, etc., usually as a part of a business or other organization
+TUT2017	park	A large area of land with grass and trees which is maintained for the pleasure of the public
+TUT2017	residential_area	A district where people live; occupied primarily by private residences
+TUT2017	train	A railroad engine and the connected, wheeled containers it pulls along the tracks in carrying goods or people
+TUT2017	tram	An electric vehicle that transports people, usually in cities, and goes along metal tracks in the road

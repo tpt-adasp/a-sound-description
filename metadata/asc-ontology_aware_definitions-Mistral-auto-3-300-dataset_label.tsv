@@ -1,0 +1,45 @@
+label	definition
+park	A public space with trees, grass, and other natural features, often featuring playgrounds, benches, and walking paths, characterized by the sounds of birds, leaves rustling, and children playing.
+Cafe	A small establishment serving coffee, tea, and light food, often featuring the sounds of clinking dishes, chatter, and the hum of a coffee machine.
+Bus	A large vehicle designed for transportation, characterized by the sounds of its engine, brakes, and the chatter of passengers, often featuring a hiss or whistle sound when stopping.
+forest_path	The rustling of leaves and twigs underfoot, accompanied by the occasional bird call or squirrel scampering, belonging to the category of natural environmental sounds.
+tube	The metallic clanging and rumbling produced by trains moving through a tunnel, classified under transportation-related sounds.
+city_center	The cacophony of car horns, pedestrian chatter, and distant sirens, often punctuated by the sound of traffic lights changing, categorized as urban sounds.
+quietstreet	A street with minimal traffic and low levels of noise, characterized by the absence of honking horns and other loud sounds, often associated with residential areas.
+street_traffic	The sounds produced by vehicles moving on a street, including honking horns, screeching brakes, and engine noise, classified under transportation-related sounds.
+Restaurant	The sounds produced in a restaurant, including the clinking of dishes, chatter of patrons, and the sizzling of food, categorized as culinary or food-related sounds.
+residential_area	A quiet, peaceful environment characterized by the sounds of people and household activities, such as footsteps, appliances, and conversations, often with a mix of ambient noise from the surrounding area.
+cafe/restaurant	A bustling, lively environment characterized by the sounds of clinking dishes, chatter, and background music, often with a mix of ambient noise from the surrounding area.
+	Not applicable.
+openairmarket	'The bustling sounds of vendors selling goods, people chatting, and carts rolling, often accompanied by the clinking of dishes and utensils, classified under urban sounds and activities.'
+ResidentialArea	'The soft, ambient sounds of people going about their daily routines, such as door opening and closing, footsteps, and conversations, often characterized by a sense of familiarity and comfort, categorized as domestic sounds.'
+tram	The rhythmic, metallic clanging and grinding sounds produced by the movement of a tram, often accompanied by the chatter of passengers and the screeching of brakes, classified under transportation-related sounds.
+metro_station	The ambient sounds of a metro station, including footsteps, distant conversations, and the rumble of trains.
+grocery_store	The sounds of a grocery store, including the rustling of bags, the clinking of carts, and the chatter of customers.
+street_pedestrian	The sounds of people walking on a street, including footsteps, the clatter of shoes, and the occasional car horn.
+airport	'The continuous, low-pitched hum of engines and other machinery, punctuated by occasional announcements and footsteps, often accompanied by the sound of rolling suitcases and overhead announcements, classified under transportation-related sounds.'
+restaurant	'The sound of dishes clinking, utensils scraping, and people chatting, often accompanied by the sizzling of food and the sound of a kitchen, categorized as human activities or movement sounds.'
+office	The sound of typing, paper rustling, and low-level conversations, often punctuated by the sound of a printer or photocopier, classified under human activities or movement sounds.
+beach	The sound of waves crashing on the shore, characterized by their rhythmic patterns and varying intensity, belonging to the category of natural environmental sounds.
+train	The continuous, rhythmic sound produced by the wheels of a train moving on tracks, often accompanied by braking or whistle sounds, classified under transportation-related sounds.
+Elevator	'The soft, steady sound produced by the movement of elevator doors and cars, often accompanied by beeping or chime sounds, categorized as mechanical sounds.'
+unknown	An unidentifiable sound or noise that cannot be categorized within the audio classification ontology.
+metro	The continuous, rhythmic sound produced by the trains in a subway system, characterized by its intensity and white noise-like qualities, classified under transportation-related sounds.
+Subway	The continuous, rhythmic sound produced by the trains in a subway system, characterized by its intensity and white noise-like qualities, classified under transportation-related sounds.
+Car	A mechanical vehicle designed for transportation, characterized by its engine noise and the sound of tires rolling on the road.
+public_square	An open, communal space in a city or town, often characterized by the sound of people chatting, footsteps, and the ambient noise of the surrounding environment.
+tubestation	A public transportation hub, characterized by the sound of trains arriving and departing, as well as the ambient noise of the surrounding environment.
+home	A residential environment characterized by a mix of ambient sounds such as footsteps, voices, and appliances, often with a sense of comfort and familiarity.
+busystreet	A bustling urban environment characterized by a mix of sounds such as car horns, pedestrians, and street vendors, often with a sense of energy and excitement.
+Restroom	A public or private space designed for personal hygiene and sanitation, characterized by the sound of flushing toilets, running water, and hand dryers, often with a sense of cleanliness and privacy.
+Kitchen	'The sound of pots and pans clattering, utensils scraping against dishes, and the sizzling of food cooking on a stove, often accompanied by the sound of a refrigerator or dishwasher, classified under kitchen sounds.'
+SubwayStation	'The rumbling sound of trains arriving and departing, the distant echo of announcements, and the occasional screeching of brakes, categorized under transportation sounds.'
+Library	'The soft rustling of pages turning, the occasional whispering or murmuring of patrons, and the distant sound of books being returned, classified under human activities or movement sounds in a library setting.'
+Park	An open space with trees, grass, and benches, often featuring playgrounds and other recreational facilities, characterized by the sounds of children playing, birds singing, and leaves rustling.
+CrowdedIndoor	The sound of many people talking, laughing, and moving around in a confined space, often characterized by overlapping voices and footsteps.
+Street	The sound of traffic, including cars, buses, and motorcycles, as well as pedestrians, street vendors, and other sounds associated with urban environments.
+supermarket	The sound of shopping carts rolling, people chatting, and the rustling of packaging, often accompanied by background music and announcements.
+shopping_mall	A bustling, enclosed space with multiple stores, characterized by the sounds of people shopping, chatter, and background music.
+bus	A large, motorized vehicle designed for transportation, characterized by the sounds of the engine, brakes, and doors opening and closing.
+car	A mechanical vehicle designed for transportation, characterized by its engine noise and the sound of tires rolling on the road.
+library	A building or space dedicated to the storage, preservation, and dissemination of knowledge, often characterized by the sound of turning pages and hushed conversations.
